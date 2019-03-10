@@ -1,0 +1,939 @@
+SP@nm@Adamantina@nm@17800000@nm@M@nm@
+SP@nm@Adolfo@nm@15230000@nm@M@nm@
+SP@nm@Agisse@nm@19610000@nm@D@nm@
+SP@nm@Água Vermelha@nm@13578000@nm@D@nm@
+SP@nm@Aguaí@nm@13860000@nm@M@nm@
+SP@nm@Águas da Prata@nm@13890000@nm@M@nm@
+SP@nm@Águas de Lindóia@nm@13940000@nm@M@nm@
+SP@nm@Águas de Santa Bárbara@nm@18770000@nm@M@nm@
+SP@nm@Águas de São Pedro@nm@13525000@nm@M@nm@
+SP@nm@Agudos@nm@17120000@nm@M@nm@
+SP@nm@Agulha@nm@15945000@nm@D@nm@
+SP@nm@Ajapi@nm@13508000@nm@D@nm@
+SP@nm@Alambari@nm@18220000@nm@M@nm@
+SP@nm@Alberto Moreira@nm@14788000@nm@D@nm@
+SP@nm@Aldeia@nm@@nm@D@nm@
+SP@nm@Aldeia de Carapicuíba@nm@@nm@D@nm@
+SP@nm@Alfredo Guedes@nm@18688000@nm@D@nm@
+SP@nm@Alfredo Marcondes@nm@19180000@nm@M@nm@
+SP@nm@Altair@nm@15430000@nm@M@nm@
+SP@nm@Altinópolis@nm@14350000@nm@M@nm@
+SP@nm@Alto Alegre@nm@16310000@nm@M@nm@
+SP@nm@Alto Porã@nm@14480000@nm@D@nm@
+SP@nm@Alumínio@nm@18125000@nm@M@nm@
+SP@nm@Álvares Florence@nm@15540000@nm@M@nm@
+SP@nm@Álvares Machado@nm@19160000@nm@M@nm@
+SP@nm@Álvaro de Carvalho@nm@17410000@nm@M@nm@
+SP@nm@Alvinlândia@nm@17430000@nm@M@nm@
+SP@nm@Amadeu Amaral@nm@@nm@D@nm@
+SP@nm@Amandaba@nm@16820000@nm@D@nm@
+SP@nm@Ameliópolis@nm@@nm@D@nm@
+SP@nm@Americana@nm@@nm@M@nm@
+SP@nm@Américo Brasiliense@nm@14820000@nm@M@nm@
+SP@nm@Américo de Campos@nm@15550000@nm@M@nm@
+SP@nm@Amparo@nm@@nm@M@nm@
+SP@nm@Ana Dias@nm@11770000@nm@D@nm@
+SP@nm@Analândia@nm@13550000@nm@M@nm@
+SP@nm@Anápolis@nm@17685000@nm@D@nm@
+SP@nm@Andes@nm@@nm@P@nm@
+SP@nm@Andradina@nm@@nm@M@nm@
+SP@nm@Angatuba@nm@18240000@nm@M@nm@
+SP@nm@Anhembi@nm@18620000@nm@M@nm@
+SP@nm@Anhumas@nm@19580000@nm@M@nm@
+SP@nm@Aparecida@nm@12570000@nm@M@nm@
+SP@nm@Aparecida de Monte Alto@nm@15915000@nm@D@nm@
+SP@nm@Aparecida de São Manuel@nm@18655000@nm@D@nm@
+SP@nm@Aparecida do Bonito@nm@15783000@nm@D@nm@
+SP@nm@Aparecida D'Oeste@nm@15735000@nm@M@nm@
+SP@nm@Apiaí@nm@18320000@nm@M@nm@
+SP@nm@Apiaí-Mirim@nm@18309000@nm@D@nm@
+SP@nm@Arabá@nm@15688000@nm@P@nm@
+SP@nm@Arabela@nm@17925000@nm@D@nm@
+SP@nm@Aracaçu@nm@18295000@nm@D@nm@
+SP@nm@Araçaíba@nm@18323000@nm@D@nm@
+SP@nm@Araçariguama@nm@18147000@nm@M@nm@
+SP@nm@Araçatuba@nm@@nm@M@nm@
+SP@nm@Araçoiaba da Serra@nm@18190000@nm@M@nm@
+SP@nm@Aramina@nm@14550000@nm@M@nm@
+SP@nm@Arandu@nm@18710000@nm@M@nm@
+SP@nm@Arapeí@nm@12870000@nm@M@nm@
+SP@nm@Araraquara@nm@@nm@M@nm@
+SP@nm@Araras@nm@@nm@M@nm@
+SP@nm@Araxás@nm@19310000@nm@D@nm@
+SP@nm@Arcadas@nm@@nm@D@nm@
+SP@nm@Arco-Íris@nm@17630000@nm@M@nm@
+SP@nm@Arealva@nm@17160000@nm@M@nm@
+SP@nm@Areias@nm@12820000@nm@M@nm@
+SP@nm@Areiópolis@nm@18670000@nm@M@nm@
+SP@nm@Ariranha@nm@15960000@nm@M@nm@
+SP@nm@Ariri@nm@11995000@nm@D@nm@
+SP@nm@Ártemis@nm@@nm@D@nm@
+SP@nm@Artur Nogueira@nm@13160000@nm@M@nm@
+SP@nm@Arujá@nm@@nm@M@nm@
+SP@nm@Aspásia@nm@15763000@nm@M@nm@
+SP@nm@Assis@nm@@nm@M@nm@
+SP@nm@Assistência@nm@13509000@nm@D@nm@
+SP@nm@Atibaia@nm@@nm@M@nm@
+SP@nm@Atlântida@nm@17840000@nm@D@nm@
+SP@nm@Auriflama@nm@15350000@nm@M@nm@
+SP@nm@Avaí@nm@16680000@nm@M@nm@
+SP@nm@Avanhandava@nm@16360000@nm@M@nm@
+SP@nm@Avaré@nm@@nm@M@nm@
+SP@nm@Avencas@nm@@nm@D@nm@
+SP@nm@Bacaetava@nm@18565000@nm@D@nm@
+SP@nm@Bacuriti@nm@16520000@nm@D@nm@
+SP@nm@Bady Bassitt@nm@15115000@nm@M@nm@
+SP@nm@Baguaçu@nm@15405000@nm@D@nm@
+SP@nm@Bairro Alto@nm@12190000@nm@D@nm@
+SP@nm@Balbinos@nm@16640000@nm@M@nm@
+SP@nm@Bálsamo@nm@15140000@nm@M@nm@
+SP@nm@Bananal@nm@12850000@nm@M@nm@
+SP@nm@Bandeirantes D'Oeste@nm@15367000@nm@D@nm@
+SP@nm@Barão Ataliba Nogueira@nm@13986000@nm@D@nm@
+SP@nm@Barão de Antonina@nm@18490000@nm@M@nm@
+SP@nm@Barão de Geraldo@nm@@nm@D@nm@
+SP@nm@Barbosa@nm@16350000@nm@M@nm@
+SP@nm@Bariri@nm@17250000@nm@M@nm@
+SP@nm@Barra Bonita@nm@17340000@nm@M@nm@
+SP@nm@Barra do Chapéu@nm@18325000@nm@M@nm@
+SP@nm@Barra do Turvo@nm@11955000@nm@M@nm@
+SP@nm@Barra Dourada@nm@15125000@nm@D@nm@
+SP@nm@Barrânia@nm@13775000@nm@D@nm@
+SP@nm@Barretos@nm@@nm@M@nm@
+SP@nm@Barrinha@nm@14860000@nm@M@nm@
+SP@nm@Barueri@nm@@nm@M@nm@
+SP@nm@Bastos@nm@17690000@nm@M@nm@
+SP@nm@Batatais@nm@14300000@nm@M@nm@
+SP@nm@Batatuba@nm@12975000@nm@D@nm@
+SP@nm@Batista Botelho@nm@18794000@nm@D@nm@
+SP@nm@Bauru@nm@@nm@M@nm@
+SP@nm@Bebedouro@nm@@nm@M@nm@
+SP@nm@Bela Floresta@nm@15374000@nm@D@nm@
+SP@nm@Bela Vista São-Carlense@nm@@nm@D@nm@
+SP@nm@Bento de Abreu@nm@16790000@nm@M@nm@
+SP@nm@Bernardino de Campos@nm@18960000@nm@M@nm@
+SP@nm@Bertioga@nm@11250000@nm@M@nm@
+SP@nm@Bilac@nm@16210000@nm@M@nm@
+SP@nm@Birigüi@nm@@nm@M@nm@
+SP@nm@Biritiba-Mirim@nm@08940000@nm@M@nm@
+SP@nm@Biritiba-Ussu@nm@08890000@nm@D@nm@
+SP@nm@Boa Esperança do Sul@nm@14930000@nm@M@nm@
+SP@nm@Boa Vista dos Andradas@nm@15545000@nm@D@nm@
+SP@nm@Boa Vista Paulista@nm@@nm@D@nm@
+SP@nm@Bocaina@nm@17240000@nm@M@nm@
+SP@nm@Bofete@nm@18590000@nm@M@nm@
+SP@nm@Boituva@nm@18550000@nm@M@nm@
+SP@nm@Bom Fim do Bom Jesus@nm@13319000@nm@D@nm@
+SP@nm@Bom Jesus dos Perdões@nm@12955000@nm@M@nm@
+SP@nm@Bom Retiro da Esperança@nm@18243000@nm@D@nm@
+SP@nm@Bom Sucesso de Itararé@nm@18475000@nm@M@nm@
+SP@nm@Bonfim Paulista@nm@14110000@nm@D@nm@
+SP@nm@Borá@nm@19740000@nm@M@nm@
+SP@nm@Boracéia@nm@17270000@nm@M@nm@
+SP@nm@Borborema@nm@14955000@nm@M@nm@
+SP@nm@Borebi@nm@18675000@nm@M@nm@
+SP@nm@Botafogo@nm@@nm@D@nm@
+SP@nm@Botelho@nm@15953000@nm@D@nm@
+SP@nm@Botucatu@nm@@nm@M@nm@
+SP@nm@Botujuru@nm@@nm@D@nm@
+SP@nm@Braço@nm@11980000@nm@D@nm@
+SP@nm@Bragança Paulista@nm@@nm@M@nm@
+SP@nm@Brás Cubas@nm@@nm@D@nm@
+SP@nm@Brasitânia@nm@15617000@nm@D@nm@
+SP@nm@Braúna@nm@16290000@nm@M@nm@
+SP@nm@Brejo Alegre@nm@16265000@nm@M@nm@
+SP@nm@Brodowski@nm@14340000@nm@M@nm@
+SP@nm@Brotas@nm@17380000@nm@M@nm@
+SP@nm@Bueno de Andrada@nm@14812000@nm@D@nm@
+SP@nm@Buri@nm@18290000@nm@M@nm@
+SP@nm@Buritama@nm@15290000@nm@M@nm@
+SP@nm@Buritizal@nm@14570000@nm@M@nm@
+SP@nm@Cabrália Paulista@nm@17480000@nm@M@nm@
+SP@nm@Cabreúva@nm@13315000@nm@M@nm@
+SP@nm@Caçapava@nm@@nm@M@nm@
+SP@nm@Cachoeira de Emas@nm@13645000@nm@D@nm@
+SP@nm@Cachoeira Paulista@nm@12630000@nm@M@nm@
+SP@nm@Caconde@nm@13770000@nm@M@nm@
+SP@nm@Cafelândia@nm@16500000@nm@M@nm@
+SP@nm@Cafesópolis@nm@16530000@nm@D@nm@
+SP@nm@Caiabu@nm@19530000@nm@M@nm@
+SP@nm@Caibura@nm@11210000@nm@P@nm@
+SP@nm@Caieiras@nm@@nm@M@nm@
+SP@nm@Caiuá@nm@19450000@nm@M@nm@
+SP@nm@Cajamar@nm@@nm@M@nm@
+SP@nm@Cajati@nm@11950000@nm@M@nm@
+SP@nm@Cajobi@nm@15410000@nm@M@nm@
+SP@nm@Cajuru@nm@14240000@nm@M@nm@
+SP@nm@Cambaquara@nm@11640000@nm@D@nm@
+SP@nm@Cambaratiba@nm@14945000@nm@D@nm@
+SP@nm@Campestrinho@nm@13785000@nm@D@nm@
+SP@nm@Campina de Fora@nm@18434000@nm@D@nm@
+SP@nm@Campina do Monte Alegre@nm@18245000@nm@M@nm@
+SP@nm@Campinal@nm@19490000@nm@D@nm@
+SP@nm@Campinas@nm@@nm@M@nm@
+SP@nm@Campo Limpo Paulista@nm@@nm@M@nm@
+SP@nm@Campos de Cunha@nm@12540000@nm@D@nm@
+SP@nm@Campos do Jordão@nm@12460000@nm@M@nm@
+SP@nm@Campos Novos Paulista@nm@19960000@nm@M@nm@
+SP@nm@Cananéia@nm@11990000@nm@M@nm@
+SP@nm@Canas@nm@12615000@nm@M@nm@
+SP@nm@Candia@nm@14185000@nm@D@nm@
+SP@nm@Cândido Mota@nm@19880000@nm@M@nm@
+SP@nm@Cândido Rodrigues@nm@15930000@nm@M@nm@
+SP@nm@Canguera@nm@@nm@D@nm@
+SP@nm@Canitar@nm@18990000@nm@M@nm@
+SP@nm@Capão Bonito@nm@@nm@M@nm@
+SP@nm@Capela do Alto@nm@18195000@nm@M@nm@
+SP@nm@Capivari@nm@13360000@nm@M@nm@
+SP@nm@Capivari da Mata@nm@14508000@nm@D@nm@
+SP@nm@Caporanga@nm@18915000@nm@D@nm@
+SP@nm@Capuava@nm@@nm@D@nm@
+SP@nm@Caraguatatuba@nm@@nm@M@nm@
+SP@nm@Carapicuíba@nm@@nm@M@nm@
+SP@nm@Cardeal@nm@13355000@nm@D@nm@
+SP@nm@Cardoso@nm@15570000@nm@M@nm@
+SP@nm@Caruara@nm@11200000@nm@P@nm@
+SP@nm@Casa Branca@nm@13700000@nm@M@nm@
+SP@nm@Cássia dos Coqueiros@nm@14260000@nm@M@nm@
+SP@nm@Castilho@nm@16920000@nm@M@nm@
+SP@nm@Catanduva@nm@@nm@M@nm@
+SP@nm@Catiguá@nm@15870000@nm@M@nm@
+SP@nm@Catucaba@nm@12150000@nm@D@nm@
+SP@nm@Caucaia do Alto@nm@@nm@D@nm@
+SP@nm@Cedral@nm@15895000@nm@M@nm@
+SP@nm@Cerqueira César@nm@18760000@nm@M@nm@
+SP@nm@Cerquilho@nm@18520000@nm@M@nm@
+SP@nm@Cesário Lange@nm@18285000@nm@M@nm@
+SP@nm@Cezar de Souza@nm@@nm@D@nm@
+SP@nm@Charqueada@nm@13515000@nm@M@nm@
+SP@nm@Chavantes@nm@18970000@nm@M@nm@
+SP@nm@Cipó-Guaçu@nm@06930000@nm@D@nm@
+SP@nm@Clarinia@nm@18905000@nm@D@nm@
+SP@nm@Clementina@nm@16250000@nm@M@nm@
+SP@nm@Cocaes@nm@18227000@nm@D@nm@
+SP@nm@Colina@nm@14770000@nm@M@nm@
+SP@nm@Colômbia@nm@14795000@nm@M@nm@
+SP@nm@Conceição@nm@18216000@nm@D@nm@
+SP@nm@Conceição de Monte Alegre@nm@19710000@nm@D@nm@
+SP@nm@Conchal@nm@13835000@nm@M@nm@
+SP@nm@Conchas@nm@18570000@nm@M@nm@
+SP@nm@Cordeirópolis@nm@13490000@nm@M@nm@
+SP@nm@Coroados@nm@16260000@nm@M@nm@
+SP@nm@Coronel Goulart@nm@19165000@nm@D@nm@
+SP@nm@Coronel Macedo@nm@18745000@nm@M@nm@
+SP@nm@Corredeira@nm@16610000@nm@D@nm@
+SP@nm@Córrego Rico@nm@@nm@D@nm@
+SP@nm@Corumbataí@nm@13540000@nm@M@nm@
+SP@nm@Cosmópolis@nm@13150000@nm@M@nm@
+SP@nm@Cosmorama@nm@15530000@nm@M@nm@
+SP@nm@Costa Machado@nm@19265000@nm@D@nm@
+SP@nm@Cotia@nm@@nm@M@nm@
+SP@nm@Cravinhos@nm@14140000@nm@M@nm@
+SP@nm@Cristais Paulista@nm@14460000@nm@M@nm@
+SP@nm@Cruz das Posses@nm@@nm@D@nm@
+SP@nm@Cruzália@nm@19860000@nm@M@nm@
+SP@nm@Cruzeiro@nm@@nm@M@nm@
+SP@nm@Cubatão@nm@@nm@M@nm@
+SP@nm@Cuiabá Paulista@nm@19270000@nm@D@nm@
+SP@nm@Cunha@nm@12530000@nm@M@nm@
+SP@nm@Curupá@nm@14915000@nm@D@nm@
+SP@nm@Dalas@nm@15725000@nm@D@nm@
+SP@nm@Descalvado@nm@13690000@nm@M@nm@
+SP@nm@Diadema@nm@@nm@M@nm@
+SP@nm@Dirce Reis@nm@15715000@nm@M@nm@
+SP@nm@Dirceu@nm@@nm@D@nm@
+SP@nm@Divinolândia@nm@13780000@nm@M@nm@
+SP@nm@Dobrada@nm@15980000@nm@M@nm@
+SP@nm@Dois Córregos@nm@17300000@nm@M@nm@
+SP@nm@Dolcinópolis@nm@15740000@nm@M@nm@
+SP@nm@Domélia@nm@17123000@nm@D@nm@
+SP@nm@Dourado@nm@13590000@nm@M@nm@
+SP@nm@Dracena@nm@17900000@nm@M@nm@
+SP@nm@Duartina@nm@17470000@nm@M@nm@
+SP@nm@Dumont@nm@14120000@nm@M@nm@
+SP@nm@Duplo Céu@nm@15472000@nm@D@nm@
+SP@nm@Echaporã@nm@19830000@nm@M@nm@
+SP@nm@Eldorado@nm@11960000@nm@M@nm@
+SP@nm@Eleutério@nm@13988000@nm@D@nm@
+SP@nm@Elias Fausto@nm@13350000@nm@M@nm@
+SP@nm@Elisiário@nm@15823000@nm@M@nm@
+SP@nm@Embaúba@nm@15425000@nm@M@nm@
+SP@nm@Embu das Artes@nm@@nm@M@nm@
+SP@nm@Embu-Guaçu@nm@06900000@nm@M@nm@
+SP@nm@Emilianópolis@nm@19350000@nm@M@nm@
+SP@nm@Eneida@nm@19130000@nm@D@nm@
+SP@nm@Engenheiro Balduíno@nm@15154000@nm@D@nm@
+SP@nm@Engenheiro Coelho@nm@13165000@nm@M@nm@
+SP@nm@Engenheiro Maia@nm@18445000@nm@D@nm@
+SP@nm@Engenheiro Schmitt@nm@@nm@D@nm@
+SP@nm@Esmeralda@nm@15795000@nm@D@nm@
+SP@nm@Esperança D'Oeste@nm@19535000@nm@D@nm@
+SP@nm@Espigão@nm@19575000@nm@D@nm@
+SP@nm@Espírito Santo do Pinhal@nm@13990000@nm@M@nm@
+SP@nm@Espírito Santo do Turvo@nm@18935000@nm@M@nm@
+SP@nm@Estiva Gerbi@nm@13857000@nm@M@nm@
+SP@nm@Estrela do Norte@nm@19230000@nm@M@nm@
+SP@nm@Estrela D'Oeste@nm@15650000@nm@M@nm@
+SP@nm@Euclides da Cunha Paulista@nm@19275000@nm@M@nm@
+SP@nm@Eugênio de Melo@nm@@nm@D@nm@
+SP@nm@Fartura@nm@18870000@nm@M@nm@
+SP@nm@Fátima@nm@16490000@nm@D@nm@
+SP@nm@Fátima Paulista@nm@15757000@nm@D@nm@
+SP@nm@Fazenda Velha@nm@18288000@nm@D@nm@
+SP@nm@Fernando Prestes@nm@15940000@nm@M@nm@
+SP@nm@Fernandópolis@nm@15600000@nm@M@nm@
+SP@nm@Fernão@nm@17455000@nm@M@nm@
+SP@nm@Ferraz de Vasconcelos@nm@@nm@M@nm@
+SP@nm@Flora Rica@nm@17870000@nm@M@nm@
+SP@nm@Floreal@nm@15320000@nm@M@nm@
+SP@nm@Floresta do Sul@nm@19120000@nm@D@nm@
+SP@nm@Flórida Paulista@nm@17830000@nm@M@nm@
+SP@nm@Florínia@nm@19870000@nm@M@nm@
+SP@nm@Franca@nm@@nm@M@nm@
+SP@nm@Francisco Morato@nm@@nm@M@nm@
+SP@nm@Franco da Rocha@nm@@nm@M@nm@
+SP@nm@Frutal do Campo@nm@19885000@nm@D@nm@
+SP@nm@Gabriel Monteiro@nm@16220000@nm@M@nm@
+SP@nm@Gália@nm@17450000@nm@M@nm@
+SP@nm@Garça@nm@17400000@nm@M@nm@
+SP@nm@Gardênia@nm@19620000@nm@D@nm@
+SP@nm@Gastão Vidigal@nm@15330000@nm@M@nm@
+SP@nm@Gavião Peixoto@nm@14813000@nm@M@nm@
+SP@nm@General Salgado@nm@15300000@nm@M@nm@
+SP@nm@Getulina@nm@16450000@nm@M@nm@
+SP@nm@Glicério@nm@16270000@nm@M@nm@
+SP@nm@Gramadinho@nm@18218000@nm@D@nm@
+SP@nm@Guachos@nm@19510000@nm@D@nm@
+SP@nm@Guaianas@nm@17285000@nm@D@nm@
+SP@nm@Guaiçara@nm@16430000@nm@M@nm@
+SP@nm@Guaimbê@nm@16480000@nm@M@nm@
+SP@nm@Guaíra@nm@14790000@nm@M@nm@
+SP@nm@Guamium@nm@@nm@D@nm@
+SP@nm@Guapiaçu@nm@15110000@nm@M@nm@
+SP@nm@Guapiara@nm@18310000@nm@M@nm@
+SP@nm@Guapiranga@nm@16420000@nm@D@nm@
+SP@nm@Guará@nm@14580000@nm@M@nm@
+SP@nm@Guaraçaí@nm@16980000@nm@M@nm@
+SP@nm@Guaraci@nm@15420000@nm@M@nm@
+SP@nm@Guaraciaba D'Oeste@nm@17935000@nm@D@nm@
+SP@nm@Guarani D'Oeste@nm@15680000@nm@M@nm@
+SP@nm@Guarantã@nm@16570000@nm@M@nm@
+SP@nm@Guarapiranga@nm@13585000@nm@D@nm@
+SP@nm@Guarapuá@nm@17310000@nm@D@nm@
+SP@nm@Guararapes@nm@16700000@nm@M@nm@
+SP@nm@Guararema@nm@08900000@nm@M@nm@
+SP@nm@Guaratinguetá@nm@@nm@M@nm@
+SP@nm@Guareí@nm@18250000@nm@M@nm@
+SP@nm@Guariba@nm@14840000@nm@M@nm@
+SP@nm@Guariroba@nm@15903000@nm@D@nm@
+SP@nm@Guarizinho@nm@18420000@nm@D@nm@
+SP@nm@Guarujá@nm@@nm@M@nm@
+SP@nm@Guarulhos@nm@@nm@M@nm@
+SP@nm@Guatapará@nm@14115000@nm@M@nm@
+SP@nm@Guzolândia@nm@15355000@nm@M@nm@
+SP@nm@Herculândia@nm@17650000@nm@M@nm@
+SP@nm@Holambra@nm@13825000@nm@M@nm@
+SP@nm@Holambra II@nm@18725000@nm@P@nm@
+SP@nm@Hortolândia@nm@@nm@M@nm@
+SP@nm@Iacanga@nm@17180000@nm@M@nm@
+SP@nm@Iacri@nm@17680000@nm@M@nm@
+SP@nm@Iaras@nm@18775000@nm@M@nm@
+SP@nm@Ibaté@nm@14815000@nm@M@nm@
+SP@nm@Ibiporanga@nm@15175000@nm@D@nm@
+SP@nm@Ibirá@nm@15860000@nm@M@nm@
+SP@nm@Ibirarema@nm@19940000@nm@M@nm@
+SP@nm@Ibitinga@nm@14940000@nm@M@nm@
+SP@nm@Ibitiruna@nm@13434000@nm@D@nm@
+SP@nm@Ibitiúva@nm@14760000@nm@D@nm@
+SP@nm@Ibitu@nm@@nm@D@nm@
+SP@nm@Ibiúna@nm@18150000@nm@M@nm@
+SP@nm@Icém@nm@15460000@nm@M@nm@
+SP@nm@Ida Iolanda@nm@15195000@nm@D@nm@
+SP@nm@Iepê@nm@19640000@nm@M@nm@
+SP@nm@Igaçaba@nm@14475000@nm@D@nm@
+SP@nm@Igaraçu do Tietê@nm@17350000@nm@M@nm@
+SP@nm@Igaraí@nm@13750000@nm@D@nm@
+SP@nm@Igarapava@nm@14540000@nm@M@nm@
+SP@nm@Igaratá@nm@12350000@nm@M@nm@
+SP@nm@Iguape@nm@11920000@nm@M@nm@
+SP@nm@Ilha Comprida@nm@11925000@nm@M@nm@
+SP@nm@Ilha Diana@nm@11230000@nm@P@nm@
+SP@nm@Ilha Solteira@nm@15385000@nm@M@nm@
+SP@nm@Ilhabela@nm@11630000@nm@M@nm@
+SP@nm@Indaiá do Aguapeí@nm@17835000@nm@D@nm@
+SP@nm@Indaiatuba@nm@@nm@M@nm@
+SP@nm@Indiana@nm@19560000@nm@M@nm@
+SP@nm@Indiaporã@nm@15690000@nm@M@nm@
+SP@nm@Ingás@nm@15448000@nm@D@nm@
+SP@nm@Inúbia Paulista@nm@17760000@nm@M@nm@
+SP@nm@Ipaussu@nm@18950000@nm@M@nm@
+SP@nm@Iperó@nm@18560000@nm@M@nm@
+SP@nm@Ipeúna@nm@13537000@nm@M@nm@
+SP@nm@Ipiguá@nm@15108000@nm@M@nm@
+SP@nm@Iporanga@nm@18330000@nm@M@nm@
+SP@nm@Ipuã@nm@14610000@nm@M@nm@
+SP@nm@Iracemápolis@nm@13495000@nm@M@nm@
+SP@nm@Irapé@nm@18980000@nm@D@nm@
+SP@nm@Irapuã@nm@14990000@nm@M@nm@
+SP@nm@Irapuru@nm@17880000@nm@M@nm@
+SP@nm@Itaberá@nm@18440000@nm@M@nm@
+SP@nm@Itaboa@nm@18433000@nm@D@nm@
+SP@nm@Itaí@nm@18730000@nm@M@nm@
+SP@nm@Itaiúba@nm@15153000@nm@D@nm@
+SP@nm@Itajobi@nm@15840000@nm@M@nm@
+SP@nm@Itaju@nm@17260000@nm@M@nm@
+SP@nm@Itanhaém@nm@11740000@nm@M@nm@
+SP@nm@Itaóca@nm@18360000@nm@M@nm@
+SP@nm@Itapecerica da Serra@nm@@nm@M@nm@
+SP@nm@Itapetininga@nm@@nm@M@nm@
+SP@nm@Itapeuna@nm@11970000@nm@D@nm@
+SP@nm@Itapeva@nm@@nm@M@nm@
+SP@nm@Itapevi@nm@@nm@M@nm@
+SP@nm@Itapira@nm@@nm@M@nm@
+SP@nm@Itapirapuã Paulista@nm@18385000@nm@M@nm@
+SP@nm@Itápolis@nm@14900000@nm@M@nm@
+SP@nm@Itaporanga@nm@18480000@nm@M@nm@
+SP@nm@Itapuí@nm@17230000@nm@M@nm@
+SP@nm@Itapura@nm@15390000@nm@M@nm@
+SP@nm@Itaquaquecetuba@nm@@nm@M@nm@
+SP@nm@Itaqueri da Serra@nm@13535000@nm@D@nm@
+SP@nm@Itararé@nm@18460000@nm@M@nm@
+SP@nm@Itariri@nm@11760000@nm@M@nm@
+SP@nm@Itatiba@nm@@nm@M@nm@
+SP@nm@Itatinga@nm@18690000@nm@M@nm@
+SP@nm@Itirapina@nm@13530000@nm@M@nm@
+SP@nm@Itirapuã@nm@14420000@nm@M@nm@
+SP@nm@Itobi@nm@13715000@nm@M@nm@
+SP@nm@Itororó do Paranapanema@nm@19208000@nm@D@nm@
+SP@nm@Itu@nm@@nm@M@nm@
+SP@nm@Itupeva@nm@13295000@nm@M@nm@
+SP@nm@Ituverava@nm@14500000@nm@M@nm@
+SP@nm@Iubatinga@nm@19540000@nm@D@nm@
+SP@nm@Jaborandi@nm@14775000@nm@M@nm@
+SP@nm@Jaboticabal@nm@@nm@M@nm@
+SP@nm@Jacaré@nm@13318000@nm@D@nm@
+SP@nm@Jacareí@nm@@nm@M@nm@
+SP@nm@Jaci@nm@15155000@nm@M@nm@
+SP@nm@Jaciporã@nm@17910000@nm@D@nm@
+SP@nm@Jacuba@nm@17170000@nm@D@nm@
+SP@nm@Jacupiranga@nm@11940000@nm@M@nm@
+SP@nm@Jafa@nm@17405000@nm@D@nm@
+SP@nm@Jaguariúna@nm@13820000@nm@M@nm@
+SP@nm@Jales@nm@@nm@M@nm@
+SP@nm@Jamaica@nm@17905000@nm@D@nm@
+SP@nm@Jambeiro@nm@12270000@nm@M@nm@
+SP@nm@Jandira@nm@@nm@M@nm@
+SP@nm@Jardim Belval@nm@@nm@D@nm@
+SP@nm@Jardim Presidente Dutra@nm@@nm@D@nm@
+SP@nm@Jardim Santa Luzia@nm@@nm@D@nm@
+SP@nm@Jardim Silveira@nm@@nm@D@nm@
+SP@nm@Jardinópolis@nm@14680000@nm@M@nm@
+SP@nm@Jarinu@nm@13240000@nm@M@nm@
+SP@nm@Jatobá@nm@16330000@nm@D@nm@
+SP@nm@Jaú@nm@@nm@M@nm@
+SP@nm@Jeriquara@nm@14450000@nm@M@nm@
+SP@nm@Joanópolis@nm@12980000@nm@M@nm@
+SP@nm@João Ramalho@nm@19680000@nm@M@nm@
+SP@nm@Joaquim Egídio@nm@@nm@D@nm@
+SP@nm@Jordanésia@nm@@nm@D@nm@
+SP@nm@José Bonifácio@nm@15200000@nm@M@nm@
+SP@nm@Juliânia@nm@17660000@nm@D@nm@
+SP@nm@Júlio Mesquita@nm@17550000@nm@M@nm@
+SP@nm@Jumirim@nm@18535000@nm@M@nm@
+SP@nm@Jundiaí@nm@@nm@M@nm@
+SP@nm@Jundiapeba@nm@@nm@D@nm@
+SP@nm@Junqueira@nm@15152000@nm@D@nm@
+SP@nm@Junqueirópolis@nm@17890000@nm@M@nm@
+SP@nm@Juquiá@nm@11800000@nm@M@nm@
+SP@nm@Juquiratiba@nm@18575000@nm@D@nm@
+SP@nm@Juquitiba@nm@06950000@nm@M@nm@
+SP@nm@Juritis@nm@16280000@nm@D@nm@
+SP@nm@Jurucê@nm@14690000@nm@D@nm@
+SP@nm@Jurupeba@nm@15475000@nm@D@nm@
+SP@nm@Jurupema@nm@15905000@nm@D@nm@
+SP@nm@Lácio@nm@@nm@D@nm@
+SP@nm@Lageado de Araçaíba@nm@18324000@nm@D@nm@
+SP@nm@Lagoa Azul@nm@17705000@nm@D@nm@
+SP@nm@Lagoa Branca@nm@13705000@nm@D@nm@
+SP@nm@Lagoinha@nm@12130000@nm@M@nm@
+SP@nm@Laranjal Paulista@nm@18500000@nm@M@nm@
+SP@nm@Laras@nm@18505000@nm@D@nm@
+SP@nm@Lauro Penteado@nm@16255000@nm@D@nm@
+SP@nm@Lavínia@nm@16850000@nm@M@nm@
+SP@nm@Lavrinhas@nm@12760000@nm@M@nm@
+SP@nm@Leme@nm@@nm@M@nm@
+SP@nm@Lençóis Paulista@nm@@nm@M@nm@
+SP@nm@Limeira@nm@@nm@M@nm@
+SP@nm@Lindóia@nm@13950000@nm@M@nm@
+SP@nm@Lins@nm@@nm@M@nm@
+SP@nm@Lobo@nm@18695000@nm@D@nm@
+SP@nm@Lorena@nm@@nm@M@nm@
+SP@nm@Lourdes@nm@15285000@nm@M@nm@
+SP@nm@Louveira@nm@13290000@nm@M@nm@
+SP@nm@Lucélia@nm@17780000@nm@M@nm@
+SP@nm@Lucianópolis@nm@17475000@nm@M@nm@
+SP@nm@Luís Antônio@nm@14210000@nm@M@nm@
+SP@nm@Luiziânia@nm@16340000@nm@M@nm@
+SP@nm@Lupércio@nm@17420000@nm@M@nm@
+SP@nm@Lusitânia@nm@@nm@D@nm@
+SP@nm@Lutécia@nm@19750000@nm@M@nm@
+SP@nm@Macatuba@nm@17290000@nm@M@nm@
+SP@nm@Macaubal@nm@15270000@nm@M@nm@
+SP@nm@Macedônia@nm@15620000@nm@M@nm@
+SP@nm@Macucos@nm@16460000@nm@D@nm@
+SP@nm@Mágda@nm@15310000@nm@M@nm@
+SP@nm@Mailasqui@nm@@nm@D@nm@
+SP@nm@Mairinque@nm@18120000@nm@M@nm@
+SP@nm@Mairiporã@nm@07600000@nm@M@nm@
+SP@nm@Major Prado@nm@16150000@nm@D@nm@
+SP@nm@Manduri@nm@18780000@nm@M@nm@
+SP@nm@Mangaratú@nm@15442000@nm@D@nm@
+SP@nm@Marabá Paulista@nm@19430000@nm@M@nm@
+SP@nm@Maracaí@nm@19840000@nm@M@nm@
+SP@nm@Marapoama@nm@15845000@nm@M@nm@
+SP@nm@Marcondésia@nm@14733000@nm@D@nm@
+SP@nm@Maresias@nm@11620000@nm@D@nm@
+SP@nm@Mariápolis@nm@17810000@nm@M@nm@
+SP@nm@Marília@nm@@nm@M@nm@
+SP@nm@Marinópolis@nm@15730000@nm@M@nm@
+SP@nm@Maristela@nm@18510000@nm@D@nm@
+SP@nm@Martim Francisco@nm@@nm@D@nm@
+SP@nm@Martinho Prado Júnior@nm@@nm@D@nm@
+SP@nm@Martinópolis@nm@19500000@nm@M@nm@
+SP@nm@Matão@nm@@nm@M@nm@
+SP@nm@Mauá@nm@@nm@M@nm@
+SP@nm@Mendonça@nm@15220000@nm@M@nm@
+SP@nm@Meridiano@nm@15625000@nm@M@nm@
+SP@nm@Mesópolis@nm@15748000@nm@M@nm@
+SP@nm@Miguelópolis@nm@14530000@nm@M@nm@
+SP@nm@Mineiros do Tietê@nm@17320000@nm@M@nm@
+SP@nm@Mira Estrela@nm@15580000@nm@M@nm@
+SP@nm@Miracatu@nm@11850000@nm@M@nm@
+SP@nm@Miraluz@nm@15128000@nm@D@nm@
+SP@nm@Mirandópolis@nm@16800000@nm@M@nm@
+SP@nm@Mirante do Paranapanema@nm@19260000@nm@M@nm@
+SP@nm@Mirassol@nm@15130000@nm@M@nm@
+SP@nm@Mirassolândia@nm@15145000@nm@M@nm@
+SP@nm@Mococa@nm@@nm@M@nm@
+SP@nm@Mogi das Cruzes@nm@@nm@M@nm@
+SP@nm@Mogi Guaçu@nm@@nm@M@nm@
+SP@nm@Mogi Mirim@nm@@nm@M@nm@
+SP@nm@Mombuca@nm@13380000@nm@M@nm@
+SP@nm@Monções@nm@15275000@nm@M@nm@
+SP@nm@Mongaguá@nm@11730000@nm@M@nm@
+SP@nm@Montalvão@nm@@nm@D@nm@
+SP@nm@Monte Alegre do Sul@nm@13910000@nm@M@nm@
+SP@nm@Monte Alto@nm@15910000@nm@M@nm@
+SP@nm@Monte Aprazível@nm@15150000@nm@M@nm@
+SP@nm@Monte Azul Paulista@nm@14730000@nm@M@nm@
+SP@nm@Monte Cabrão@nm@11220000@nm@P@nm@
+SP@nm@Monte Castelo@nm@17960000@nm@M@nm@
+SP@nm@Monte Mor@nm@13190000@nm@M@nm@
+SP@nm@Monte Verde Paulista@nm@15417000@nm@D@nm@
+SP@nm@Monteiro Lobato@nm@12250000@nm@M@nm@
+SP@nm@Moreira César@nm@@nm@D@nm@
+SP@nm@Morro Agudo@nm@14640000@nm@M@nm@
+SP@nm@Morro do Alto@nm@18219000@nm@D@nm@
+SP@nm@Morungaba@nm@13260000@nm@M@nm@
+SP@nm@Mostardas@nm@13915000@nm@D@nm@
+SP@nm@Motuca@nm@14835000@nm@M@nm@
+SP@nm@Mourão@nm@17815000@nm@D@nm@
+SP@nm@Murutinga do Sul@nm@16950000@nm@M@nm@
+SP@nm@Nantes@nm@19645000@nm@M@nm@
+SP@nm@Narandiba@nm@19220000@nm@M@nm@
+SP@nm@Natividade da Serra@nm@12180000@nm@M@nm@
+SP@nm@Nazaré Paulista@nm@12960000@nm@M@nm@
+SP@nm@Neves Paulista@nm@15120000@nm@M@nm@
+SP@nm@Nhandeara@nm@15190000@nm@M@nm@
+SP@nm@Nipoã@nm@15240000@nm@M@nm@
+SP@nm@Nogueira@nm@16690000@nm@D@nm@
+SP@nm@Nossa Senhora do Remédio@nm@08980000@nm@D@nm@
+SP@nm@Nova Alexandria@nm@19882000@nm@D@nm@
+SP@nm@Nova Aliança@nm@15210000@nm@M@nm@
+SP@nm@Nova América@nm@14904000@nm@D@nm@
+SP@nm@Nova Aparecida@nm@@nm@D@nm@
+SP@nm@Nova Campina@nm@18435000@nm@M@nm@
+SP@nm@Nova Canaã Paulista@nm@15773000@nm@M@nm@
+SP@nm@Nova Cardoso@nm@15843000@nm@D@nm@
+SP@nm@Nova Castilho@nm@15313000@nm@M@nm@
+SP@nm@Nova Europa@nm@14920000@nm@M@nm@
+SP@nm@Nova Granada@nm@15440000@nm@M@nm@
+SP@nm@Nova Guataporanga@nm@17950000@nm@M@nm@
+SP@nm@Nova Independência@nm@16940000@nm@M@nm@
+SP@nm@Nova Itapirema@nm@15215000@nm@D@nm@
+SP@nm@Nova Luzitânia@nm@15340000@nm@M@nm@
+SP@nm@Nova Odessa@nm@13460000@nm@M@nm@
+SP@nm@Nova Pátria@nm@19330000@nm@D@nm@
+SP@nm@Nova Veneza@nm@@nm@D@nm@
+SP@nm@Novais@nm@15885000@nm@M@nm@
+SP@nm@Novo Cravinhos@nm@17585000@nm@D@nm@
+SP@nm@Novo Horizonte@nm@14960000@nm@M@nm@
+SP@nm@Nuporanga@nm@14670000@nm@M@nm@
+SP@nm@Oásis@nm@17932000@nm@D@nm@
+SP@nm@Ocauçu@nm@17540000@nm@M@nm@
+SP@nm@Óleo@nm@18790000@nm@M@nm@
+SP@nm@Olímpia@nm@15400000@nm@M@nm@
+SP@nm@Oliveira Barros@nm@11860000@nm@D@nm@
+SP@nm@Onda Branca@nm@15445000@nm@D@nm@
+SP@nm@Onda Verde@nm@15450000@nm@M@nm@
+SP@nm@Oriente@nm@17570000@nm@M@nm@
+SP@nm@Orindiúva@nm@15480000@nm@M@nm@
+SP@nm@Orlândia@nm@14620000@nm@M@nm@
+SP@nm@Osasco@nm@@nm@M@nm@
+SP@nm@Oscar Bressane@nm@19770000@nm@M@nm@
+SP@nm@Osvaldo Cruz@nm@17700000@nm@M@nm@
+SP@nm@Ourinhos@nm@@nm@M@nm@
+SP@nm@Ouro Fino Paulista@nm@@nm@D@nm@
+SP@nm@Ouro Verde@nm@17920000@nm@M@nm@
+SP@nm@Ouroeste@nm@15685000@nm@M@nm@
+SP@nm@Pacaembu@nm@17860000@nm@M@nm@
+SP@nm@Padre Nóbrega@nm@@nm@D@nm@
+SP@nm@Palestina@nm@15470000@nm@M@nm@
+SP@nm@Palmares Paulista@nm@15828000@nm@M@nm@
+SP@nm@Palmeira D'Oeste@nm@15720000@nm@M@nm@
+SP@nm@Palmeiras de São Paulo@nm@@nm@D@nm@
+SP@nm@Palmital@nm@19970000@nm@M@nm@
+SP@nm@Panorama@nm@17980000@nm@M@nm@
+SP@nm@Paraguaçu Paulista@nm@19700000@nm@M@nm@
+SP@nm@Paraibuna@nm@12260000@nm@M@nm@
+SP@nm@Paraíso@nm@15825000@nm@M@nm@
+SP@nm@Paraisolândia@nm@13517000@nm@D@nm@
+SP@nm@Paranabi@nm@11650000@nm@D@nm@
+SP@nm@Paranapanema@nm@18720000@nm@M@nm@
+SP@nm@Paranapiacaba@nm@@nm@D@nm@
+SP@nm@Paranapuã@nm@15745000@nm@M@nm@
+SP@nm@Parapuã@nm@17730000@nm@M@nm@
+SP@nm@Pardinho@nm@18640000@nm@M@nm@
+SP@nm@Pariquera-Açu@nm@11930000@nm@M@nm@
+SP@nm@Parisi@nm@15525000@nm@M@nm@
+SP@nm@Parnaso@nm@@nm@D@nm@
+SP@nm@Parque Meia Lua@nm@@nm@D@nm@
+SP@nm@Paruru@nm@18155000@nm@D@nm@
+SP@nm@Patrocínio Paulista@nm@14415000@nm@M@nm@
+SP@nm@Paulicéia@nm@17990000@nm@M@nm@
+SP@nm@Paulínia@nm@@nm@M@nm@
+SP@nm@Paulistânia@nm@17150000@nm@M@nm@
+SP@nm@Paulo de Faria@nm@15490000@nm@M@nm@
+SP@nm@Paulópolis@nm@17583000@nm@D@nm@
+SP@nm@Pederneiras@nm@17280000@nm@M@nm@
+SP@nm@Pedra Bela@nm@12990000@nm@M@nm@
+SP@nm@Pedra Branca de Itararé@nm@18465000@nm@D@nm@
+SP@nm@Pedranópolis@nm@15630000@nm@M@nm@
+SP@nm@Pedregulho@nm@14470000@nm@M@nm@
+SP@nm@Pedreira@nm@13920000@nm@M@nm@
+SP@nm@Pedrinhas Paulista@nm@19865000@nm@M@nm@
+SP@nm@Pedro Barros@nm@11855000@nm@D@nm@
+SP@nm@Pedro de Toledo@nm@11790000@nm@M@nm@
+SP@nm@Penápolis@nm@16300000@nm@M@nm@
+SP@nm@Pereira Barreto@nm@15370000@nm@M@nm@
+SP@nm@Pereiras@nm@18580000@nm@M@nm@
+SP@nm@Peruíbe@nm@11750000@nm@M@nm@
+SP@nm@Piacatu@nm@16230000@nm@M@nm@
+SP@nm@Picinguaba@nm@11690000@nm@D@nm@
+SP@nm@Piedade@nm@18170000@nm@M@nm@
+SP@nm@Pilar do Sul@nm@18185000@nm@M@nm@
+SP@nm@Pindamonhangaba@nm@@nm@M@nm@
+SP@nm@Pindorama@nm@15830000@nm@M@nm@
+SP@nm@Pinhalzinho@nm@12995000@nm@M@nm@
+SP@nm@Pinheiros@nm@12770000@nm@D@nm@
+SP@nm@Pioneiros@nm@14590000@nm@D@nm@
+SP@nm@Piquerobi@nm@19410000@nm@M@nm@
+SP@nm@Piquete@nm@12620000@nm@M@nm@
+SP@nm@Piracaia@nm@12970000@nm@M@nm@
+SP@nm@Piracicaba@nm@@nm@M@nm@
+SP@nm@Piraju@nm@18800000@nm@M@nm@
+SP@nm@Pirajuí@nm@16600000@nm@M@nm@
+SP@nm@Pirambóia@nm@18630000@nm@D@nm@
+SP@nm@Pirangi@nm@15820000@nm@M@nm@
+SP@nm@Pirapitingui@nm@@nm@D@nm@
+SP@nm@Pirapora do Bom Jesus@nm@06550000@nm@M@nm@
+SP@nm@Pirapozinho@nm@19200000@nm@M@nm@
+SP@nm@Pirassununga@nm@@nm@M@nm@
+SP@nm@Piratininga@nm@17490000@nm@M@nm@
+SP@nm@Pitangueiras@nm@14750000@nm@M@nm@
+SP@nm@Planalto@nm@15260000@nm@M@nm@
+SP@nm@Planalto@nm@16915000@nm@D@nm@
+SP@nm@Planalto do Sul@nm@19295000@nm@D@nm@
+SP@nm@Platina@nm@19990000@nm@M@nm@
+SP@nm@Poá@nm@@nm@M@nm@
+SP@nm@Poloni@nm@15160000@nm@M@nm@
+SP@nm@Polvilho@nm@@nm@D@nm@
+SP@nm@Pompéia@nm@17580000@nm@M@nm@
+SP@nm@Pongaí@nm@16660000@nm@M@nm@
+SP@nm@Pontal@nm@14180000@nm@M@nm@
+SP@nm@Pontalinda@nm@15718000@nm@M@nm@
+SP@nm@Pontes Gestal@nm@15560000@nm@M@nm@
+SP@nm@Populina@nm@15670000@nm@M@nm@
+SP@nm@Porangaba@nm@18260000@nm@M@nm@
+SP@nm@Porto Feliz@nm@18540000@nm@M@nm@
+SP@nm@Porto Ferreira@nm@13660000@nm@M@nm@
+SP@nm@Porto Novo@nm@@nm@D@nm@
+SP@nm@Potim@nm@12525000@nm@M@nm@
+SP@nm@Potirendaba@nm@15105000@nm@M@nm@
+SP@nm@Potunduva@nm@@nm@D@nm@
+SP@nm@Pracinha@nm@17790000@nm@M@nm@
+SP@nm@Pradínia@nm@16606000@nm@D@nm@
+SP@nm@Pradópolis@nm@14850000@nm@M@nm@
+SP@nm@Praia Grande@nm@@nm@M@nm@
+SP@nm@Pratânia@nm@18660000@nm@M@nm@
+SP@nm@Presidente Alves@nm@16670000@nm@M@nm@
+SP@nm@Presidente Bernardes@nm@19300000@nm@M@nm@
+SP@nm@Presidente Epitácio@nm@19470000@nm@M@nm@
+SP@nm@Presidente Prudente@nm@@nm@M@nm@
+SP@nm@Presidente Venceslau@nm@19400000@nm@M@nm@
+SP@nm@Primavera@nm@19274000@nm@D@nm@
+SP@nm@Promissão@nm@16370000@nm@M@nm@
+SP@nm@Prudêncio de Morais@nm@15307000@nm@D@nm@
+SP@nm@Quadra@nm@18255000@nm@M@nm@
+SP@nm@Quatá@nm@19780000@nm@M@nm@
+SP@nm@Queiroz@nm@17590000@nm@M@nm@
+SP@nm@Queluz@nm@12800000@nm@M@nm@
+SP@nm@Quintana@nm@17670000@nm@M@nm@
+SP@nm@Quiririm@nm@@nm@D@nm@
+SP@nm@Rafard@nm@13370000@nm@M@nm@
+SP@nm@Rancharia@nm@19600000@nm@M@nm@
+SP@nm@Rechan@nm@18217000@nm@D@nm@
+SP@nm@Redenção da Serra@nm@12170000@nm@M@nm@
+SP@nm@Regente Feijó@nm@19570000@nm@M@nm@
+SP@nm@Reginópolis@nm@17190000@nm@M@nm@
+SP@nm@Registro@nm@11900000@nm@M@nm@
+SP@nm@Restinga@nm@14430000@nm@M@nm@
+SP@nm@Riacho Grande@nm@@nm@D@nm@
+SP@nm@Ribeira@nm@18380000@nm@M@nm@
+SP@nm@Ribeirão Bonito@nm@13580000@nm@M@nm@
+SP@nm@Ribeirão Branco@nm@18430000@nm@M@nm@
+SP@nm@Ribeirão Corrente@nm@14445000@nm@M@nm@
+SP@nm@Ribeirão do Sul@nm@19930000@nm@M@nm@
+SP@nm@Ribeirão dos Índios@nm@19380000@nm@M@nm@
+SP@nm@Ribeirão Grande@nm@18315000@nm@M@nm@
+SP@nm@Ribeirão Pires@nm@@nm@M@nm@
+SP@nm@Ribeirão Preto@nm@@nm@M@nm@
+SP@nm@Ribeiro do Vale@nm@16710000@nm@D@nm@
+SP@nm@Ribeiro dos Santos@nm@15408000@nm@D@nm@
+SP@nm@Rifaina@nm@14490000@nm@M@nm@
+SP@nm@Rincão@nm@14830000@nm@M@nm@
+SP@nm@Rinópolis@nm@17740000@nm@M@nm@
+SP@nm@Rio Claro@nm@@nm@M@nm@
+SP@nm@Rio das Pedras@nm@13390000@nm@M@nm@
+SP@nm@Rio Grande da Serra@nm@09450000@nm@M@nm@
+SP@nm@Riolândia@nm@15495000@nm@M@nm@
+SP@nm@Riversul@nm@18470000@nm@M@nm@
+SP@nm@Roberto@nm@15835000@nm@D@nm@
+SP@nm@Rosália@nm@@nm@D@nm@
+SP@nm@Rosana@nm@19273000@nm@M@nm@
+SP@nm@Roseira@nm@12580000@nm@M@nm@
+SP@nm@Rubiácea@nm@16750000@nm@M@nm@
+SP@nm@Rubião Júnior@nm@@nm@D@nm@
+SP@nm@Rubinéia@nm@15790000@nm@M@nm@
+SP@nm@Ruilândia@nm@15135000@nm@D@nm@
+SP@nm@Sabaúna@nm@@nm@D@nm@
+SP@nm@Sabino@nm@16440000@nm@M@nm@
+SP@nm@Sagres@nm@17710000@nm@M@nm@
+SP@nm@Sales@nm@14980000@nm@M@nm@
+SP@nm@Sales Oliveira@nm@14660000@nm@M@nm@
+SP@nm@Salesópolis@nm@08970000@nm@M@nm@
+SP@nm@Salmourão@nm@17720000@nm@M@nm@
+SP@nm@Saltinho@nm@13440000@nm@M@nm@
+SP@nm@Salto@nm@@nm@M@nm@
+SP@nm@Salto de Pirapora@nm@18160000@nm@M@nm@
+SP@nm@Salto do Avanhandava@nm@15208000@nm@D@nm@
+SP@nm@Salto Grande@nm@19920000@nm@M@nm@
+SP@nm@Sandovalina@nm@19250000@nm@M@nm@
+SP@nm@Santa Adélia@nm@15950000@nm@M@nm@
+SP@nm@Santa Albertina@nm@15750000@nm@M@nm@
+SP@nm@Santa América@nm@16455000@nm@D@nm@
+SP@nm@Santa Bárbara D'Oeste@nm@@nm@M@nm@
+SP@nm@Santa Branca@nm@12380000@nm@M@nm@
+SP@nm@Santa Clara D'Oeste@nm@15785000@nm@M@nm@
+SP@nm@Santa Cruz da Conceição@nm@13625000@nm@M@nm@
+SP@nm@Santa Cruz da Esperança@nm@14250000@nm@M@nm@
+SP@nm@Santa Cruz da Estrela@nm@13675000@nm@D@nm@
+SP@nm@Santa Cruz das Palmeiras@nm@13650000@nm@M@nm@
+SP@nm@Santa Cruz do Rio Pardo@nm@18900000@nm@M@nm@
+SP@nm@Santa Cruz dos Lopes@nm@18468000@nm@D@nm@
+SP@nm@Santa Ernestina@nm@15970000@nm@M@nm@
+SP@nm@Santa Eudóxia@nm@13579000@nm@D@nm@
+SP@nm@Santa Fé do Sul@nm@15775000@nm@M@nm@
+SP@nm@Santa Gertrudes@nm@13510000@nm@M@nm@
+SP@nm@Santa Isabel@nm@07500000@nm@M@nm@
+SP@nm@Santa Isabel do Marinheiro@nm@15635000@nm@D@nm@
+SP@nm@Santa Lúcia@nm@14825000@nm@M@nm@
+SP@nm@Santa Margarida Paulista@nm@@nm@D@nm@
+SP@nm@Santa Maria da Serra@nm@17370000@nm@M@nm@
+SP@nm@Santa Maria do Gurupá@nm@16380000@nm@D@nm@
+SP@nm@Santa Mercedes@nm@17940000@nm@M@nm@
+SP@nm@Santa Rita do Passa Quatro@nm@13670000@nm@M@nm@
+SP@nm@Santa Rita do Ribeira@nm@11870000@nm@D@nm@
+SP@nm@Santa Rita D'Oeste@nm@15780000@nm@M@nm@
+SP@nm@Santa Rosa de Viterbo@nm@14270000@nm@M@nm@
+SP@nm@Santa Salete@nm@15768000@nm@M@nm@
+SP@nm@Santana da Ponte Pensa@nm@15765000@nm@M@nm@
+SP@nm@Santana de Parnaíba@nm@@nm@M@nm@
+SP@nm@Santelmo@nm@17288000@nm@D@nm@
+SP@nm@Santo Anastácio@nm@19360000@nm@M@nm@
+SP@nm@Santo André@nm@@nm@M@nm@
+SP@nm@Santo Antônio da Alegria@nm@14390000@nm@M@nm@
+SP@nm@Santo Antônio da Estiva@nm@16603000@nm@D@nm@
+SP@nm@Santo Antônio de Posse@nm@13830000@nm@M@nm@
+SP@nm@Santo Antônio do Aracanguá@nm@16130000@nm@M@nm@
+SP@nm@Santo Antônio do Jardim@nm@13995000@nm@M@nm@
+SP@nm@Santo Antônio do Paranapanema@nm@19890000@nm@D@nm@
+SP@nm@Santo Antônio do Pinhal@nm@12450000@nm@M@nm@
+SP@nm@Santo Antônio Paulista@nm@@nm@D@nm@
+SP@nm@Santo Expedito@nm@19190000@nm@M@nm@
+SP@nm@Santópolis do Aguapeí@nm@16240000@nm@M@nm@
+SP@nm@Santos@nm@@nm@M@nm@
+SP@nm@São Benedito da Cachoeirinha@nm@14505000@nm@D@nm@
+SP@nm@São Benedito das Areias@nm@13755000@nm@D@nm@
+SP@nm@São Bento do Sapucaí@nm@12490000@nm@M@nm@
+SP@nm@São Bernardo do Campo@nm@@nm@M@nm@
+SP@nm@São Berto@nm@18785000@nm@D@nm@
+SP@nm@São Caetano do Sul@nm@@nm@M@nm@
+SP@nm@São Carlos@nm@@nm@M@nm@
+SP@nm@São Francisco@nm@15710000@nm@M@nm@
+SP@nm@São Francisco da Praia@nm@11610000@nm@D@nm@
+SP@nm@São Francisco Xavier@nm@12249000@nm@D@nm@
+SP@nm@São João da Boa Vista@nm@@nm@M@nm@
+SP@nm@São João das Duas Pontes@nm@15640000@nm@M@nm@
+SP@nm@São João de Iracema@nm@15315000@nm@M@nm@
+SP@nm@São João de Itaguaçu@nm@15855000@nm@D@nm@
+SP@nm@São João do Marinheiro@nm@15575000@nm@D@nm@
+SP@nm@São João do Pau d'Alho@nm@17970000@nm@M@nm@
+SP@nm@São João Novo@nm@@nm@D@nm@
+SP@nm@São Joaquim da Barra@nm@14600000@nm@M@nm@
+SP@nm@São José da Bela Vista@nm@14440000@nm@M@nm@
+SP@nm@São José das Laranjeiras@nm@19845000@nm@D@nm@
+SP@nm@São José do Barreiro@nm@12830000@nm@M@nm@
+SP@nm@São José do Rio Pardo@nm@13720000@nm@M@nm@
+SP@nm@São José do Rio Preto@nm@@nm@M@nm@
+SP@nm@São José dos Campos@nm@@nm@M@nm@
+SP@nm@São Lourenço da Serra@nm@06890000@nm@M@nm@
+SP@nm@São Lourenço do Turvo@nm@@nm@D@nm@
+SP@nm@São Luiz do Guaricanga@nm@16675000@nm@D@nm@
+SP@nm@São Luiz do Paraitinga@nm@12140000@nm@M@nm@
+SP@nm@São Manuel@nm@18650000@nm@M@nm@
+SP@nm@São Martinho D'Oeste@nm@16320000@nm@D@nm@
+SP@nm@São Miguel Arcanjo@nm@18230000@nm@M@nm@
+SP@nm@São Paulo@nm@@nm@M@nm@
+SP@nm@São Pedro@nm@13520000@nm@M@nm@
+SP@nm@São Pedro do Turvo@nm@18940000@nm@M@nm@
+SP@nm@São Roque@nm@@nm@M@nm@
+SP@nm@São Roque da Fartura@nm@13895000@nm@D@nm@
+SP@nm@São Sebastião@nm@11600000@nm@M@nm@
+SP@nm@São Sebastião da Grama@nm@13790000@nm@M@nm@
+SP@nm@São Sebastião da Serra@nm@17390000@nm@D@nm@
+SP@nm@São Silvestre de Jacareí@nm@@nm@D@nm@
+SP@nm@São Simão@nm@14200000@nm@M@nm@
+SP@nm@São Vicente@nm@@nm@M@nm@
+SP@nm@Sapezal@nm@19720000@nm@D@nm@
+SP@nm@Sarapuí@nm@18225000@nm@M@nm@
+SP@nm@Sarutaiá@nm@18840000@nm@M@nm@
+SP@nm@Sebastianópolis do Sul@nm@15180000@nm@M@nm@
+SP@nm@Serra Azul@nm@14230000@nm@M@nm@
+SP@nm@Serra Negra@nm@13930000@nm@M@nm@
+SP@nm@Serrana@nm@14150000@nm@M@nm@
+SP@nm@Sertãozinho@nm@@nm@M@nm@
+SP@nm@Sete Barras@nm@11910000@nm@M@nm@
+SP@nm@Severínia@nm@14735000@nm@M@nm@
+SP@nm@Silvânia@nm@@nm@P@nm@
+SP@nm@Silveiras@nm@12690000@nm@M@nm@
+SP@nm@Simões@nm@16510000@nm@D@nm@
+SP@nm@Simonsen@nm@@nm@D@nm@
+SP@nm@Socorro@nm@13960000@nm@M@nm@
+SP@nm@Sodrélia@nm@18910000@nm@D@nm@
+SP@nm@Solemar@nm@@nm@D@nm@
+SP@nm@Sorocaba@nm@@nm@M@nm@
+SP@nm@Sousas@nm@@nm@D@nm@
+SP@nm@Sud Mennucci@nm@15360000@nm@M@nm@
+SP@nm@Suinana@nm@15437000@nm@D@nm@
+SP@nm@Sumaré@nm@@nm@M@nm@
+SP@nm@Sussui@nm@19975000@nm@D@nm@
+SP@nm@Suzanápolis@nm@15380000@nm@M@nm@
+SP@nm@Suzano@nm@@nm@M@nm@
+SP@nm@Tabajara@nm@16855000@nm@D@nm@
+SP@nm@Tabapuã@nm@15880000@nm@M@nm@
+SP@nm@Tabatinga@nm@14910000@nm@M@nm@
+SP@nm@Taboão da Serra@nm@@nm@M@nm@
+SP@nm@Taciba@nm@19590000@nm@M@nm@
+SP@nm@Taguaí@nm@18890000@nm@M@nm@
+SP@nm@Taiaçu@nm@14725000@nm@M@nm@
+SP@nm@Taiacupeba@nm@@nm@D@nm@
+SP@nm@Taiúva@nm@14720000@nm@M@nm@
+SP@nm@Talhado@nm@@nm@D@nm@
+SP@nm@Tambaú@nm@13710000@nm@M@nm@
+SP@nm@Tanabi@nm@15170000@nm@M@nm@
+SP@nm@Tapinas@nm@14907000@nm@D@nm@
+SP@nm@Tapiraí@nm@18180000@nm@M@nm@
+SP@nm@Tapiratiba@nm@13760000@nm@M@nm@
+SP@nm@Taquaral@nm@14765000@nm@M@nm@
+SP@nm@Taquaral@nm@14834000@nm@D@nm@
+SP@nm@Taquaritinga@nm@15900000@nm@M@nm@
+SP@nm@Taquarituba@nm@18740000@nm@M@nm@
+SP@nm@Taquarivaí@nm@18425000@nm@M@nm@
+SP@nm@Tarabai@nm@19210000@nm@M@nm@
+SP@nm@Tarumã@nm@19820000@nm@M@nm@
+SP@nm@Tatuí@nm@@nm@M@nm@
+SP@nm@Taubaté@nm@@nm@M@nm@
+SP@nm@Tecainda@nm@19505000@nm@D@nm@
+SP@nm@Tejupá@nm@18830000@nm@M@nm@
+SP@nm@Teodoro Sampaio@nm@19280000@nm@M@nm@
+SP@nm@Termas de Ibirá@nm@15868000@nm@D@nm@
+SP@nm@Terra Nova D'Oeste@nm@17945000@nm@D@nm@
+SP@nm@Terra Roxa@nm@14745000@nm@M@nm@
+SP@nm@Tibiriçá@nm@@nm@D@nm@
+SP@nm@Tibiriçá do Paranapanema@nm@18810000@nm@D@nm@
+SP@nm@Tietê@nm@18530000@nm@M@nm@
+SP@nm@Timburi@nm@18860000@nm@M@nm@
+SP@nm@Toledo@nm@17627000@nm@P@nm@
+SP@nm@Torre de Pedra@nm@18265000@nm@M@nm@
+SP@nm@Torrinha@nm@17360000@nm@M@nm@
+SP@nm@Trabiju@nm@14935000@nm@M@nm@
+SP@nm@Tremembé@nm@12120000@nm@M@nm@
+SP@nm@Três Alianças@nm@16830000@nm@D@nm@
+SP@nm@Três Fronteiras@nm@15770000@nm@M@nm@
+SP@nm@Três Pontes@nm@@nm@D@nm@
+SP@nm@Tuiuti@nm@12930000@nm@M@nm@
+SP@nm@Tujuguaba@nm@13839000@nm@D@nm@
+SP@nm@Tupã@nm@@nm@M@nm@
+SP@nm@Tupi@nm@@nm@D@nm@
+SP@nm@Tupi Paulista@nm@17930000@nm@M@nm@
+SP@nm@Turiba do Sul@nm@18450000@nm@D@nm@
+SP@nm@Turiúba@nm@15280000@nm@M@nm@
+SP@nm@Turmalina@nm@15755000@nm@M@nm@
+SP@nm@Turvínia@nm@@nm@D@nm@
+SP@nm@Ubarana@nm@15225000@nm@M@nm@
+SP@nm@Ubatuba@nm@11680000@nm@M@nm@
+SP@nm@Ubirajara@nm@17440000@nm@M@nm@
+SP@nm@Uchoa@nm@15890000@nm@M@nm@
+SP@nm@União Paulista@nm@15250000@nm@M@nm@
+SP@nm@Universo@nm@@nm@D@nm@
+SP@nm@Urânia@nm@15760000@nm@M@nm@
+SP@nm@Uru@nm@16650000@nm@M@nm@
+SP@nm@Urupês@nm@15850000@nm@M@nm@
+SP@nm@Ururai@nm@15955000@nm@D@nm@
+SP@nm@Utinga@nm@@nm@D@nm@
+SP@nm@Vale Formoso@nm@14970000@nm@D@nm@
+SP@nm@Valentim Gentil@nm@15520000@nm@M@nm@
+SP@nm@Valinhos@nm@@nm@M@nm@
+SP@nm@Valparaíso@nm@16880000@nm@M@nm@
+SP@nm@Vanglória@nm@17282000@nm@D@nm@
+SP@nm@Vargem@nm@12935000@nm@M@nm@
+SP@nm@Vargem Grande do Sul@nm@13880000@nm@M@nm@
+SP@nm@Vargem Grande Paulista@nm@06730000@nm@M@nm@
+SP@nm@Varpa@nm@@nm@D@nm@
+SP@nm@Várzea Paulista@nm@@nm@M@nm@
+SP@nm@Venda Branca@nm@13707000@nm@D@nm@
+SP@nm@Vera Cruz@nm@17560000@nm@M@nm@
+SP@nm@Vicente de Carvalho@nm@@nm@D@nm@
+SP@nm@Vicentinópolis@nm@16140000@nm@D@nm@
+SP@nm@Vila Dirce@nm@@nm@D@nm@
+SP@nm@Vila Nery@nm@@nm@D@nm@
+SP@nm@Vila Xavier@nm@@nm@D@nm@
+SP@nm@Vinhedo@nm@13280000@nm@M@nm@
+SP@nm@Viradouro@nm@14740000@nm@M@nm@
+SP@nm@Vista Alegre do Alto@nm@15920000@nm@M@nm@
+SP@nm@Vitória Brasil@nm@15713000@nm@M@nm@
+SP@nm@Vitoriana@nm@@nm@D@nm@
+SP@nm@Votorantim@nm@@nm@M@nm@
+SP@nm@Votuporanga@nm@@nm@M@nm@
+SP@nm@Zacarias@nm@15265000@nm@M@nm@

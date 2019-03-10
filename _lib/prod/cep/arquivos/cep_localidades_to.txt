@@ -1,0 +1,171 @@
+TO@nm@Abreulândia@nm@77693000@nm@M@nm@
+TO@nm@Aguiarnópolis@nm@77908000@nm@M@nm@
+TO@nm@Aliança do Tocantins@nm@77455000@nm@M@nm@
+TO@nm@Almas@nm@77310000@nm@M@nm@
+TO@nm@Alvorada@nm@77480000@nm@M@nm@
+TO@nm@Anajanópolis@nm@77712000@nm@D@nm@
+TO@nm@Ananás@nm@77890000@nm@M@nm@
+TO@nm@Angico@nm@77905000@nm@M@nm@
+TO@nm@Aparecida do Rio Negro@nm@77620000@nm@M@nm@
+TO@nm@Apinajé@nm@77393000@nm@D@nm@
+TO@nm@Aragaçuí@nm@77683000@nm@D@nm@
+TO@nm@Aragominas@nm@77845000@nm@M@nm@
+TO@nm@Araguacema@nm@77690000@nm@M@nm@
+TO@nm@Araguaçu@nm@77475000@nm@M@nm@
+TO@nm@Araguaína@nm@@nm@M@nm@
+TO@nm@Araguanã@nm@77855000@nm@M@nm@
+TO@nm@Araguatins@nm@77950000@nm@M@nm@
+TO@nm@Arapoema@nm@77780000@nm@M@nm@
+TO@nm@Arraias@nm@77330000@nm@M@nm@
+TO@nm@Augustinópolis@nm@77960000@nm@M@nm@
+TO@nm@Aurora do Tocantins@nm@77325000@nm@M@nm@
+TO@nm@Axixá do Tocantins@nm@77930000@nm@M@nm@
+TO@nm@Babaçulândia@nm@77870000@nm@M@nm@
+TO@nm@Bandeirantes do Tocantins@nm@77783000@nm@M@nm@
+TO@nm@Barra do Grota@nm@77835600@nm@P@nm@
+TO@nm@Barra do Ouro@nm@77765000@nm@M@nm@
+TO@nm@Barrolândia@nm@77665000@nm@M@nm@
+TO@nm@Bernardo Sayão@nm@77755000@nm@M@nm@
+TO@nm@Bom Jesus do Tocantins@nm@77714000@nm@M@nm@
+TO@nm@Brasilândia@nm@77837400@nm@P@nm@
+TO@nm@Brasilândia do Tocantins@nm@77735000@nm@M@nm@
+TO@nm@Brejinho de Nazaré@nm@77560000@nm@M@nm@
+TO@nm@Buriti do Tocantins@nm@77995000@nm@M@nm@
+TO@nm@Cachoeirinha@nm@77915000@nm@M@nm@
+TO@nm@Campos Lindos@nm@77777000@nm@M@nm@
+TO@nm@Cana Brava@nm@77333000@nm@D@nm@
+TO@nm@Cariri do Tocantins@nm@77453000@nm@M@nm@
+TO@nm@Carmolândia@nm@77840000@nm@M@nm@
+TO@nm@Carrasco Bonito@nm@77985000@nm@M@nm@
+TO@nm@Cartucho@nm@77772000@nm@D@nm@
+TO@nm@Caseara@nm@77680000@nm@M@nm@
+TO@nm@Centenário@nm@77723000@nm@M@nm@
+TO@nm@Chapada da Natividade@nm@77378000@nm@M@nm@
+TO@nm@Chapada de Areia@nm@77575000@nm@M@nm@
+TO@nm@Cocalândia@nm@77836000@nm@P@nm@
+TO@nm@Cocalinho@nm@77839000@nm@P@nm@
+TO@nm@Colinas do Tocantins@nm@77760000@nm@M@nm@
+TO@nm@Colméia@nm@77725000@nm@M@nm@
+TO@nm@Combinado@nm@77350000@nm@M@nm@
+TO@nm@Conceição do Tocantins@nm@77305000@nm@M@nm@
+TO@nm@Correinha@nm@77836200@nm@P@nm@
+TO@nm@Couto de Magalhães@nm@77750000@nm@M@nm@
+TO@nm@Craolândia@nm@77774000@nm@D@nm@
+TO@nm@Cristalândia@nm@77490000@nm@M@nm@
+TO@nm@Crixás@nm@77449000@nm@P@nm@
+TO@nm@Crixás do Tocantins@nm@77463000@nm@M@nm@
+TO@nm@Darcinópolis@nm@77910000@nm@M@nm@
+TO@nm@Dianópolis@nm@77300000@nm@M@nm@
+TO@nm@Divinópolis do Tocantins@nm@77670000@nm@M@nm@
+TO@nm@Dois Irmãos do Tocantins@nm@77685000@nm@M@nm@
+TO@nm@Duerê@nm@77485000@nm@M@nm@
+TO@nm@Escondido@nm@77836600@nm@P@nm@
+TO@nm@Esperantina@nm@77993000@nm@M@nm@
+TO@nm@Fátima@nm@77555000@nm@M@nm@
+TO@nm@Figueirópolis@nm@77465000@nm@M@nm@
+TO@nm@Filadélfia@nm@77795000@nm@M@nm@
+TO@nm@Formoso do Araguaia@nm@77470000@nm@M@nm@
+TO@nm@Fortaleza do Tabocão@nm@77708000@nm@M@nm@
+TO@nm@Goianorte@nm@77695000@nm@M@nm@
+TO@nm@Goiatins@nm@77770000@nm@M@nm@
+TO@nm@Guaraí@nm@77700000@nm@M@nm@
+TO@nm@Gurupi@nm@@nm@M@nm@
+TO@nm@Ilha Barreira Branca@nm@77837000@nm@P@nm@
+TO@nm@Ipueiras@nm@77553000@nm@M@nm@
+TO@nm@Itacajá@nm@77720000@nm@M@nm@
+TO@nm@Itaguatins@nm@77920000@nm@M@nm@
+TO@nm@Itapiratins@nm@77718000@nm@M@nm@
+TO@nm@Itaporã do Tocantins@nm@77740000@nm@M@nm@
+TO@nm@Jaú do Tocantins@nm@77450000@nm@M@nm@
+TO@nm@Juarina@nm@77753000@nm@M@nm@
+TO@nm@Jussara@nm@77837100@nm@P@nm@
+TO@nm@Lagoa da Confusão@nm@77493000@nm@M@nm@
+TO@nm@Lagoa do Tocantins@nm@77613000@nm@M@nm@
+TO@nm@Lajeado@nm@77645000@nm@M@nm@
+TO@nm@Lavandeira@nm@77328000@nm@M@nm@
+TO@nm@Lizarda@nm@77630000@nm@M@nm@
+TO@nm@Luzimangues@nm@77502000@nm@D@nm@
+TO@nm@Luzinópolis@nm@77903000@nm@M@nm@
+TO@nm@Marianópolis do Tocantins@nm@77675000@nm@M@nm@
+TO@nm@Mateiros@nm@77593000@nm@M@nm@
+TO@nm@Maurilândia do Tocantins@nm@77918000@nm@M@nm@
+TO@nm@Miracema do Tocantins@nm@77650000@nm@M@nm@
+TO@nm@Mirandópolis@nm@77702000@nm@D@nm@
+TO@nm@Miranorte@nm@77660000@nm@M@nm@
+TO@nm@Monte do Carmo@nm@77585000@nm@M@nm@
+TO@nm@Monte Lindo@nm@77776000@nm@D@nm@
+TO@nm@Monte Santo do Tocantins@nm@77673000@nm@M@nm@
+TO@nm@Muricilândia@nm@77850000@nm@M@nm@
+TO@nm@Natal@nm@77953000@nm@D@nm@
+TO@nm@Natividade@nm@77370000@nm@M@nm@
+TO@nm@Nazaré@nm@77895000@nm@M@nm@
+TO@nm@Nova Olinda@nm@77790000@nm@M@nm@
+TO@nm@Nova Rosalândia@nm@77495000@nm@M@nm@
+TO@nm@Novo Acordo@nm@77610000@nm@M@nm@
+TO@nm@Novo Alegre@nm@77353000@nm@M@nm@
+TO@nm@Novo Horizonte@nm@77839200@nm@P@nm@
+TO@nm@Novo Jardim@nm@77318000@nm@M@nm@
+TO@nm@Oliveira de Fátima@nm@77558000@nm@M@nm@
+TO@nm@Palmas@nm@@nm@M@nm@
+TO@nm@Palmeirante@nm@77798000@nm@M@nm@
+TO@nm@Palmeiras do Tocantins@nm@77913000@nm@M@nm@
+TO@nm@Palmeirópolis@nm@77365000@nm@M@nm@
+TO@nm@Paraíso do Tocantins@nm@77600000@nm@M@nm@
+TO@nm@Paranã@nm@77360000@nm@M@nm@
+TO@nm@Pau D'Arco@nm@77785000@nm@M@nm@
+TO@nm@Pé da Serra@nm@77839400@nm@P@nm@
+TO@nm@Pedro Afonso@nm@77710000@nm@M@nm@
+TO@nm@Pedro Ludovico@nm@77835400@nm@P@nm@
+TO@nm@Peixe@nm@77460000@nm@M@nm@
+TO@nm@Peixe@nm@77835200@nm@P@nm@
+TO@nm@Pequizeiro@nm@77730000@nm@M@nm@
+TO@nm@Pilões@nm@77836400@nm@P@nm@
+TO@nm@Pindorama do Tocantins@nm@77380000@nm@M@nm@
+TO@nm@Piraquê@nm@77888000@nm@M@nm@
+TO@nm@Pium@nm@77570000@nm@M@nm@
+TO@nm@Ponte Alta do Bom Jesus@nm@77315000@nm@M@nm@
+TO@nm@Ponte Alta do Tocantins@nm@77590000@nm@M@nm@
+TO@nm@Pontes@nm@77838200@nm@P@nm@
+TO@nm@Porãozinho@nm@77837200@nm@P@nm@
+TO@nm@Porto Alegre do Tocantins@nm@77395000@nm@M@nm@
+TO@nm@Porto Lemos@nm@77837600@nm@P@nm@
+TO@nm@Porto Nacional@nm@77500000@nm@M@nm@
+TO@nm@Praia Norte@nm@77970000@nm@M@nm@
+TO@nm@Presidente Kennedy@nm@77745000@nm@M@nm@
+TO@nm@Príncipe@nm@77373000@nm@D@nm@
+TO@nm@Pugmil@nm@77603000@nm@M@nm@
+TO@nm@Recursolândia@nm@77733000@nm@M@nm@
+TO@nm@Riachinho@nm@77893000@nm@M@nm@
+TO@nm@Rio da Conceição@nm@77303000@nm@M@nm@
+TO@nm@Rio dos Bois@nm@77655000@nm@M@nm@
+TO@nm@Rio Sono@nm@77635000@nm@M@nm@
+TO@nm@Sampaio@nm@77980000@nm@M@nm@
+TO@nm@Sandolândia@nm@77478000@nm@M@nm@
+TO@nm@Santa Fé do Araguaia@nm@77848000@nm@M@nm@
+TO@nm@Santa Maria do Tocantins@nm@77716000@nm@M@nm@
+TO@nm@Santa Rita do Tocantins@nm@77565000@nm@M@nm@
+TO@nm@Santa Rosa do Tocantins@nm@77375000@nm@M@nm@
+TO@nm@Santa Tereza do Tocantins@nm@77615000@nm@M@nm@
+TO@nm@Santa Terezinha do Tocantins@nm@77885000@nm@M@nm@
+TO@nm@São Bento do Tocantins@nm@77958000@nm@M@nm@
+TO@nm@São Félix do Tocantins@nm@77605000@nm@M@nm@
+TO@nm@São Miguel do Tocantins@nm@77925000@nm@M@nm@
+TO@nm@São Salvador do Tocantins@nm@77368000@nm@M@nm@
+TO@nm@São Sebastião do Tocantins@nm@77990000@nm@M@nm@
+TO@nm@São Valério da Natividade@nm@77390000@nm@M@nm@
+TO@nm@Silvanópolis@nm@77580000@nm@M@nm@
+TO@nm@Sítio Novo do Tocantins@nm@77940000@nm@M@nm@
+TO@nm@Sucupira@nm@77458000@nm@M@nm@
+TO@nm@Taguatinga@nm@77320000@nm@M@nm@
+TO@nm@Taipas do Tocantins@nm@77308000@nm@M@nm@
+TO@nm@Talismã@nm@77483000@nm@M@nm@
+TO@nm@Tamboril@nm@77898000@nm@D@nm@
+TO@nm@Taquarussu do Tocantins@nm@77260000@nm@D@nm@
+TO@nm@Tocantínia@nm@77640000@nm@M@nm@
+TO@nm@Tocantinópolis@nm@77900000@nm@M@nm@
+TO@nm@Tupirama@nm@77704000@nm@M@nm@
+TO@nm@Tupiratã@nm@77748000@nm@D@nm@
+TO@nm@Tupiratins@nm@77743000@nm@M@nm@
+TO@nm@Vênus@nm@77838600@nm@P@nm@
+TO@nm@Wanderlândia@nm@77860000@nm@M@nm@
+TO@nm@Xambioá@nm@77880000@nm@M@nm@

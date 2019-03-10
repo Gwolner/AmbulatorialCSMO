@@ -1,0 +1,118 @@
+AM@nm@Agrovila São Sebastião do Caburi@nm@69159000@nm@P@nm@
+AM@nm@Alvarães@nm@69540000@nm@M@nm@
+AM@nm@Amatari@nm@69110000@nm@D@nm@
+AM@nm@Amaturá@nm@69620000@nm@M@nm@
+AM@nm@Anamã@nm@69445000@nm@M@nm@
+AM@nm@Anori@nm@69440000@nm@M@nm@
+AM@nm@Apuí@nm@69265000@nm@M@nm@
+AM@nm@Araras@nm@69429800@nm@P@nm@
+AM@nm@Ariaú@nm@69165000@nm@D@nm@
+AM@nm@Ariaú@nm@69424000@nm@D@nm@
+AM@nm@Atalaia do Norte@nm@69650000@nm@M@nm@
+AM@nm@Augusto Montenegro@nm@69182000@nm@D@nm@
+AM@nm@Autazes@nm@69240000@nm@M@nm@
+AM@nm@Axinim@nm@69210000@nm@D@nm@
+AM@nm@Badajós@nm@69452000@nm@D@nm@
+AM@nm@Balbina@nm@69736000@nm@D@nm@
+AM@nm@Barcelos@nm@69700000@nm@M@nm@
+AM@nm@Barreirinha@nm@69160000@nm@M@nm@
+AM@nm@Belém de Solimões@nm@69649800@nm@P@nm@
+AM@nm@Benjamin Constant@nm@69630000@nm@M@nm@
+AM@nm@Beruri@nm@69430000@nm@M@nm@
+AM@nm@Boa Vista do Ramos@nm@69195000@nm@M@nm@
+AM@nm@Boca do Acre@nm@69850000@nm@M@nm@
+AM@nm@Borba@nm@69200000@nm@M@nm@
+AM@nm@Caapiranga@nm@69425000@nm@M@nm@
+AM@nm@Cacau Pirêra@nm@69421000@nm@D@nm@
+AM@nm@Caiambé@nm@69559000@nm@D@nm@
+AM@nm@Cametá@nm@69162000@nm@D@nm@
+AM@nm@Canumã@nm@69212000@nm@D@nm@
+AM@nm@Canutama@nm@69820000@nm@M@nm@
+AM@nm@Carauari@nm@69500000@nm@M@nm@
+AM@nm@Careiro@nm@69250000@nm@M@nm@
+AM@nm@Careiro da Várzea@nm@69255000@nm@M@nm@
+AM@nm@Careiro Parauá@nm@69254600@nm@P@nm@
+AM@nm@Carvoeiro@nm@69725000@nm@D@nm@
+AM@nm@Coari@nm@69460000@nm@M@nm@
+AM@nm@Codajás@nm@69450000@nm@M@nm@
+AM@nm@Cucuí@nm@69765000@nm@D@nm@
+AM@nm@Eirunepé@nm@69880000@nm@M@nm@
+AM@nm@Envira@nm@69870000@nm@M@nm@
+AM@nm@Estirão do Equador@nm@69659800@nm@P@nm@
+AM@nm@Feijoal@nm@69639800@nm@P@nm@
+AM@nm@Floriano Peixoto@nm@69855000@nm@D@nm@
+AM@nm@Fonte Boa@nm@69670000@nm@M@nm@
+AM@nm@Freguesia do Andirá@nm@69170000@nm@D@nm@
+AM@nm@Guajará@nm@69895000@nm@M@nm@
+AM@nm@Humaitá@nm@69800000@nm@M@nm@
+AM@nm@Iauaretê@nm@69790000@nm@D@nm@
+AM@nm@Içanã@nm@69760000@nm@D@nm@
+AM@nm@Ipixuna@nm@69890000@nm@M@nm@
+AM@nm@Iranduba@nm@69415000@nm@M@nm@
+AM@nm@Itacoatiara@nm@@nm@M@nm@
+AM@nm@Itamarati@nm@69510000@nm@M@nm@
+AM@nm@Itapeaçu@nm@69184000@nm@P@nm@
+AM@nm@Itapiranga@nm@69120000@nm@M@nm@
+AM@nm@Japurá@nm@69495000@nm@M@nm@
+AM@nm@Juruá@nm@69520000@nm@M@nm@
+AM@nm@Jutaí@nm@69660000@nm@M@nm@
+AM@nm@Lábrea@nm@69830000@nm@M@nm@
+AM@nm@Lago do Limão@nm@69423000@nm@D@nm@
+AM@nm@Lago Preto@nm@69196000@nm@D@nm@
+AM@nm@Limoeiro@nm@69499700@nm@P@nm@
+AM@nm@Manacapuru@nm@@nm@M@nm@
+AM@nm@Manaquiri@nm@69435000@nm@M@nm@
+AM@nm@Manaus@nm@@nm@M@nm@
+AM@nm@Manicoré@nm@69280000@nm@M@nm@
+AM@nm@Maraã@nm@69490000@nm@M@nm@
+AM@nm@Massauari@nm@69197000@nm@D@nm@
+AM@nm@Maués@nm@69190000@nm@M@nm@
+AM@nm@Mocambo@nm@69158000@nm@D@nm@
+AM@nm@Moura@nm@69720000@nm@D@nm@
+AM@nm@Murituba@nm@69459800@nm@P@nm@
+AM@nm@Murutinga@nm@69245000@nm@D@nm@
+AM@nm@Nhamundá@nm@69140000@nm@M@nm@
+AM@nm@Nova Olinda do Norte@nm@69230000@nm@M@nm@
+AM@nm@Novo Airão@nm@69730000@nm@M@nm@
+AM@nm@Novo Aripuanã@nm@69260000@nm@M@nm@
+AM@nm@Novo Céu@nm@69249800@nm@P@nm@
+AM@nm@Novo Remanso@nm@69112000@nm@P@nm@
+AM@nm@Osório da Fonseca@nm@69192000@nm@D@nm@
+AM@nm@Palmeiras@nm@69649700@nm@P@nm@
+AM@nm@Paricatuba@nm@69422000@nm@D@nm@
+AM@nm@Parintins@nm@@nm@M@nm@
+AM@nm@Pauini@nm@69860000@nm@M@nm@
+AM@nm@Pedras@nm@69175000@nm@D@nm@
+AM@nm@Platô do Piquiá@nm@69859800@nm@P@nm@
+AM@nm@Presidente Figueiredo@nm@69735000@nm@M@nm@
+AM@nm@Purupuru@nm@69254800@nm@P@nm@
+AM@nm@Repartimento@nm@69193000@nm@D@nm@
+AM@nm@Repartimento de Tuiué@nm@69414400@nm@P@nm@
+AM@nm@Rio Preto da Eva@nm@69117000@nm@M@nm@
+AM@nm@Santa Isabel do Rio Negro@nm@69740000@nm@M@nm@
+AM@nm@Santa Rita@nm@69610000@nm@D@nm@
+AM@nm@Santana@nm@69139800@nm@P@nm@
+AM@nm@Santo Antônio do Içá@nm@69680000@nm@M@nm@
+AM@nm@Santo Antônio do Matupi@nm@69299800@nm@P@nm@
+AM@nm@São Felipe@nm@69752000@nm@D@nm@
+AM@nm@São Gabriel da Cachoeira@nm@69750000@nm@M@nm@
+AM@nm@São Paulo de Olivença@nm@69600000@nm@M@nm@
+AM@nm@São Sebastião do Uatumã@nm@69135000@nm@M@nm@
+AM@nm@Silves@nm@69114000@nm@M@nm@
+AM@nm@Tabatinga@nm@69640000@nm@M@nm@
+AM@nm@Tapauá@nm@69480000@nm@M@nm@
+AM@nm@Tefé@nm@@nm@M@nm@
+AM@nm@Terra Nova@nm@69254700@nm@P@nm@
+AM@nm@Tonantins@nm@69685000@nm@M@nm@
+AM@nm@Uarini@nm@69530000@nm@M@nm@
+AM@nm@Urucará@nm@69130000@nm@M@nm@
+AM@nm@Urucurituba@nm@69180000@nm@M@nm@
+AM@nm@Vila Amazônia@nm@69158700@nm@P@nm@
+AM@nm@Vila Bittencourt@nm@69499800@nm@P@nm@
+AM@nm@Vila de Campinas@nm@69414800@nm@P@nm@
+AM@nm@Vila de Sacambu@nm@69414600@nm@P@nm@
+AM@nm@Vila do Lago do Jacaré@nm@69414000@nm@P@nm@
+AM@nm@Vila Lindóia@nm@69113800@nm@P@nm@
+AM@nm@Vila Pitinga@nm@69737000@nm@P@nm@
+AM@nm@Vila Rica de Caviana@nm@69414200@nm@P@nm@
+AM@nm@Vila Zé Açu@nm@69158800@nm@P@nm@

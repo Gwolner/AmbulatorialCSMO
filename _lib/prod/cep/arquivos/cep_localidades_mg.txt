@@ -1,0 +1,1563 @@
+MG@nm@Abadia dos Dourados@nm@38540000@nm@M@nm@
+MG@nm@Abaeté@nm@35620000@nm@M@nm@
+MG@nm@Abaeté dos Mendes@nm@38812000@nm@D@nm@
+MG@nm@Abaíba@nm@36704000@nm@D@nm@
+MG@nm@Abre Campo@nm@35365000@nm@M@nm@
+MG@nm@Abreus@nm@36263000@nm@D@nm@
+MG@nm@Acaiaca@nm@35438000@nm@M@nm@
+MG@nm@Açucena@nm@35147000@nm@M@nm@
+MG@nm@Acuruí@nm@35451000@nm@D@nm@
+MG@nm@Adão Colares@nm@39597000@nm@D@nm@
+MG@nm@Água Boa@nm@39790000@nm@M@nm@
+MG@nm@Água Branca de Minas@nm@39629000@nm@D@nm@
+MG@nm@Água Comprida@nm@38110000@nm@M@nm@
+MG@nm@Água Santa de Minas@nm@36845000@nm@D@nm@
+MG@nm@Água Viva@nm@36728000@nm@D@nm@
+MG@nm@Aguanil@nm@37273000@nm@M@nm@
+MG@nm@Águas de Araxá@nm@@nm@P@nm@
+MG@nm@Águas de Contendas@nm@37435000@nm@D@nm@
+MG@nm@Águas Férreas@nm@35362000@nm@D@nm@
+MG@nm@Águas Formosas@nm@39880000@nm@M@nm@
+MG@nm@Águas Vermelhas@nm@39990000@nm@M@nm@
+MG@nm@Aimorés@nm@35200000@nm@M@nm@
+MG@nm@Aiuruoca@nm@37450000@nm@M@nm@
+MG@nm@Alagoa@nm@37458000@nm@M@nm@
+MG@nm@Albertina@nm@37596000@nm@M@nm@
+MG@nm@Alberto Isaacson@nm@35608000@nm@D@nm@
+MG@nm@Albertos@nm@35576000@nm@D@nm@
+MG@nm@Aldeia@nm@35245000@nm@D@nm@
+MG@nm@Alegre@nm@38560000@nm@D@nm@
+MG@nm@Alegria@nm@36935000@nm@D@nm@
+MG@nm@Além Paraíba@nm@36660000@nm@M@nm@
+MG@nm@Alexandrita@nm@38282000@nm@D@nm@
+MG@nm@Alfenas@nm@@nm@M@nm@
+MG@nm@Alfredo Vasconcelos@nm@36272000@nm@M@nm@
+MG@nm@Almeida@nm@35835000@nm@D@nm@
+MG@nm@Almenara@nm@39900000@nm@M@nm@
+MG@nm@Alpercata@nm@35138000@nm@M@nm@
+MG@nm@Alpinópolis@nm@37940000@nm@M@nm@
+MG@nm@Alterosa@nm@37145000@nm@M@nm@
+MG@nm@Alto Belo@nm@39394000@nm@D@nm@
+MG@nm@Alto Caparaó@nm@36979000@nm@M@nm@
+MG@nm@Alto Capim@nm@35210000@nm@D@nm@
+MG@nm@Alto de Santa Helena@nm@35102000@nm@D@nm@
+MG@nm@Alto Jequitibá@nm@36976000@nm@M@nm@
+MG@nm@Alto Maranhão@nm@36417000@nm@D@nm@
+MG@nm@Alto Rio Doce@nm@36260000@nm@M@nm@
+MG@nm@Altolândia@nm@38985000@nm@D@nm@
+MG@nm@Alvação@nm@39347000@nm@D@nm@
+MG@nm@Alvarenga@nm@35249000@nm@M@nm@
+MG@nm@Alvinópolis@nm@35950000@nm@M@nm@
+MG@nm@Alvorada@nm@36803000@nm@D@nm@
+MG@nm@Alvorada de Minas@nm@39140000@nm@M@nm@
+MG@nm@Amanda@nm@35734000@nm@D@nm@
+MG@nm@Amanhece@nm@38455000@nm@D@nm@
+MG@nm@Amarantina@nm@35412000@nm@D@nm@
+MG@nm@Amparo da Serra@nm@35444000@nm@M@nm@
+MG@nm@Andiroba@nm@35745000@nm@D@nm@
+MG@nm@Andradas@nm@37795000@nm@M@nm@
+MG@nm@Andrelândia@nm@37300000@nm@M@nm@
+MG@nm@Andrequicé@nm@39207000@nm@D@nm@
+MG@nm@Angaturama@nm@36746000@nm@D@nm@
+MG@nm@Angelândia@nm@39685000@nm@M@nm@
+MG@nm@Angicos de Minas@nm@39332000@nm@D@nm@
+MG@nm@Angueretá@nm@35793000@nm@D@nm@
+MG@nm@Angustura@nm@36664000@nm@D@nm@
+MG@nm@Antônio Carlos@nm@36220000@nm@M@nm@
+MG@nm@Antônio Dias@nm@35177000@nm@M@nm@
+MG@nm@Antônio dos Santos@nm@34960000@nm@D@nm@
+MG@nm@Antônio Ferreira@nm@39697000@nm@D@nm@
+MG@nm@Antônio Pereira@nm@35411000@nm@D@nm@
+MG@nm@Antônio Prado de Minas@nm@36850000@nm@M@nm@
+MG@nm@Antunes@nm@35698000@nm@D@nm@
+MG@nm@Aparecida de Minas@nm@38205000@nm@D@nm@
+MG@nm@Aparecida do Mundo Novo@nm@39429100@nm@D@nm@
+MG@nm@Araçaí@nm@35777000@nm@M@nm@
+MG@nm@Araçaji de Minas@nm@39976000@nm@D@nm@
+MG@nm@Aracati de Minas@nm@36776000@nm@D@nm@
+MG@nm@Aracitaba@nm@36255000@nm@M@nm@
+MG@nm@Araçuaí@nm@39600000@nm@M@nm@
+MG@nm@Araguari@nm@@nm@M@nm@
+MG@nm@Aramirim@nm@35147100@nm@D@nm@
+MG@nm@Aranha@nm@35462000@nm@D@nm@
+MG@nm@Arantina@nm@37360000@nm@M@nm@
+MG@nm@Araponga@nm@36594000@nm@M@nm@
+MG@nm@Araporã@nm@38465000@nm@M@nm@
+MG@nm@Arapuá@nm@38860000@nm@M@nm@
+MG@nm@Araújos@nm@35603000@nm@M@nm@
+MG@nm@Araúna@nm@37180000@nm@D@nm@
+MG@nm@Araxá@nm@@nm@M@nm@
+MG@nm@Arceburgo@nm@37820000@nm@M@nm@
+MG@nm@Arcos@nm@35588000@nm@M@nm@
+MG@nm@Areado@nm@37140000@nm@M@nm@
+MG@nm@Argenita@nm@38955000@nm@D@nm@
+MG@nm@Argirita@nm@36710000@nm@M@nm@
+MG@nm@Aricanduva@nm@39678000@nm@M@nm@
+MG@nm@Arinos@nm@38680000@nm@M@nm@
+MG@nm@Aristides Batista@nm@39341000@nm@D@nm@
+MG@nm@Ascenção@nm@35665000@nm@D@nm@
+MG@nm@Assaraí@nm@36966000@nm@D@nm@
+MG@nm@Astolfo Dutra@nm@36780000@nm@M@nm@
+MG@nm@Ataléia@nm@39850000@nm@M@nm@
+MG@nm@Augusto de Lima@nm@39219000@nm@M@nm@
+MG@nm@Avaí do Jacinto@nm@39931000@nm@D@nm@
+MG@nm@Azurita@nm@35672000@nm@D@nm@
+MG@nm@Babilônia@nm@37915000@nm@D@nm@
+MG@nm@Bação@nm@35453000@nm@D@nm@
+MG@nm@Baependi@nm@37443000@nm@M@nm@
+MG@nm@Baguari@nm@35105000@nm@D@nm@
+MG@nm@Baiões@nm@35575000@nm@D@nm@
+MG@nm@Baixa@nm@38101000@nm@D@nm@
+MG@nm@Baixa Quente@nm@39652000@nm@D@nm@
+MG@nm@Balbinópolis@nm@39877000@nm@D@nm@
+MG@nm@Baldim@nm@35732000@nm@M@nm@
+MG@nm@Bambuí@nm@38900000@nm@M@nm@
+MG@nm@Bandeira@nm@39917000@nm@M@nm@
+MG@nm@Bandeira do Sul@nm@37740000@nm@M@nm@
+MG@nm@Bandeirantes@nm@35423000@nm@D@nm@
+MG@nm@Barão de Cocais@nm@35970000@nm@M@nm@
+MG@nm@Barão de Monte Alto@nm@36870000@nm@M@nm@
+MG@nm@Barbacena@nm@@nm@M@nm@
+MG@nm@Barra Alegre@nm@35165000@nm@D@nm@
+MG@nm@Barra da Figueira@nm@36963000@nm@D@nm@
+MG@nm@Barra do Ariranha@nm@35295000@nm@D@nm@
+MG@nm@Barra do Cuieté@nm@35243000@nm@D@nm@
+MG@nm@Barra Feliz@nm@35963000@nm@D@nm@
+MG@nm@Barra Longa@nm@35447000@nm@M@nm@
+MG@nm@Barranco Alto@nm@37139200@nm@D@nm@
+MG@nm@Barreiro@nm@@nm@D@nm@
+MG@nm@Barreiro Branco@nm@39526700@nm@D@nm@
+MG@nm@Barreiro da Raiz@nm@39442000@nm@D@nm@
+MG@nm@Barreiro do Rio Verde@nm@39441000@nm@D@nm@
+MG@nm@Barretos de Alvinópolis@nm@35952000@nm@D@nm@
+MG@nm@Barrocão@nm@39572000@nm@D@nm@
+MG@nm@Barroso@nm@36212000@nm@M@nm@
+MG@nm@Baú@nm@35615000@nm@D@nm@
+MG@nm@Bela Vista de Minas@nm@35938000@nm@M@nm@
+MG@nm@Belisário@nm@36888000@nm@D@nm@
+MG@nm@Belmiro Braga@nm@36126000@nm@M@nm@
+MG@nm@Belo Horizonte@nm@@nm@M@nm@
+MG@nm@Belo Oriente@nm@35195000@nm@M@nm@
+MG@nm@Belo Oriente@nm@39806000@nm@P@nm@
+MG@nm@Belo Vale@nm@35473000@nm@M@nm@
+MG@nm@Beltrão@nm@39203000@nm@D@nm@
+MG@nm@Bentópolis de Minas@nm@39325000@nm@D@nm@
+MG@nm@Berilo@nm@39640000@nm@M@nm@
+MG@nm@Berizal@nm@39555000@nm@M@nm@
+MG@nm@Bertópolis@nm@39875000@nm@M@nm@
+MG@nm@Betim@nm@@nm@M@nm@
+MG@nm@Bias Fortes@nm@36230000@nm@M@nm@
+MG@nm@Bicas@nm@36600000@nm@M@nm@
+MG@nm@Bicuíba@nm@35352000@nm@D@nm@
+MG@nm@Biquinhas@nm@35621000@nm@M@nm@
+MG@nm@Bituri@nm@35497000@nm@D@nm@
+MG@nm@Boa Esperança@nm@37170000@nm@M@nm@
+MG@nm@Boa Esperança@nm@35574000@nm@P@nm@
+MG@nm@Boa Família@nm@36891000@nm@D@nm@
+MG@nm@Boa União de Itabirinha@nm@35285000@nm@D@nm@
+MG@nm@Boa Vista de Minas@nm@35517000@nm@D@nm@
+MG@nm@Boa Vista de Santa Maria@nm@38621000@nm@D@nm@
+MG@nm@Bocaina de Minas@nm@37340000@nm@M@nm@
+MG@nm@Bocaiúva@nm@39390000@nm@M@nm@
+MG@nm@Bom Despacho@nm@35600000@nm@M@nm@
+MG@nm@Bom Jardim das Pedras@nm@35535000@nm@D@nm@
+MG@nm@Bom Jardim de Minas@nm@37310000@nm@M@nm@
+MG@nm@Bom Jesus da Cachoeira@nm@36892000@nm@D@nm@
+MG@nm@Bom Jesus da Penha@nm@37948000@nm@M@nm@
+MG@nm@Bom Jesus de Angicos@nm@35559000@nm@D@nm@
+MG@nm@Bom Jesus de Cardosos@nm@35381000@nm@D@nm@
+MG@nm@Bom Jesus do Amparo@nm@35908000@nm@M@nm@
+MG@nm@Bom Jesus do Divino@nm@36825000@nm@D@nm@
+MG@nm@Bom Jesus do Galho@nm@35340000@nm@M@nm@
+MG@nm@Bom Jesus do Madeira@nm@36817000@nm@D@nm@
+MG@nm@Bom Jesus do Prata@nm@35112800@nm@P@nm@
+MG@nm@Bom Pastor@nm@35233000@nm@D@nm@
+MG@nm@Bom Repouso@nm@37610000@nm@M@nm@
+MG@nm@Bom Retiro@nm@36218000@nm@D@nm@
+MG@nm@Bom Sucesso@nm@37220000@nm@M@nm@
+MG@nm@Bom Sucesso de Patos@nm@38712000@nm@D@nm@
+MG@nm@Bonança@nm@39456000@nm@D@nm@
+MG@nm@Bonfim@nm@35480000@nm@M@nm@
+MG@nm@Bonfinópolis de Minas@nm@38650000@nm@M@nm@
+MG@nm@Bonito de Minas@nm@39490000@nm@M@nm@
+MG@nm@Borba Gato@nm@35803000@nm@D@nm@
+MG@nm@Borda da Mata@nm@37564000@nm@M@nm@
+MG@nm@Botelhos@nm@37720000@nm@M@nm@
+MG@nm@Boticão@nm@37274000@nm@D@nm@
+MG@nm@Botumirim@nm@39596000@nm@M@nm@
+MG@nm@Brás Pires@nm@36542000@nm@M@nm@
+MG@nm@Brasilândia de Minas@nm@38779000@nm@M@nm@
+MG@nm@Brasília de Minas@nm@39330000@nm@M@nm@
+MG@nm@Brasópolis@nm@37530000@nm@M@nm@
+MG@nm@Braúnas@nm@35189000@nm@M@nm@
+MG@nm@Brejaúba@nm@35858000@nm@D@nm@
+MG@nm@Brejaubinha@nm@35106000@nm@D@nm@
+MG@nm@Brejo Bonito@nm@38738000@nm@D@nm@
+MG@nm@Brejo do Amparo@nm@39482000@nm@D@nm@
+MG@nm@Brumadinho@nm@35460000@nm@M@nm@
+MG@nm@Brumal@nm@35966000@nm@D@nm@
+MG@nm@Buarque de Macedo@nm@36413000@nm@D@nm@
+MG@nm@Bueno@nm@35244000@nm@D@nm@
+MG@nm@Bueno Brandão@nm@37578000@nm@M@nm@
+MG@nm@Buenópolis@nm@39230000@nm@M@nm@
+MG@nm@Bugre@nm@35193000@nm@M@nm@
+MG@nm@Buritis@nm@38660000@nm@M@nm@
+MG@nm@Buritizeiro@nm@39280000@nm@M@nm@
+MG@nm@Caatinga@nm@38778000@nm@D@nm@
+MG@nm@Cabeceira Grande@nm@38625000@nm@M@nm@
+MG@nm@Cabo Verde@nm@37880000@nm@M@nm@
+MG@nm@Caburu@nm@36317000@nm@D@nm@
+MG@nm@Caçaratiba@nm@39662000@nm@D@nm@
+MG@nm@Caçarema@nm@39473000@nm@D@nm@
+MG@nm@Cachoeira Alegre@nm@36876000@nm@D@nm@
+MG@nm@Cachoeira da Prata@nm@35765000@nm@M@nm@
+MG@nm@Cachoeira de Minas@nm@37545000@nm@M@nm@
+MG@nm@Cachoeira de Pajeú@nm@39980000@nm@M@nm@
+MG@nm@Cachoeira de Santa Cruz@nm@36574000@nm@D@nm@
+MG@nm@Cachoeira do Aranã@nm@39842000@nm@D@nm@
+MG@nm@Cachoeira do Brumado@nm@35424000@nm@D@nm@
+MG@nm@Cachoeira do Campo@nm@35410000@nm@D@nm@
+MG@nm@Cachoeira do Manteiga@nm@39288000@nm@D@nm@
+MG@nm@Cachoeira do Vale@nm@@nm@D@nm@
+MG@nm@Cachoeira dos Antunes@nm@35487000@nm@D@nm@
+MG@nm@Cachoeira Dourada@nm@38370000@nm@M@nm@
+MG@nm@Cachoeirinha@nm@38995000@nm@D@nm@
+MG@nm@Caetano Lopes@nm@35499000@nm@D@nm@
+MG@nm@Caetanópolis@nm@35770000@nm@M@nm@
+MG@nm@Caeté@nm@34800000@nm@M@nm@
+MG@nm@Caeté@nm@36102000@nm@P@nm@
+MG@nm@Cafemirim@nm@35141000@nm@D@nm@
+MG@nm@Caiana@nm@36832000@nm@M@nm@
+MG@nm@Caiapó@nm@36735000@nm@D@nm@
+MG@nm@Cajuri@nm@36560000@nm@M@nm@
+MG@nm@Caldas@nm@37780000@nm@M@nm@
+MG@nm@Calixto@nm@35232000@nm@D@nm@
+MG@nm@Camacho@nm@35555000@nm@M@nm@
+MG@nm@Camanducaia@nm@37650000@nm@M@nm@
+MG@nm@Camargos@nm@35427000@nm@D@nm@
+MG@nm@Cambuí@nm@37600000@nm@M@nm@
+MG@nm@Cambuquira@nm@37420000@nm@M@nm@
+MG@nm@Campanário@nm@39835000@nm@M@nm@
+MG@nm@Campanha@nm@37400000@nm@M@nm@
+MG@nm@Campestre@nm@37730000@nm@M@nm@
+MG@nm@Campestrinho@nm@37797000@nm@D@nm@
+MG@nm@Campina Verde@nm@38270000@nm@M@nm@
+MG@nm@Campo Alegre de Minas@nm@39457000@nm@D@nm@
+MG@nm@Campo Alegre de Minas@nm@35238000@nm@D@nm@
+MG@nm@Campo Azul@nm@39338000@nm@M@nm@
+MG@nm@Campo Belo@nm@37270000@nm@M@nm@
+MG@nm@Campo do Meio@nm@37165000@nm@M@nm@
+MG@nm@Campo Florido@nm@38130000@nm@M@nm@
+MG@nm@Campo Redondo@nm@39452000@nm@D@nm@
+MG@nm@Campolide@nm@36223000@nm@D@nm@
+MG@nm@Campos Altos@nm@38970000@nm@M@nm@
+MG@nm@Campos Gerais@nm@37160000@nm@M@nm@
+MG@nm@Cana Verde@nm@37267000@nm@M@nm@
+MG@nm@Canaã@nm@36592000@nm@M@nm@
+MG@nm@Canabrava@nm@39581000@nm@D@nm@
+MG@nm@Canabrava@nm@38773000@nm@D@nm@
+MG@nm@Canápolis@nm@38380000@nm@M@nm@
+MG@nm@Canastrão@nm@38890000@nm@D@nm@
+MG@nm@Candeias@nm@37280000@nm@M@nm@
+MG@nm@Canoeiros@nm@38792000@nm@D@nm@
+MG@nm@Cantagalo@nm@39703000@nm@M@nm@
+MG@nm@Caparaó@nm@36834000@nm@M@nm@
+MG@nm@Capela Nova@nm@36290000@nm@M@nm@
+MG@nm@Capelinha@nm@39680000@nm@M@nm@
+MG@nm@Capetinga@nm@37993000@nm@M@nm@
+MG@nm@Capim Branco@nm@35730000@nm@M@nm@
+MG@nm@Capinópolis@nm@38360000@nm@M@nm@
+MG@nm@Capitânia@nm@39499000@nm@D@nm@
+MG@nm@Capitão Andrade@nm@35123000@nm@M@nm@
+MG@nm@Capitão Enéas@nm@39472000@nm@M@nm@
+MG@nm@Capitólio@nm@37930000@nm@M@nm@
+MG@nm@Caputira@nm@36925000@nm@M@nm@
+MG@nm@Caraí@nm@39810000@nm@M@nm@
+MG@nm@Caranaíba@nm@36428000@nm@M@nm@
+MG@nm@Carandaí@nm@36280000@nm@M@nm@
+MG@nm@Carangola@nm@36800000@nm@M@nm@
+MG@nm@Caratinga@nm@@nm@M@nm@
+MG@nm@Carbonita@nm@39665000@nm@M@nm@
+MG@nm@Careaçu@nm@37582000@nm@M@nm@
+MG@nm@Carioca@nm@35665300@nm@D@nm@
+MG@nm@Carlos Alves@nm@36686000@nm@D@nm@
+MG@nm@Carlos Chagas@nm@39864000@nm@M@nm@
+MG@nm@Carmésia@nm@35878000@nm@M@nm@
+MG@nm@Carmo da Cachoeira@nm@37225000@nm@M@nm@
+MG@nm@Carmo da Mata@nm@35547000@nm@M@nm@
+MG@nm@Carmo de Minas@nm@37472000@nm@M@nm@
+MG@nm@Carmo do Cajuru@nm@35557000@nm@M@nm@
+MG@nm@Carmo do Paranaíba@nm@38840000@nm@M@nm@
+MG@nm@Carmo do Rio Claro@nm@37150000@nm@M@nm@
+MG@nm@Carmópolis de Minas@nm@35534000@nm@M@nm@
+MG@nm@Carneirinho@nm@38290000@nm@M@nm@
+MG@nm@Carrancas@nm@37245000@nm@M@nm@
+MG@nm@Carvalho de Brito@nm@@nm@D@nm@
+MG@nm@Carvalhópolis@nm@37760000@nm@M@nm@
+MG@nm@Carvalhos@nm@37456000@nm@M@nm@
+MG@nm@Casa Grande@nm@36422000@nm@M@nm@
+MG@nm@Cascalho Rico@nm@38460000@nm@M@nm@
+MG@nm@Cássia@nm@37980000@nm@M@nm@
+MG@nm@Cataguarino@nm@36779000@nm@D@nm@
+MG@nm@Cataguases@nm@@nm@M@nm@
+MG@nm@Catajás@nm@39937000@nm@D@nm@
+MG@nm@Catas Altas@nm@35969000@nm@M@nm@
+MG@nm@Catas Altas da Noruega@nm@36450000@nm@M@nm@
+MG@nm@Catiara@nm@38762000@nm@D@nm@
+MG@nm@Catuji@nm@39816000@nm@M@nm@
+MG@nm@Catuné@nm@36846000@nm@D@nm@
+MG@nm@Catuni@nm@39585000@nm@D@nm@
+MG@nm@Catuti@nm@39526000@nm@M@nm@
+MG@nm@Caxambu@nm@37440000@nm@M@nm@
+MG@nm@Cedro do Abaeté@nm@35624000@nm@M@nm@
+MG@nm@Centenário@nm@36957000@nm@D@nm@
+MG@nm@Central de Minas@nm@35260000@nm@M@nm@
+MG@nm@Central de Santa Helena@nm@35267000@nm@D@nm@
+MG@nm@Centralina@nm@38390000@nm@M@nm@
+MG@nm@Cervo@nm@37565000@nm@D@nm@
+MG@nm@Chácara@nm@36110000@nm@M@nm@
+MG@nm@Chalé@nm@36985000@nm@M@nm@
+MG@nm@Chapada de Minas@nm@38528000@nm@D@nm@
+MG@nm@Chapada do Norte@nm@39648000@nm@M@nm@
+MG@nm@Chapada Gaúcha@nm@39314000@nm@M@nm@
+MG@nm@Chapéu D'Uvas@nm@36103800@nm@P@nm@
+MG@nm@Chaves@nm@38819000@nm@D@nm@
+MG@nm@Chaveslândia@nm@38325000@nm@D@nm@
+MG@nm@Chiador@nm@36630000@nm@M@nm@
+MG@nm@Chonim@nm@35109000@nm@D@nm@
+MG@nm@Chonin de Baixo@nm@35109500@nm@D@nm@
+MG@nm@Chumbo@nm@38713000@nm@D@nm@
+MG@nm@Cipotânea@nm@36265000@nm@M@nm@
+MG@nm@Cisneiros@nm@36753000@nm@D@nm@
+MG@nm@Claraval@nm@37997000@nm@M@nm@
+MG@nm@Claro de Minas@nm@38782000@nm@D@nm@
+MG@nm@Claro dos Poções@nm@39380000@nm@M@nm@
+MG@nm@Cláudio@nm@35530000@nm@M@nm@
+MG@nm@Cláudio Manuel@nm@35429000@nm@D@nm@
+MG@nm@Cocais@nm@35975000@nm@D@nm@
+MG@nm@Coco@nm@35472000@nm@D@nm@
+MG@nm@Coimbra@nm@36550000@nm@M@nm@
+MG@nm@Coluna@nm@39770000@nm@M@nm@
+MG@nm@Comendador Gomes@nm@38250000@nm@M@nm@
+MG@nm@Comercinho@nm@39628000@nm@M@nm@
+MG@nm@Conceição da Aparecida@nm@37148000@nm@M@nm@
+MG@nm@Conceição da Barra de Minas@nm@36360000@nm@M@nm@
+MG@nm@Conceição da Boa Vista@nm@36743000@nm@D@nm@
+MG@nm@Conceição da Brejaúba@nm@39721000@nm@D@nm@
+MG@nm@Conceição da Ibitipoca@nm@36144000@nm@D@nm@
+MG@nm@Conceição das Alagoas@nm@38120000@nm@M@nm@
+MG@nm@Conceição das Pedras@nm@37527000@nm@M@nm@
+MG@nm@Conceição de Ipanema@nm@36947000@nm@M@nm@
+MG@nm@Conceição de Itaguá@nm@35466000@nm@D@nm@
+MG@nm@Conceição de Minas@nm@35985000@nm@D@nm@
+MG@nm@Conceição de Piracicaba@nm@35943000@nm@D@nm@
+MG@nm@Conceição de Tronqueiras@nm@39711000@nm@D@nm@
+MG@nm@Conceição do Capim@nm@35202000@nm@D@nm@
+MG@nm@Conceição do Formoso@nm@36248000@nm@D@nm@
+MG@nm@Conceição do Mato Dentro@nm@35860000@nm@M@nm@
+MG@nm@Conceição do Pará@nm@35668000@nm@M@nm@
+MG@nm@Conceição do Rio Acima@nm@35968000@nm@D@nm@
+MG@nm@Conceição do Rio Verde@nm@37430000@nm@M@nm@
+MG@nm@Conceição dos Ouros@nm@37548000@nm@M@nm@
+MG@nm@Concórdia de Mucuri@nm@39826000@nm@D@nm@
+MG@nm@Condado do Norte@nm@39435000@nm@D@nm@
+MG@nm@Cônego João Pio@nm@35993000@nm@D@nm@
+MG@nm@Cônego Marinho@nm@39489000@nm@M@nm@
+MG@nm@Confins@nm@33500000@nm@M@nm@
+MG@nm@Congonhal@nm@37584000@nm@M@nm@
+MG@nm@Congonhas@nm@36415000@nm@M@nm@
+MG@nm@Congonhas do Norte@nm@35850000@nm@M@nm@
+MG@nm@Conquista@nm@38195000@nm@M@nm@
+MG@nm@Conselheiro Lafaiete@nm@36400000@nm@M@nm@
+MG@nm@Conselheiro Mata@nm@39106000@nm@D@nm@
+MG@nm@Conselheiro Pena@nm@35240000@nm@M@nm@
+MG@nm@Consolação@nm@37670000@nm@M@nm@
+MG@nm@Contagem@nm@@nm@M@nm@
+MG@nm@Contrato@nm@39676000@nm@D@nm@
+MG@nm@Contria@nm@39202000@nm@D@nm@
+MG@nm@Coqueiral@nm@37235000@nm@M@nm@
+MG@nm@Coração de Jesus@nm@39340000@nm@M@nm@
+MG@nm@Cordeiro de Minas@nm@35318000@nm@D@nm@
+MG@nm@Cordisburgo@nm@35780000@nm@M@nm@
+MG@nm@Cordislândia@nm@37498000@nm@M@nm@
+MG@nm@Corinto@nm@39200000@nm@M@nm@
+MG@nm@Coroaci@nm@39710000@nm@M@nm@
+MG@nm@Coromandel@nm@38550000@nm@M@nm@
+MG@nm@Coronel Fabriciano@nm@@nm@M@nm@
+MG@nm@Coronel Murta@nm@39635000@nm@M@nm@
+MG@nm@Coronel Pacheco@nm@36155000@nm@M@nm@
+MG@nm@Coronel Xavier Chaves@nm@36330000@nm@M@nm@
+MG@nm@Córrego Danta@nm@38990000@nm@M@nm@
+MG@nm@Córrego do Barro@nm@35665200@nm@D@nm@
+MG@nm@Córrego do Bom Jesus@nm@37605000@nm@M@nm@
+MG@nm@Córrego do Ouro@nm@37163000@nm@D@nm@
+MG@nm@Córrego dos Bernardes@nm@35100800@nm@P@nm@
+MG@nm@Córrego dos Borges@nm@35100600@nm@P@nm@
+MG@nm@Córrego dos Melquíades@nm@35100400@nm@P@nm@
+MG@nm@Córrego Fundo@nm@35578000@nm@M@nm@
+MG@nm@Córrego Novo@nm@35345000@nm@M@nm@
+MG@nm@Córregos@nm@35864000@nm@D@nm@
+MG@nm@Correia de Almeida@nm@36208000@nm@D@nm@
+MG@nm@Correntinho@nm@39741000@nm@D@nm@
+MG@nm@Costa Sena@nm@35859000@nm@D@nm@
+MG@nm@Costas@nm@37665000@nm@D@nm@
+MG@nm@Costas da Mantiqueira@nm@36206000@nm@D@nm@
+MG@nm@Couto de Magalhães de Minas@nm@39188000@nm@M@nm@
+MG@nm@Crisólia@nm@37572000@nm@D@nm@
+MG@nm@Crisólita@nm@39885000@nm@M@nm@
+MG@nm@Crispim Jaques@nm@39809000@nm@D@nm@
+MG@nm@Cristais@nm@37275000@nm@M@nm@
+MG@nm@Cristália@nm@39598000@nm@M@nm@
+MG@nm@Cristiano Otoni@nm@36426000@nm@M@nm@
+MG@nm@Cristina@nm@37476000@nm@M@nm@
+MG@nm@Crucilândia@nm@35478000@nm@M@nm@
+MG@nm@Cruzeiro da Fortaleza@nm@38735000@nm@M@nm@
+MG@nm@Cruzeiro dos Peixotos@nm@38439500@nm@D@nm@
+MG@nm@Cruzília@nm@37445000@nm@M@nm@
+MG@nm@Cruzinha@nm@39653000@nm@D@nm@
+MG@nm@Cubas@nm@35806000@nm@D@nm@
+MG@nm@Cuité Velho@nm@35242000@nm@D@nm@
+MG@nm@Cuparaque@nm@35246000@nm@M@nm@
+MG@nm@Curimataí@nm@39235000@nm@D@nm@
+MG@nm@Curral de Dentro@nm@39569000@nm@M@nm@
+MG@nm@Curral Novo de Minas@nm@36222000@nm@D@nm@
+MG@nm@Curvelo@nm@35790000@nm@M@nm@
+MG@nm@Datas@nm@39130000@nm@M@nm@
+MG@nm@Delfim Moreira@nm@37514000@nm@M@nm@
+MG@nm@Delfinópolis@nm@37910000@nm@M@nm@
+MG@nm@Delta@nm@38108000@nm@M@nm@
+MG@nm@Deputado Augusto Clementino@nm@39152000@nm@D@nm@
+MG@nm@Derribadinha@nm@35103000@nm@D@nm@
+MG@nm@Descoberto@nm@36690000@nm@M@nm@
+MG@nm@Desembargador Otoni@nm@39113000@nm@D@nm@
+MG@nm@Desemboque@nm@38193000@nm@D@nm@
+MG@nm@Desterro de Entre Rios@nm@35494000@nm@M@nm@
+MG@nm@Desterro do Melo@nm@36210000@nm@M@nm@
+MG@nm@Diamante de Ubá@nm@36506000@nm@D@nm@
+MG@nm@Diamantina@nm@39100000@nm@M@nm@
+MG@nm@Dias@nm@37532000@nm@D@nm@
+MG@nm@Dias Tavares@nm@36105000@nm@P@nm@
+MG@nm@Diogo de Vasconcelos@nm@35437000@nm@M@nm@
+MG@nm@Dionísio@nm@35984000@nm@M@nm@
+MG@nm@Divinésia@nm@36546000@nm@M@nm@
+MG@nm@Divino@nm@36820000@nm@M@nm@
+MG@nm@Divino das Laranjeiras@nm@35265000@nm@M@nm@
+MG@nm@Divino de Virgolândia@nm@39716000@nm@D@nm@
+MG@nm@Divino Espírito Santo@nm@37147000@nm@D@nm@
+MG@nm@Divinolândia de Minas@nm@39735000@nm@M@nm@
+MG@nm@Divinópolis@nm@@nm@M@nm@
+MG@nm@Divisa Alegre@nm@39995000@nm@M@nm@
+MG@nm@Divisa Nova@nm@37142000@nm@M@nm@
+MG@nm@Divisópolis@nm@39912000@nm@M@nm@
+MG@nm@Dois de Abril@nm@39948000@nm@D@nm@
+MG@nm@Dom Bosco@nm@38654000@nm@M@nm@
+MG@nm@Dom Cavati@nm@35148000@nm@M@nm@
+MG@nm@Dom Joaquim@nm@35865000@nm@M@nm@
+MG@nm@Dom Lara@nm@35314000@nm@D@nm@
+MG@nm@Dom Modesto@nm@35313000@nm@D@nm@
+MG@nm@Dom Silvério@nm@35440000@nm@M@nm@
+MG@nm@Dom Viçoso@nm@37474000@nm@M@nm@
+MG@nm@Dona Euzébia@nm@36784000@nm@M@nm@
+MG@nm@Dores da Vitória@nm@36792000@nm@D@nm@
+MG@nm@Dores de Campos@nm@36213000@nm@M@nm@
+MG@nm@Dores de Guanhães@nm@35894000@nm@M@nm@
+MG@nm@Dores do Indaiá@nm@35610000@nm@M@nm@
+MG@nm@Dores do Paraibuna@nm@36243000@nm@D@nm@
+MG@nm@Dores do Turvo@nm@36513000@nm@M@nm@
+MG@nm@Doresópolis@nm@37926000@nm@M@nm@
+MG@nm@Douradinho@nm@37755000@nm@D@nm@
+MG@nm@Douradoquara@nm@38530000@nm@M@nm@
+MG@nm@Doutor Campolina@nm@35768000@nm@D@nm@
+MG@nm@Doutor Lund@nm@33650000@nm@D@nm@
+MG@nm@Durandé@nm@36974000@nm@M@nm@
+MG@nm@Edgard Melo@nm@35122000@nm@D@nm@
+MG@nm@Elói Mendes@nm@37110000@nm@M@nm@
+MG@nm@Emboabas@nm@36319000@nm@D@nm@
+MG@nm@Engenheiro Caldas@nm@35130000@nm@M@nm@
+MG@nm@Engenheiro Correia@nm@35416000@nm@D@nm@
+MG@nm@Engenheiro Dolabela@nm@39395000@nm@P@nm@
+MG@nm@Engenheiro Navarro@nm@39363000@nm@M@nm@
+MG@nm@Engenheiro Schnoor@nm@39602000@nm@D@nm@
+MG@nm@Engenho do Ribeiro@nm@35602000@nm@D@nm@
+MG@nm@Engenho Novo@nm@36643000@nm@D@nm@
+MG@nm@Entre Folhas@nm@35324000@nm@M@nm@
+MG@nm@Entre Rios de Minas@nm@35490000@nm@M@nm@
+MG@nm@Epaminondas Otoni@nm@39866000@nm@D@nm@
+MG@nm@Era Nova@nm@35139000@nm@D@nm@
+MG@nm@Ermidinha@nm@39410000@nm@D@nm@
+MG@nm@Ervália@nm@36555000@nm@M@nm@
+MG@nm@Esmeraldas@nm@35740000@nm@M@nm@
+MG@nm@Esmeraldas de Ferros@nm@35804000@nm@D@nm@
+MG@nm@Espera Feliz@nm@36830000@nm@M@nm@
+MG@nm@Espinosa@nm@39510000@nm@M@nm@
+MG@nm@Espírito Santo do Dourado@nm@37566000@nm@M@nm@
+MG@nm@Esteios@nm@35596000@nm@D@nm@
+MG@nm@Estevão de Araújo@nm@36596000@nm@D@nm@
+MG@nm@Estiva@nm@37542000@nm@M@nm@
+MG@nm@Estrela da Barra@nm@38294000@nm@D@nm@
+MG@nm@Estrela Dalva@nm@36725000@nm@M@nm@
+MG@nm@Estrela de Jordânia@nm@39923000@nm@D@nm@
+MG@nm@Estrela do Indaiá@nm@35613000@nm@M@nm@
+MG@nm@Estrela do Sul@nm@38525000@nm@M@nm@
+MG@nm@Eugenópolis@nm@36855000@nm@M@nm@
+MG@nm@Euxenita@nm@39751000@nm@D@nm@
+MG@nm@Ewbank da Câmara@nm@36108000@nm@M@nm@
+MG@nm@Expedicionário Alício@nm@35204000@nm@D@nm@
+MG@nm@Extração@nm@39105000@nm@D@nm@
+MG@nm@Extrema@nm@37640000@nm@M@nm@
+MG@nm@Fama@nm@37144000@nm@M@nm@
+MG@nm@Faria@nm@36209800@nm@D@nm@
+MG@nm@Faria Lemos@nm@36840000@nm@M@nm@
+MG@nm@Farias@nm@39744000@nm@D@nm@
+MG@nm@Fechados@nm@35788000@nm@D@nm@
+MG@nm@Felicina@nm@35147200@nm@D@nm@
+MG@nm@Felício dos Santos@nm@39180000@nm@M@nm@
+MG@nm@Felisburgo@nm@39895000@nm@M@nm@
+MG@nm@Felixlândia@nm@39237000@nm@M@nm@
+MG@nm@Fernandes Tourinho@nm@35135000@nm@M@nm@
+MG@nm@Fernão Dias@nm@39334000@nm@D@nm@
+MG@nm@Ferreiras@nm@37493000@nm@D@nm@
+MG@nm@Ferreirópolis@nm@39562000@nm@D@nm@
+MG@nm@Ferros@nm@35800000@nm@M@nm@
+MG@nm@Ferruginha@nm@35245500@nm@D@nm@
+MG@nm@Fervedouro@nm@36815000@nm@M@nm@
+MG@nm@Fidalgo@nm@33620000@nm@D@nm@
+MG@nm@Fidelândia@nm@39851000@nm@D@nm@
+MG@nm@Flor de Minas@nm@38315000@nm@D@nm@
+MG@nm@Florália@nm@35961000@nm@D@nm@
+MG@nm@Floresta@nm@35263000@nm@D@nm@
+MG@nm@Florestal@nm@35690000@nm@M@nm@
+MG@nm@Florestina@nm@38450000@nm@D@nm@
+MG@nm@Fonseca@nm@35955000@nm@D@nm@
+MG@nm@Formiga@nm@35570000@nm@M@nm@
+MG@nm@Formoso@nm@38690000@nm@M@nm@
+MG@nm@Fortaleza de Minas@nm@37905000@nm@M@nm@
+MG@nm@Fortuna de Minas@nm@35760000@nm@M@nm@
+MG@nm@Francisco Badaró@nm@39644000@nm@M@nm@
+MG@nm@Francisco Dumont@nm@39387000@nm@M@nm@
+MG@nm@Francisco Sá@nm@39580000@nm@M@nm@
+MG@nm@Franciscópolis@nm@39695000@nm@M@nm@
+MG@nm@Frei Eustáquio@nm@37237000@nm@D@nm@
+MG@nm@Frei Gaspar@nm@39840000@nm@M@nm@
+MG@nm@Frei Inocêncio@nm@35112000@nm@M@nm@
+MG@nm@Frei Lagonegro@nm@39708000@nm@M@nm@
+MG@nm@Frei Orlando@nm@35629000@nm@D@nm@
+MG@nm@Frei Serafim@nm@39832000@nm@D@nm@
+MG@nm@Freire Cardoso@nm@39637000@nm@D@nm@
+MG@nm@Fronteira@nm@38230000@nm@M@nm@
+MG@nm@Fronteira dos Vales@nm@39870000@nm@M@nm@
+MG@nm@Fruta de Leite@nm@39558000@nm@M@nm@
+MG@nm@Frutal@nm@38200000@nm@M@nm@
+MG@nm@Funchal@nm@38802000@nm@D@nm@
+MG@nm@Funilândia@nm@35736000@nm@M@nm@
+MG@nm@Furquim@nm@35426000@nm@D@nm@
+MG@nm@Galego@nm@36206100@nm@D@nm@
+MG@nm@Galena@nm@38753000@nm@D@nm@
+MG@nm@Galiléia@nm@35250000@nm@M@nm@
+MG@nm@Gama@nm@35147300@nm@D@nm@
+MG@nm@Gameleiras@nm@39505000@nm@M@nm@
+MG@nm@Garapuava@nm@38615000@nm@D@nm@
+MG@nm@Gaspar Lopes@nm@37139000@nm@P@nm@
+MG@nm@Gavião@nm@36858000@nm@D@nm@
+MG@nm@Glaucilândia@nm@39592000@nm@M@nm@
+MG@nm@Glaura@nm@35408000@nm@D@nm@
+MG@nm@Glória de Cataguases@nm@36776500@nm@D@nm@
+MG@nm@Glucínio@nm@39782000@nm@D@nm@
+MG@nm@Goiabal@nm@35108000@nm@D@nm@
+MG@nm@Goiabeira@nm@35248000@nm@M@nm@
+MG@nm@Goiaminas@nm@38693000@nm@D@nm@
+MG@nm@Goianá@nm@36152000@nm@M@nm@
+MG@nm@Goianases@nm@37994000@nm@D@nm@
+MG@nm@Gonçalves@nm@37680000@nm@M@nm@
+MG@nm@Gonzaga@nm@39720000@nm@M@nm@
+MG@nm@Gororós@nm@35868000@nm@D@nm@
+MG@nm@Gorutuba@nm@39522500@nm@D@nm@
+MG@nm@Gouveia@nm@39120000@nm@M@nm@
+MG@nm@Governador Valadares@nm@@nm@M@nm@
+MG@nm@Gramínea@nm@37796000@nm@D@nm@
+MG@nm@Granada@nm@35365700@nm@D@nm@
+MG@nm@Grão Mogol@nm@39570000@nm@M@nm@
+MG@nm@Grota@nm@35395000@nm@D@nm@
+MG@nm@Grupiara@nm@38470000@nm@M@nm@
+MG@nm@Guaicui@nm@39265000@nm@D@nm@
+MG@nm@Guaipava@nm@37125000@nm@D@nm@
+MG@nm@Guanhães@nm@39740000@nm@M@nm@
+MG@nm@Guapé@nm@37177000@nm@M@nm@
+MG@nm@Guaraciaba@nm@35436000@nm@M@nm@
+MG@nm@Guaraciama@nm@39397000@nm@M@nm@
+MG@nm@Guaranésia@nm@37810000@nm@M@nm@
+MG@nm@Guarani@nm@36160000@nm@M@nm@
+MG@nm@Guaranilândia@nm@39965000@nm@D@nm@
+MG@nm@Guarará@nm@36606000@nm@M@nm@
+MG@nm@Guarataia@nm@39833000@nm@D@nm@
+MG@nm@Guarda dos Ferreiros@nm@38803000@nm@D@nm@
+MG@nm@Guarda-Mor@nm@38570000@nm@M@nm@
+MG@nm@Guardinha@nm@37952000@nm@D@nm@
+MG@nm@Guaxima@nm@38198000@nm@D@nm@
+MG@nm@Guaxupé@nm@37800000@nm@M@nm@
+MG@nm@Guidoval@nm@36515000@nm@M@nm@
+MG@nm@Guimarânia@nm@38730000@nm@M@nm@
+MG@nm@Guinda@nm@39103000@nm@D@nm@
+MG@nm@Guiricema@nm@36525000@nm@M@nm@
+MG@nm@Gurinhatã@nm@38310000@nm@M@nm@
+MG@nm@Heliodora@nm@37484000@nm@M@nm@
+MG@nm@Hematita@nm@35178000@nm@D@nm@
+MG@nm@Hermilo Alves@nm@36285000@nm@D@nm@
+MG@nm@Honorópolis@nm@38272000@nm@D@nm@
+MG@nm@Humaitá@nm@36107800@nm@P@nm@
+MG@nm@Iapu@nm@35190000@nm@M@nm@
+MG@nm@Ibertioga@nm@36225000@nm@M@nm@
+MG@nm@Ibiá@nm@38950000@nm@M@nm@
+MG@nm@Ibiaí@nm@39350000@nm@M@nm@
+MG@nm@Ibiracatu@nm@39455000@nm@M@nm@
+MG@nm@Ibiraci@nm@37990000@nm@M@nm@
+MG@nm@Ibirité@nm@32400000@nm@M@nm@
+MG@nm@Ibitira@nm@35607000@nm@D@nm@
+MG@nm@Ibitiúra de Minas@nm@37790000@nm@M@nm@
+MG@nm@Ibituruna@nm@37223000@nm@M@nm@
+MG@nm@Icaraí de Minas@nm@39318000@nm@M@nm@
+MG@nm@Igarapé@nm@32900000@nm@M@nm@
+MG@nm@Igaratinga@nm@35695000@nm@M@nm@
+MG@nm@Iguatama@nm@38910000@nm@M@nm@
+MG@nm@Ijaci@nm@37218000@nm@M@nm@
+MG@nm@Ilha do Rio Doce@nm@35317000@nm@P@nm@
+MG@nm@Ilhéus do Prata@nm@35994000@nm@D@nm@
+MG@nm@Ilicínea@nm@37175000@nm@M@nm@
+MG@nm@Imbé de Minas@nm@35323000@nm@M@nm@
+MG@nm@Inconfidentes@nm@37576000@nm@M@nm@
+MG@nm@Indaiabira@nm@39536000@nm@M@nm@
+MG@nm@Independência@nm@35236000@nm@D@nm@
+MG@nm@Indianópolis@nm@38490000@nm@M@nm@
+MG@nm@Ingaí@nm@37215000@nm@M@nm@
+MG@nm@Inhaí@nm@39111000@nm@D@nm@
+MG@nm@Inhapim@nm@35330000@nm@M@nm@
+MG@nm@Inhaúma@nm@35763000@nm@M@nm@
+MG@nm@Inimutaba@nm@39243000@nm@M@nm@
+MG@nm@Ipaba@nm@35198000@nm@M@nm@
+MG@nm@Ipanema@nm@36950000@nm@M@nm@
+MG@nm@Ipatinga@nm@@nm@M@nm@
+MG@nm@Ipiaçu@nm@38350000@nm@M@nm@
+MG@nm@Ipoema@nm@35905000@nm@D@nm@
+MG@nm@Ipuiúna@nm@37588000@nm@M@nm@
+MG@nm@Iraí de Minas@nm@38510000@nm@M@nm@
+MG@nm@Itabira@nm@@nm@M@nm@
+MG@nm@Itabirinha@nm@35280000@nm@M@nm@
+MG@nm@Itabirito@nm@35450000@nm@M@nm@
+MG@nm@Itaboca@nm@36138000@nm@D@nm@
+MG@nm@Itacambira@nm@39594000@nm@M@nm@
+MG@nm@Itacarambi@nm@39470000@nm@M@nm@
+MG@nm@Itaci@nm@37155000@nm@D@nm@
+MG@nm@Itacolomi@nm@35861000@nm@D@nm@
+MG@nm@Itaguara@nm@35488000@nm@M@nm@
+MG@nm@Itaim@nm@37546000@nm@D@nm@
+MG@nm@Itaipé@nm@39815000@nm@M@nm@
+MG@nm@Itajubá@nm@@nm@M@nm@
+MG@nm@Itajutiba@nm@35331000@nm@D@nm@
+MG@nm@Itamarandiba@nm@39670000@nm@M@nm@
+MG@nm@Itamarati@nm@39993000@nm@D@nm@
+MG@nm@Itamarati de Minas@nm@36788000@nm@M@nm@
+MG@nm@Itambacuri@nm@39830000@nm@M@nm@
+MG@nm@Itambé do Mato Dentro@nm@35820000@nm@M@nm@
+MG@nm@Itamirim@nm@39515000@nm@D@nm@
+MG@nm@Itamogi@nm@37973000@nm@M@nm@
+MG@nm@Itamonte@nm@37466000@nm@M@nm@
+MG@nm@Itamuri@nm@36886000@nm@D@nm@
+MG@nm@Itanhandu@nm@37464000@nm@M@nm@
+MG@nm@Itanhomi@nm@35120000@nm@M@nm@
+MG@nm@Itaobim@nm@39625000@nm@M@nm@
+MG@nm@Itapagipe@nm@38240000@nm@M@nm@
+MG@nm@Itapanhoacanga@nm@39145000@nm@D@nm@
+MG@nm@Itapecerica@nm@35550000@nm@M@nm@
+MG@nm@Itapeva@nm@37655000@nm@M@nm@
+MG@nm@Itapiru@nm@39955000@nm@D@nm@
+MG@nm@Itapirucu@nm@36756000@nm@D@nm@
+MG@nm@Itatiaiuçu@nm@35685000@nm@M@nm@
+MG@nm@Itaú de Minas@nm@37975000@nm@M@nm@
+MG@nm@Itaúna@nm@@nm@M@nm@
+MG@nm@Itauninha@nm@35915000@nm@D@nm@
+MG@nm@Itaverava@nm@36440000@nm@M@nm@
+MG@nm@Itererê@nm@37513000@nm@D@nm@
+MG@nm@Itinga@nm@39610000@nm@M@nm@
+MG@nm@Itira@nm@39605000@nm@D@nm@
+MG@nm@Itueta@nm@35220000@nm@M@nm@
+MG@nm@Ituí@nm@36684000@nm@D@nm@
+MG@nm@Ituiutaba@nm@@nm@M@nm@
+MG@nm@Itumirim@nm@37210000@nm@M@nm@
+MG@nm@Iturama@nm@38280000@nm@M@nm@
+MG@nm@Itutinga@nm@36390000@nm@M@nm@
+MG@nm@Jaboticatubas@nm@35830000@nm@M@nm@
+MG@nm@Jacarandira@nm@36342000@nm@D@nm@
+MG@nm@Jacaré@nm@39613000@nm@D@nm@
+MG@nm@Jacinto@nm@39930000@nm@M@nm@
+MG@nm@Jacu das Piranhas@nm@39507000@nm@D@nm@
+MG@nm@Jacuí@nm@37965000@nm@M@nm@
+MG@nm@Jacutinga@nm@37590000@nm@M@nm@
+MG@nm@Jaguaraçu@nm@35188000@nm@M@nm@
+MG@nm@Jaguarão@nm@39933000@nm@D@nm@
+MG@nm@Jaguaritira@nm@39692000@nm@D@nm@
+MG@nm@Jaíba@nm@39508000@nm@M@nm@
+MG@nm@Jampruca@nm@39837000@nm@M@nm@
+MG@nm@Janaúba@nm@39440000@nm@M@nm@
+MG@nm@Januária@nm@39480000@nm@M@nm@
+MG@nm@Japaraíba@nm@35580000@nm@M@nm@
+MG@nm@Japonvar@nm@39335000@nm@M@nm@
+MG@nm@Jardinésia@nm@38142000@nm@D@nm@
+MG@nm@Jeceaba@nm@35498000@nm@M@nm@
+MG@nm@Jenipapo de Minas@nm@39645000@nm@M@nm@
+MG@nm@Jequeri@nm@35390000@nm@M@nm@
+MG@nm@Jequitaí@nm@39370000@nm@M@nm@
+MG@nm@Jequitibá@nm@35767000@nm@M@nm@
+MG@nm@Jequitinhonha@nm@39960000@nm@M@nm@
+MG@nm@Jesuânia@nm@37485000@nm@M@nm@
+MG@nm@Joaíma@nm@39890000@nm@M@nm@
+MG@nm@Joanésia@nm@35194000@nm@M@nm@
+MG@nm@João Monlevade@nm@@nm@M@nm@
+MG@nm@João Pinheiro@nm@38770000@nm@M@nm@
+MG@nm@Joaquim Felício@nm@39240000@nm@M@nm@
+MG@nm@Jordânia@nm@39920000@nm@M@nm@
+MG@nm@José Gonçalves de Minas@nm@39642000@nm@M@nm@
+MG@nm@José Raydan@nm@39775000@nm@M@nm@
+MG@nm@Joselândia@nm@36435000@nm@D@nm@
+MG@nm@Josenópolis@nm@39575000@nm@M@nm@
+MG@nm@Juatuba@nm@35675000@nm@M@nm@
+MG@nm@Jubaí@nm@38196000@nm@D@nm@
+MG@nm@Juiraçu@nm@35996000@nm@D@nm@
+MG@nm@Juiz de Fora@nm@@nm@M@nm@
+MG@nm@Junco de Minas@nm@39693500@nm@D@nm@
+MG@nm@Juramento@nm@39590000@nm@M@nm@
+MG@nm@Juréia@nm@37117000@nm@D@nm@
+MG@nm@Juruaia@nm@37805000@nm@M@nm@
+MG@nm@Jurumirim@nm@35375000@nm@D@nm@
+MG@nm@Justinópolis@nm@@nm@D@nm@
+MG@nm@Juvenília@nm@39467000@nm@M@nm@
+MG@nm@Lacerdina@nm@36802000@nm@D@nm@
+MG@nm@Ladainha@nm@39825000@nm@M@nm@
+MG@nm@Lagamar@nm@38785000@nm@M@nm@
+MG@nm@Lagoa Bonita@nm@35782000@nm@D@nm@
+MG@nm@Lagoa da Prata@nm@35590000@nm@M@nm@
+MG@nm@Lagoa dos Patos@nm@39360000@nm@M@nm@
+MG@nm@Lagoa Dourada@nm@36345000@nm@M@nm@
+MG@nm@Lagoa Formosa@nm@38720000@nm@M@nm@
+MG@nm@Lagoa Grande@nm@38755000@nm@M@nm@
+MG@nm@Lagoa Grande de Minas Novas@nm@39654000@nm@D@nm@
+MG@nm@Lagoa Santa@nm@33400000@nm@M@nm@
+MG@nm@Lagoa Seca@nm@38799000@nm@D@nm@
+MG@nm@Lajinha@nm@36980000@nm@M@nm@
+MG@nm@Lambari@nm@37480000@nm@M@nm@
+MG@nm@Lamim@nm@36455000@nm@M@nm@
+MG@nm@Lamounier@nm@35551000@nm@D@nm@
+MG@nm@Lapinha@nm@33450000@nm@D@nm@
+MG@nm@Laranjal@nm@36760000@nm@M@nm@
+MG@nm@Laranjeiras de Caldas@nm@37782000@nm@D@nm@
+MG@nm@Lassance@nm@39250000@nm@M@nm@
+MG@nm@Lavras@nm@37200000@nm@M@nm@
+MG@nm@Lavras Novas@nm@35418000@nm@D@nm@
+MG@nm@Leandro Ferreira@nm@35657000@nm@M@nm@
+MG@nm@Leme do Prado@nm@39655000@nm@M@nm@
+MG@nm@Leopoldina@nm@36700000@nm@M@nm@
+MG@nm@Levinópolis@nm@39485000@nm@D@nm@
+MG@nm@Liberdade@nm@37350000@nm@M@nm@
+MG@nm@Lima Duarte@nm@36140000@nm@M@nm@
+MG@nm@Limeira de Mantena@nm@35296000@nm@D@nm@
+MG@nm@Limeira do Oeste@nm@38295000@nm@M@nm@
+MG@nm@Lobo Leite@nm@36419000@nm@D@nm@
+MG@nm@Lontra@nm@39437000@nm@M@nm@
+MG@nm@Lufa@nm@39824000@nm@D@nm@
+MG@nm@Luisburgo@nm@36923000@nm@M@nm@
+MG@nm@Luislândia@nm@39336000@nm@M@nm@
+MG@nm@Luiz Pires de Minas@nm@39344000@nm@D@nm@
+MG@nm@Luizlândia do Oeste@nm@38776000@nm@D@nm@
+MG@nm@Luminárias@nm@37240000@nm@M@nm@
+MG@nm@Luminosa@nm@37535000@nm@D@nm@
+MG@nm@Luz@nm@35595000@nm@M@nm@
+MG@nm@Macaia@nm@37221000@nm@D@nm@
+MG@nm@Machacalis@nm@39873000@nm@M@nm@
+MG@nm@Machado@nm@37750000@nm@M@nm@
+MG@nm@Macuco@nm@36891500@nm@D@nm@
+MG@nm@Macuco de Minas@nm@37212000@nm@D@nm@
+MG@nm@Madre de Deus de Minas@nm@37305000@nm@M@nm@
+MG@nm@Mãe dos Homens@nm@39797000@nm@D@nm@
+MG@nm@Major Ezequiel@nm@35953000@nm@D@nm@
+MG@nm@Major Porto@nm@38710000@nm@D@nm@
+MG@nm@Malacacheta@nm@39690000@nm@M@nm@
+MG@nm@Mamonas@nm@39516000@nm@M@nm@
+MG@nm@Manga@nm@39460000@nm@M@nm@
+MG@nm@Manhuaçu@nm@36900000@nm@M@nm@
+MG@nm@Manhumirim@nm@36970000@nm@M@nm@
+MG@nm@Mantena@nm@35290000@nm@M@nm@
+MG@nm@Mantiqueira@nm@36242000@nm@D@nm@
+MG@nm@Mantiqueira do Palmital@nm@36206300@nm@D@nm@
+MG@nm@Mar de Espanha@nm@36640000@nm@M@nm@
+MG@nm@Marambainha@nm@39813000@nm@D@nm@
+MG@nm@Maravilhas@nm@35666000@nm@M@nm@
+MG@nm@Maria da Fé@nm@37517000@nm@M@nm@
+MG@nm@Mariana@nm@35420000@nm@M@nm@
+MG@nm@Marilac@nm@35115000@nm@M@nm@
+MG@nm@Marilândia@nm@35553000@nm@D@nm@
+MG@nm@Mário Campos@nm@32470000@nm@M@nm@
+MG@nm@Maripá de Minas@nm@36608000@nm@M@nm@
+MG@nm@Marliéria@nm@35185000@nm@M@nm@
+MG@nm@Marmelópolis@nm@37516000@nm@M@nm@
+MG@nm@Martinésia@nm@38439800@nm@D@nm@
+MG@nm@Martinho Campos@nm@35606000@nm@M@nm@
+MG@nm@Martins Guimarães@nm@35593000@nm@D@nm@
+MG@nm@Martins Soares@nm@36972000@nm@M@nm@
+MG@nm@Mata Verde@nm@39915000@nm@M@nm@
+MG@nm@Materlândia@nm@39755000@nm@M@nm@
+MG@nm@Mateus Leme@nm@35670000@nm@M@nm@
+MG@nm@Mathias Lobato@nm@35110000@nm@M@nm@
+MG@nm@Matias Barbosa@nm@36120000@nm@M@nm@
+MG@nm@Matias Cardoso@nm@39478000@nm@M@nm@
+MG@nm@Matipó@nm@35367000@nm@M@nm@
+MG@nm@Mato Verde@nm@39527000@nm@M@nm@
+MG@nm@Matozinhos@nm@35720000@nm@M@nm@
+MG@nm@Matutina@nm@38870000@nm@M@nm@
+MG@nm@Medeiros@nm@38930000@nm@M@nm@
+MG@nm@Medina@nm@39620000@nm@M@nm@
+MG@nm@Melo Viana@nm@35750000@nm@D@nm@
+MG@nm@Mendanha@nm@39101000@nm@D@nm@
+MG@nm@Mendes Pimentel@nm@35270000@nm@M@nm@
+MG@nm@Mendonça@nm@39664000@nm@D@nm@
+MG@nm@Mercês@nm@36190000@nm@M@nm@
+MG@nm@Mercês de Água Limpa@nm@36352000@nm@D@nm@
+MG@nm@Mesquita@nm@35116000@nm@M@nm@
+MG@nm@Mestre Caetano@nm@34750000@nm@D@nm@
+MG@nm@Miguel Burnier@nm@35414000@nm@D@nm@
+MG@nm@Milagre@nm@37969000@nm@D@nm@
+MG@nm@Milho Verde@nm@39155000@nm@D@nm@
+MG@nm@Minas Novas@nm@39650000@nm@M@nm@
+MG@nm@Minduri@nm@37447000@nm@M@nm@
+MG@nm@Mirabela@nm@39373000@nm@M@nm@
+MG@nm@Miradouro@nm@36893000@nm@M@nm@
+MG@nm@Miragaia@nm@36507000@nm@D@nm@
+MG@nm@Miraí@nm@36790000@nm@M@nm@
+MG@nm@Miralta@nm@39415000@nm@D@nm@
+MG@nm@Mirantão@nm@37345000@nm@D@nm@
+MG@nm@Miraporanga@nm@38439700@nm@D@nm@
+MG@nm@Miravânia@nm@39465000@nm@M@nm@
+MG@nm@Missionário@nm@36262000@nm@D@nm@
+MG@nm@Mocambeiro@nm@35725000@nm@D@nm@
+MG@nm@Mocambinho@nm@39524000@nm@D@nm@
+MG@nm@Moeda@nm@35470000@nm@M@nm@
+MG@nm@Moema@nm@35604000@nm@M@nm@
+MG@nm@Monjolinho de Minas@nm@38722000@nm@D@nm@
+MG@nm@Monjolos@nm@39215000@nm@M@nm@
+MG@nm@Monsenhor Horta@nm@35425000@nm@D@nm@
+MG@nm@Monsenhor Isidro@nm@36445000@nm@D@nm@
+MG@nm@Monsenhor João Alexandre@nm@35532000@nm@D@nm@
+MG@nm@Monsenhor Paulo@nm@37405000@nm@M@nm@
+MG@nm@Montalvânia@nm@39495000@nm@M@nm@
+MG@nm@Monte Alegre de Minas@nm@38475000@nm@M@nm@
+MG@nm@Monte Azul@nm@39500000@nm@M@nm@
+MG@nm@Monte Belo@nm@37115000@nm@M@nm@
+MG@nm@Monte Carmelo@nm@38500000@nm@M@nm@
+MG@nm@Monte Celeste@nm@36532000@nm@D@nm@
+MG@nm@Monte Formoso@nm@39893000@nm@M@nm@
+MG@nm@Monte Rei@nm@39468000@nm@D@nm@
+MG@nm@Monte Santo de Minas@nm@37968000@nm@M@nm@
+MG@nm@Monte Sião@nm@37580000@nm@M@nm@
+MG@nm@Monte Verde@nm@37653000@nm@D@nm@
+MG@nm@Monte Verde@nm@36107500@nm@P@nm@
+MG@nm@Montes Claros@nm@@nm@M@nm@
+MG@nm@Montezuma@nm@39547000@nm@M@nm@
+MG@nm@Morada Nova de Minas@nm@35628000@nm@M@nm@
+MG@nm@Morro@nm@39313000@nm@D@nm@
+MG@nm@Morro da Garça@nm@39248000@nm@M@nm@
+MG@nm@Morro do Ferro@nm@35541000@nm@D@nm@
+MG@nm@Morro do Pilar@nm@35875000@nm@M@nm@
+MG@nm@Morro Vermelho@nm@34940000@nm@D@nm@
+MG@nm@Mucuri@nm@39809800@nm@D@nm@
+MG@nm@Mundo Novo de Minas@nm@35208000@nm@D@nm@
+MG@nm@Munhoz@nm@37620000@nm@M@nm@
+MG@nm@Muquém@nm@39375000@nm@D@nm@
+MG@nm@Muriaé@nm@36880000@nm@M@nm@
+MG@nm@Mutum@nm@36955000@nm@M@nm@
+MG@nm@Muzambinho@nm@37890000@nm@M@nm@
+MG@nm@Nacip Raydan@nm@39718000@nm@M@nm@
+MG@nm@Nanuque@nm@39860000@nm@M@nm@
+MG@nm@Naque@nm@35117000@nm@M@nm@
+MG@nm@Naque-Nanuque@nm@35147600@nm@D@nm@
+MG@nm@Natalândia@nm@38658000@nm@M@nm@
+MG@nm@Natércia@nm@37524000@nm@M@nm@
+MG@nm@Nazaré de Minas@nm@37253000@nm@D@nm@
+MG@nm@Nazareno@nm@36370000@nm@M@nm@
+MG@nm@Nelson de Sena@nm@39706000@nm@D@nm@
+MG@nm@Neolândia@nm@35552000@nm@D@nm@
+MG@nm@Nepomuceno@nm@37250000@nm@M@nm@
+MG@nm@Nhandutiba@nm@39463000@nm@D@nm@
+MG@nm@Nicolândia@nm@35235000@nm@D@nm@
+MG@nm@Ninheira@nm@39553000@nm@M@nm@
+MG@nm@Nova Belém@nm@35298000@nm@M@nm@
+MG@nm@Nova Era@nm@35920000@nm@M@nm@
+MG@nm@Nova Esperança@nm@39414000@nm@D@nm@
+MG@nm@Nova Lima@nm@@nm@M@nm@
+MG@nm@Nova Minda@nm@39335700@nm@D@nm@
+MG@nm@Nova Módica@nm@35113000@nm@M@nm@
+MG@nm@Nova Ponte@nm@38160000@nm@M@nm@
+MG@nm@Nova Porteirinha@nm@39525000@nm@M@nm@
+MG@nm@Nova Resende@nm@37860000@nm@M@nm@
+MG@nm@Nova Santa Luzia@nm@39888000@nm@D@nm@
+MG@nm@Nova Serrana@nm@35519000@nm@M@nm@
+MG@nm@Nova União@nm@34990000@nm@M@nm@
+MG@nm@Novilhona@nm@39821000@nm@D@nm@
+MG@nm@Novo Cruzeiro@nm@39820000@nm@M@nm@
+MG@nm@Novo Horizonte@nm@39853000@nm@D@nm@
+MG@nm@Novo Oriente de Minas@nm@39817000@nm@M@nm@
+MG@nm@Novorizonte@nm@39568000@nm@M@nm@
+MG@nm@Ocidente@nm@36959000@nm@D@nm@
+MG@nm@Olaria@nm@36145000@nm@M@nm@
+MG@nm@Olegário Maciel@nm@37509000@nm@D@nm@
+MG@nm@Olhos D'Água@nm@39398000@nm@M@nm@
+MG@nm@Olhos Dágua@nm@39489100@nm@D@nm@
+MG@nm@Olhos D'Água do Oeste@nm@38772000@nm@D@nm@
+MG@nm@Olímpio Campos@nm@39433000@nm@D@nm@
+MG@nm@Olímpio Noronha@nm@37488000@nm@M@nm@
+MG@nm@Oliveira@nm@35540000@nm@M@nm@
+MG@nm@Oliveira Fortes@nm@36250000@nm@M@nm@
+MG@nm@Onça de Pitangui@nm@35655000@nm@M@nm@
+MG@nm@Oratórios@nm@35439000@nm@M@nm@
+MG@nm@Orizânia@nm@36828000@nm@M@nm@
+MG@nm@Ouro Branco@nm@36420000@nm@M@nm@
+MG@nm@Ouro Fino@nm@37570000@nm@M@nm@
+MG@nm@Ouro Preto@nm@35400000@nm@M@nm@
+MG@nm@Ouro Verde de Minas@nm@39855000@nm@M@nm@
+MG@nm@Paciência@nm@39524500@nm@D@nm@
+MG@nm@Padre Brito@nm@36209000@nm@D@nm@
+MG@nm@Padre Carvalho@nm@39573000@nm@M@nm@
+MG@nm@Padre Felisberto@nm@35445000@nm@D@nm@
+MG@nm@Padre Fialho@nm@35367700@nm@D@nm@
+MG@nm@Padre João Afonso@nm@39672000@nm@D@nm@
+MG@nm@Padre Júlio Maria@nm@36978000@nm@D@nm@
+MG@nm@Padre Paraíso@nm@39818000@nm@M@nm@
+MG@nm@Padre Pinto@nm@35945000@nm@D@nm@
+MG@nm@Padre Viegas@nm@35422000@nm@D@nm@
+MG@nm@Pai Pedro@nm@39517000@nm@M@nm@
+MG@nm@Paineiras@nm@35622000@nm@M@nm@
+MG@nm@Pains@nm@35582000@nm@M@nm@
+MG@nm@Paiolinho@nm@37758000@nm@D@nm@
+MG@nm@Paiva@nm@36195000@nm@M@nm@
+MG@nm@Palma@nm@36750000@nm@M@nm@
+MG@nm@Palmeiral@nm@37725000@nm@D@nm@
+MG@nm@Palmeirinha@nm@38613000@nm@D@nm@
+MG@nm@Palmital de Minas@nm@38627000@nm@D@nm@
+MG@nm@Palmital dos Carvalhos@nm@36278000@nm@D@nm@
+MG@nm@Palmópolis@nm@39945000@nm@M@nm@
+MG@nm@Panorâmica@nm@39429200@nm@D@nm@
+MG@nm@Pântano@nm@37543000@nm@D@nm@
+MG@nm@Papagaios@nm@35669000@nm@M@nm@
+MG@nm@Pará de Minas@nm@@nm@M@nm@
+MG@nm@Paracatu@nm@38600000@nm@M@nm@
+MG@nm@Paraguaçu@nm@37120000@nm@M@nm@
+MG@nm@Paraguai@nm@36565000@nm@D@nm@
+MG@nm@Paraíso Garcia@nm@36236000@nm@D@nm@
+MG@nm@Paraisópolis@nm@37660000@nm@M@nm@
+MG@nm@Paraopeba@nm@35774000@nm@M@nm@
+MG@nm@Paredão de Minas@nm@39285000@nm@D@nm@
+MG@nm@Parque Durval de Barros@nm@32440000@nm@D@nm@
+MG@nm@Parque Industrial@nm@@nm@D@nm@
+MG@nm@Passa Dez@nm@35343000@nm@D@nm@
+MG@nm@Passa Quatro@nm@37460000@nm@M@nm@
+MG@nm@Passa Tempo@nm@35537000@nm@M@nm@
+MG@nm@Passa Vinte@nm@37330000@nm@M@nm@
+MG@nm@Passabém@nm@35810000@nm@M@nm@
+MG@nm@Passagem de Mariana@nm@35421000@nm@D@nm@
+MG@nm@Passos@nm@@nm@M@nm@
+MG@nm@Patis@nm@39378000@nm@M@nm@
+MG@nm@Patos de Minas@nm@@nm@M@nm@
+MG@nm@Patrimônio@nm@38145000@nm@D@nm@
+MG@nm@Patrocínio@nm@@nm@M@nm@
+MG@nm@Patrocínio de Caratinga@nm@35316000@nm@D@nm@
+MG@nm@Patrocínio do Muriaé@nm@36860000@nm@M@nm@
+MG@nm@Paula Cândido@nm@36544000@nm@M@nm@
+MG@nm@Paula Lima@nm@36103000@nm@P@nm@
+MG@nm@Paulistas@nm@39765000@nm@M@nm@
+MG@nm@Pavão@nm@39814000@nm@M@nm@
+MG@nm@Pé do Morro@nm@37462000@nm@D@nm@
+MG@nm@Peçanha@nm@39700000@nm@M@nm@
+MG@nm@Pedra Azul@nm@39970000@nm@M@nm@
+MG@nm@Pedra Bonita@nm@35364000@nm@M@nm@
+MG@nm@Pedra Corrida@nm@35147500@nm@D@nm@
+MG@nm@Pedra do Anta@nm@36585000@nm@M@nm@
+MG@nm@Pedra do Indaiá@nm@35565000@nm@M@nm@
+MG@nm@Pedra do Sino@nm@36282000@nm@D@nm@
+MG@nm@Pedra Dourada@nm@36847000@nm@M@nm@
+MG@nm@Pedra Grande@nm@39910000@nm@D@nm@
+MG@nm@Pedra Menina@nm@39175000@nm@D@nm@
+MG@nm@Pedralva@nm@37520000@nm@M@nm@
+MG@nm@Pedras de Maria da Cruz@nm@39492000@nm@M@nm@
+MG@nm@Pedras de Marilândia@nm@38618000@nm@D@nm@
+MG@nm@Pedrinópolis@nm@38178000@nm@M@nm@
+MG@nm@Pedro Leopoldo@nm@33600000@nm@M@nm@
+MG@nm@Pedro Lessa@nm@39158000@nm@D@nm@
+MG@nm@Pedro Teixeira@nm@36148000@nm@M@nm@
+MG@nm@Pedro Versiani@nm@39809300@nm@D@nm@
+MG@nm@Penédia@nm@34930000@nm@D@nm@
+MG@nm@Penha de França@nm@39675000@nm@D@nm@
+MG@nm@Penha do Capim@nm@35212000@nm@D@nm@
+MG@nm@Penha do Cassiano@nm@35107000@nm@D@nm@
+MG@nm@Penha do Norte@nm@35241000@nm@D@nm@
+MG@nm@Penha Longa@nm@36635000@nm@D@nm@
+MG@nm@Penido@nm@36106800@nm@P@nm@
+MG@nm@Pequeri@nm@36610000@nm@M@nm@
+MG@nm@Pequi@nm@35667000@nm@M@nm@
+MG@nm@Perdigão@nm@35545000@nm@M@nm@
+MG@nm@Perdilândia@nm@38328000@nm@D@nm@
+MG@nm@Perdizes@nm@38170000@nm@M@nm@
+MG@nm@Perdões@nm@37260000@nm@M@nm@
+MG@nm@Pereirinhas@nm@35492000@nm@D@nm@
+MG@nm@Periquito@nm@35118000@nm@M@nm@
+MG@nm@Perpétuo Socorro@nm@35196000@nm@D@nm@
+MG@nm@Pescador@nm@35114000@nm@M@nm@
+MG@nm@Petúnia@nm@37865000@nm@D@nm@
+MG@nm@Piacatuba@nm@36708000@nm@D@nm@
+MG@nm@Pião@nm@37776000@nm@D@nm@
+MG@nm@Piau@nm@36157000@nm@M@nm@
+MG@nm@Pic Sagarana@nm@38686000@nm@D@nm@
+MG@nm@Piedade de Caratinga@nm@35325000@nm@M@nm@
+MG@nm@Piedade de Ponte Nova@nm@35382000@nm@M@nm@
+MG@nm@Piedade do Paraopeba@nm@35464000@nm@D@nm@
+MG@nm@Piedade do Rio Grande@nm@36227000@nm@M@nm@
+MG@nm@Piedade dos Gerais@nm@35476000@nm@M@nm@
+MG@nm@Pilar@nm@38717000@nm@D@nm@
+MG@nm@Pimenta@nm@35585000@nm@M@nm@
+MG@nm@Pindaíbas@nm@38715000@nm@D@nm@
+MG@nm@Pingo-D'Água@nm@35348000@nm@M@nm@
+MG@nm@Pinheirinhos@nm@37461000@nm@D@nm@
+MG@nm@Pinheiro de Minas@nm@36973000@nm@D@nm@
+MG@nm@Pinheiro Grosso@nm@36207500@nm@D@nm@
+MG@nm@Pinheiros Altos@nm@36490000@nm@D@nm@
+MG@nm@Pinhotiba@nm@36857000@nm@D@nm@
+MG@nm@Pintópolis@nm@39317000@nm@M@nm@
+MG@nm@Pintos Negreiros@nm@37518000@nm@D@nm@
+MG@nm@Piracaiba@nm@38452000@nm@D@nm@
+MG@nm@Piracema@nm@35536000@nm@M@nm@
+MG@nm@Pirajuba@nm@38210000@nm@M@nm@
+MG@nm@Piranga@nm@36480000@nm@M@nm@
+MG@nm@Piranguçu@nm@37511000@nm@M@nm@
+MG@nm@Piranguinho@nm@37508000@nm@M@nm@
+MG@nm@Piranguita@nm@36462000@nm@D@nm@
+MG@nm@Pirapanema@nm@36889000@nm@D@nm@
+MG@nm@Pirapetinga@nm@36730000@nm@M@nm@
+MG@nm@Pirapitinga@nm@36107600@nm@P@nm@
+MG@nm@Pirapora@nm@39270000@nm@M@nm@
+MG@nm@Piraúba@nm@36170000@nm@M@nm@
+MG@nm@Piscamba@nm@35393000@nm@D@nm@
+MG@nm@Pitangui@nm@35650000@nm@M@nm@
+MG@nm@Pitarana@nm@39498000@nm@D@nm@
+MG@nm@Piumhi@nm@37925000@nm@M@nm@
+MG@nm@Planalto de Minas@nm@39114000@nm@D@nm@
+MG@nm@Planura@nm@38220000@nm@M@nm@
+MG@nm@Plautino Soares@nm@35144000@nm@D@nm@
+MG@nm@Poaia@nm@39783000@nm@D@nm@
+MG@nm@Poço Fundo@nm@37757000@nm@M@nm@
+MG@nm@Poções de Paineiras@nm@35623000@nm@D@nm@
+MG@nm@Poços de Caldas@nm@@nm@M@nm@
+MG@nm@Pocrane@nm@36960000@nm@M@nm@
+MG@nm@Pompéu@nm@35640000@nm@M@nm@
+MG@nm@Poncianos@nm@38126000@nm@D@nm@
+MG@nm@Pontalete@nm@37192000@nm@D@nm@
+MG@nm@Ponte Alta@nm@38106000@nm@D@nm@
+MG@nm@Ponte Alta de Minas@nm@36805000@nm@D@nm@
+MG@nm@Ponte do Cosme@nm@36206200@nm@D@nm@
+MG@nm@Ponte dos Ciganos@nm@39343000@nm@D@nm@
+MG@nm@Ponte Firme@nm@38754000@nm@D@nm@
+MG@nm@Ponte Nova@nm@@nm@M@nm@
+MG@nm@Ponte Segura@nm@37618000@nm@D@nm@
+MG@nm@Pontevila@nm@35577000@nm@D@nm@
+MG@nm@Ponto Chique@nm@39328000@nm@M@nm@
+MG@nm@Ponto Chique do Martelo@nm@36206500@nm@D@nm@
+MG@nm@Ponto do Marambaia@nm@39812000@nm@D@nm@
+MG@nm@Ponto dos Volantes@nm@39615000@nm@M@nm@
+MG@nm@Porteirinha@nm@39520000@nm@M@nm@
+MG@nm@Porto Agrário@nm@39469000@nm@D@nm@
+MG@nm@Porto das Flores@nm@36128000@nm@D@nm@
+MG@nm@Porto dos Mendes@nm@37271000@nm@D@nm@
+MG@nm@Porto Firme@nm@36576000@nm@M@nm@
+MG@nm@Posses@nm@39658000@nm@D@nm@
+MG@nm@Poté@nm@39827000@nm@M@nm@
+MG@nm@Pouso Alegre@nm@37550000@nm@M@nm@
+MG@nm@Pouso Alegre@nm@35573000@nm@P@nm@
+MG@nm@Pouso Alto@nm@37468000@nm@M@nm@
+MG@nm@Prados@nm@36320000@nm@M@nm@
+MG@nm@Prata@nm@38140000@nm@M@nm@
+MG@nm@Pratápolis@nm@37970000@nm@M@nm@
+MG@nm@Pratinha@nm@38960000@nm@M@nm@
+MG@nm@Presidente Bernardes@nm@36475000@nm@M@nm@
+MG@nm@Presidente Juscelino@nm@39245000@nm@M@nm@
+MG@nm@Presidente Kubitschek@nm@39135000@nm@M@nm@
+MG@nm@Presidente Olegário@nm@38750000@nm@M@nm@
+MG@nm@Presidente Pena@nm@39865000@nm@D@nm@
+MG@nm@Professor Sperber@nm@36988000@nm@D@nm@
+MG@nm@Providência@nm@36706000@nm@D@nm@
+MG@nm@Prudente de Morais@nm@35738000@nm@M@nm@
+MG@nm@Quartel de São João@nm@35626000@nm@D@nm@
+MG@nm@Quartel do Sacramento@nm@35342000@nm@D@nm@
+MG@nm@Quartel Geral@nm@35625000@nm@M@nm@
+MG@nm@Quatituba@nm@35222000@nm@D@nm@
+MG@nm@Queixada@nm@39823000@nm@D@nm@
+MG@nm@Queluzito@nm@36424000@nm@M@nm@
+MG@nm@Quem-Quem@nm@39443000@nm@D@nm@
+MG@nm@Quilombo@nm@39753000@nm@D@nm@
+MG@nm@Quilombo Nossa Senhora do Rosário@nm@37193000@nm@D@nm@
+MG@nm@Quintinos@nm@38845000@nm@D@nm@
+MG@nm@Raposos@nm@34400000@nm@M@nm@
+MG@nm@Raul Soares@nm@35350000@nm@M@nm@
+MG@nm@Ravena@nm@34740000@nm@D@nm@
+MG@nm@Realeza@nm@36905000@nm@P@nm@
+MG@nm@Recreio@nm@36740000@nm@M@nm@
+MG@nm@Reduto@nm@36920000@nm@M@nm@
+MG@nm@Resende Costa@nm@36340000@nm@M@nm@
+MG@nm@Resplendor@nm@35230000@nm@M@nm@
+MG@nm@Ressaquinha@nm@36270000@nm@M@nm@
+MG@nm@Retiro Velho@nm@39314001@nm@D@nm@
+MG@nm@Riachinho@nm@38640000@nm@M@nm@
+MG@nm@Riacho da Cruz@nm@39483000@nm@D@nm@
+MG@nm@Riacho dos Machados@nm@39529000@nm@M@nm@
+MG@nm@Ribeirão da Folha@nm@39651000@nm@D@nm@
+MG@nm@Ribeirão das Neves@nm@@nm@M@nm@
+MG@nm@Ribeirão de São Domingos@nm@36915000@nm@D@nm@
+MG@nm@Ribeirão Vermelho@nm@37264000@nm@M@nm@
+MG@nm@Ribeiro Junqueira@nm@36707000@nm@D@nm@
+MG@nm@Ribeiros@nm@37492000@nm@D@nm@
+MG@nm@Rio Acima@nm@34300000@nm@M@nm@
+MG@nm@Rio Casca@nm@35370000@nm@M@nm@
+MG@nm@Rio das Mortes@nm@36315000@nm@D@nm@
+MG@nm@Rio do Prado@nm@39940000@nm@M@nm@
+MG@nm@Rio Doce@nm@35442000@nm@M@nm@
+MG@nm@Rio Espera@nm@36460000@nm@M@nm@
+MG@nm@Rio Manso@nm@35485000@nm@M@nm@
+MG@nm@Rio Melo@nm@36465000@nm@D@nm@
+MG@nm@Rio Novo@nm@36150000@nm@M@nm@
+MG@nm@Rio Paranaíba@nm@38810000@nm@M@nm@
+MG@nm@Rio Pardo de Minas@nm@39530000@nm@M@nm@
+MG@nm@Rio Piracicaba@nm@35940000@nm@M@nm@
+MG@nm@Rio Pomba@nm@36180000@nm@M@nm@
+MG@nm@Rio Pretinho@nm@39808000@nm@D@nm@
+MG@nm@Rio Preto@nm@36130000@nm@M@nm@
+MG@nm@Rio Vermelho@nm@39170000@nm@M@nm@
+MG@nm@Ritápolis@nm@36335000@nm@M@nm@
+MG@nm@Roça Grande@nm@36682000@nm@D@nm@
+MG@nm@Roças Novas@nm@34950000@nm@D@nm@
+MG@nm@Rochedo de Minas@nm@36604000@nm@M@nm@
+MG@nm@Rodeador@nm@39218000@nm@D@nm@
+MG@nm@Rodeiro@nm@36510000@nm@M@nm@
+MG@nm@Rodrigo Silva@nm@35407000@nm@D@nm@
+MG@nm@Romaria@nm@38520000@nm@M@nm@
+MG@nm@Rosário da Limeira@nm@36878000@nm@M@nm@
+MG@nm@Rosário de Minas@nm@36106000@nm@D@nm@
+MG@nm@Rosário do Pontal@nm@35435500@nm@D@nm@
+MG@nm@Roseiral@nm@36958000@nm@D@nm@
+MG@nm@Rubelita@nm@39565000@nm@M@nm@
+MG@nm@Rubim@nm@39950000@nm@M@nm@
+MG@nm@Ruralminas@nm@38619000@nm@D@nm@
+MG@nm@Sabará@nm@@nm@M@nm@
+MG@nm@Sabinópolis@nm@39750000@nm@M@nm@
+MG@nm@Sacramento@nm@38190000@nm@M@nm@
+MG@nm@Salinas@nm@39560000@nm@M@nm@
+MG@nm@Salitre de Minas@nm@38749600@nm@D@nm@
+MG@nm@Salto da Divisa@nm@39925000@nm@M@nm@
+MG@nm@Sanatório Santa Fé@nm@37412000@nm@P@nm@
+MG@nm@Santa Bárbara@nm@35960000@nm@M@nm@
+MG@nm@Santa Bárbara do Leste@nm@35328000@nm@M@nm@
+MG@nm@Santa Bárbara do Monte Verde@nm@36132000@nm@M@nm@
+MG@nm@Santa Bárbara do Tugúrio@nm@36215000@nm@M@nm@
+MG@nm@Santa Cruz da Aparecida@nm@37119000@nm@D@nm@
+MG@nm@Santa Cruz de Botumirim@nm@39595000@nm@D@nm@
+MG@nm@Santa Cruz de Minas@nm@36328000@nm@M@nm@
+MG@nm@Santa Cruz de Salinas@nm@39563000@nm@M@nm@
+MG@nm@Santa Cruz do Escalvado@nm@35384000@nm@M@nm@
+MG@nm@Santa Cruz do Prata@nm@37815000@nm@D@nm@
+MG@nm@Santa da Pedra@nm@39368000@nm@D@nm@
+MG@nm@Santa Efigênia@nm@35319000@nm@D@nm@
+MG@nm@Santa Efigênia de Minas@nm@39725000@nm@M@nm@
+MG@nm@Santa Fé de Minas@nm@39295000@nm@M@nm@
+MG@nm@Santa Filomena@nm@36945000@nm@D@nm@
+MG@nm@Santa Helena de Minas@nm@39874000@nm@M@nm@
+MG@nm@Santa Izabel@nm@39310000@nm@D@nm@
+MG@nm@Santa Juliana@nm@38175000@nm@M@nm@
+MG@nm@Santa Luzia@nm@@nm@M@nm@
+MG@nm@Santa Luzia da Serra@nm@38774000@nm@D@nm@
+MG@nm@Santa Luzia de Caratinga@nm@35315000@nm@D@nm@
+MG@nm@Santa Luzia dos Barros@nm@38749500@nm@D@nm@
+MG@nm@Santa Margarida@nm@36913000@nm@M@nm@
+MG@nm@Santa Maria de Itabira@nm@35910000@nm@M@nm@
+MG@nm@Santa Maria do Baixio@nm@35146700@nm@D@nm@
+MG@nm@Santa Maria do Salto@nm@39928000@nm@M@nm@
+MG@nm@Santa Maria do Suaçuí@nm@39780000@nm@M@nm@
+MG@nm@Santa Quitéria@nm@36418000@nm@P@nm@
+MG@nm@Santa Quitéria@nm@36944000@nm@P@nm@
+MG@nm@Santa Rita@nm@39701000@nm@P@nm@
+MG@nm@Santa Rita da Estrela@nm@38526000@nm@D@nm@
+MG@nm@Santa Rita de Caldas@nm@37775000@nm@M@nm@
+MG@nm@Santa Rita de Jacutinga@nm@36135000@nm@M@nm@
+MG@nm@Santa Rita de Minas@nm@35326000@nm@M@nm@
+MG@nm@Santa Rita de Ouro Preto@nm@35409000@nm@D@nm@
+MG@nm@Santa Rita do Cedro@nm@35791000@nm@D@nm@
+MG@nm@Santa Rita do Ibitipoca@nm@36235000@nm@M@nm@
+MG@nm@Santa Rita do Itueto@nm@35225000@nm@M@nm@
+MG@nm@Santa Rita do Rio do Peixe@nm@35807000@nm@D@nm@
+MG@nm@Santa Rita do Sapucaí@nm@37540000@nm@M@nm@
+MG@nm@Santa Rita Durão@nm@35428000@nm@D@nm@
+MG@nm@Santa Rosa da Serra@nm@38805000@nm@M@nm@
+MG@nm@Santa Rosa de Lima@nm@39412000@nm@D@nm@
+MG@nm@Santa Rosa dos Dourados@nm@38555000@nm@D@nm@
+MG@nm@Santa Teresa do Bonito@nm@39702000@nm@D@nm@
+MG@nm@Santa Terezinha de Minas@nm@35688000@nm@D@nm@
+MG@nm@Santa Vitória@nm@38320000@nm@M@nm@
+MG@nm@Santa Vitória de Cocais dos Arrudas@nm@35176000@nm@P@nm@
+MG@nm@Santana da Serra@nm@39474000@nm@D@nm@
+MG@nm@Santana da Vargem@nm@37195000@nm@M@nm@
+MG@nm@Santana de Caldas@nm@37785000@nm@D@nm@
+MG@nm@Santana de Cataguases@nm@36795000@nm@M@nm@
+MG@nm@Santana de Patos@nm@38711000@nm@D@nm@
+MG@nm@Santana de Pirapama@nm@35785000@nm@M@nm@
+MG@nm@Santana do Alfié@nm@35997000@nm@D@nm@
+MG@nm@Santana do Araçuaí@nm@39618000@nm@D@nm@
+MG@nm@Santana do Campestre@nm@36783000@nm@D@nm@
+MG@nm@Santana do Capivari@nm@37469000@nm@D@nm@
+MG@nm@Santana do Deserto@nm@36620000@nm@M@nm@
+MG@nm@Santana do Garambéu@nm@36146000@nm@M@nm@
+MG@nm@Santana do Jacaré@nm@37278000@nm@M@nm@
+MG@nm@Santana do Manhuaçu@nm@36940000@nm@M@nm@
+MG@nm@Santana do Paraíso@nm@35179000@nm@M@nm@
+MG@nm@Santana do Paraopeba@nm@35475000@nm@D@nm@
+MG@nm@Santana do Riacho@nm@35845000@nm@M@nm@
+MG@nm@Santana do Tabuleiro@nm@35358000@nm@D@nm@
+MG@nm@Santana dos Montes@nm@36430000@nm@M@nm@
+MG@nm@Santo Antônio da Boa Vista@nm@39434000@nm@D@nm@
+MG@nm@Santo Antônio da Fortaleza@nm@35801000@nm@D@nm@
+MG@nm@Santo Antônio da Vargem Alegre@nm@35482000@nm@D@nm@
+MG@nm@Santo Antônio do Amparo@nm@37262000@nm@M@nm@
+MG@nm@Santo Antônio do Aventureiro@nm@36670000@nm@M@nm@
+MG@nm@Santo Antônio do Boqueirão@nm@38620000@nm@D@nm@
+MG@nm@Santo Antônio do Cruzeiro@nm@37255000@nm@D@nm@
+MG@nm@Santo Antônio do Glória@nm@36897000@nm@D@nm@
+MG@nm@Santo Antônio do Grama@nm@35388000@nm@M@nm@
+MG@nm@Santo Antônio do Itambé@nm@39160000@nm@M@nm@
+MG@nm@Santo Antônio do Jacinto@nm@39935000@nm@M@nm@
+MG@nm@Santo Antônio do Leite@nm@35413000@nm@D@nm@
+MG@nm@Santo Antônio do Manhuaçu@nm@35321000@nm@D@nm@
+MG@nm@Santo Antônio do Monte@nm@35560000@nm@M@nm@
+MG@nm@Santo Antônio do Mucuri@nm@39691000@nm@D@nm@
+MG@nm@Santo Antônio do Norte@nm@35863000@nm@D@nm@
+MG@nm@Santo Antônio do Pirapetinga@nm@36485000@nm@D@nm@
+MG@nm@Santo Antônio do Pontal@nm@35101000@nm@D@nm@
+MG@nm@Santo Antônio do Porto@nm@35100200@nm@P@nm@
+MG@nm@Santo Antônio do Retiro@nm@39538000@nm@M@nm@
+MG@nm@Santo Antônio do Rio Abaixo@nm@35880000@nm@M@nm@
+MG@nm@Santo Antônio do Rio Grande@nm@38239000@nm@D@nm@
+MG@nm@Santo Antônio do Salto@nm@35417000@nm@D@nm@
+MG@nm@Santo Antônio dos Araújos@nm@39796000@nm@D@nm@
+MG@nm@Santo Antônio dos Campos@nm@35505000@nm@D@nm@
+MG@nm@Santo Hilário@nm@35586000@nm@D@nm@
+MG@nm@Santo Hipólito@nm@39210000@nm@M@nm@
+MG@nm@Santos Dumont@nm@36240000@nm@M@nm@
+MG@nm@São Bartolomeu@nm@37889000@nm@D@nm@
+MG@nm@São Bartolomeu@nm@35406000@nm@D@nm@
+MG@nm@São Bartolomeu de Sem Peixe@nm@35441200@nm@D@nm@
+MG@nm@São Benedito@nm@38749400@nm@P@nm@
+MG@nm@São Benedito@nm@@nm@D@nm@
+MG@nm@São Bento Abade@nm@37407000@nm@M@nm@
+MG@nm@São Bento de Caldas@nm@37778000@nm@D@nm@
+MG@nm@São Brás do Suaçuí@nm@35495000@nm@M@nm@
+MG@nm@São Braz@nm@38788000@nm@D@nm@
+MG@nm@São Cândido@nm@35320000@nm@D@nm@
+MG@nm@São Domingos@nm@36675000@nm@D@nm@
+MG@nm@São Domingos da Bocaina@nm@36142000@nm@D@nm@
+MG@nm@São Domingos das Dores@nm@35335000@nm@M@nm@
+MG@nm@São Domingos do Prata@nm@35995000@nm@M@nm@
+MG@nm@São Félix de Minas@nm@35275000@nm@M@nm@
+MG@nm@São Francisco@nm@39300000@nm@M@nm@
+MG@nm@São Francisco de Paula@nm@35543000@nm@M@nm@
+MG@nm@São Francisco de Sales@nm@38260000@nm@M@nm@
+MG@nm@São Francisco do Glória@nm@36810000@nm@M@nm@
+MG@nm@São Francisco do Humaitá@nm@36956000@nm@D@nm@
+MG@nm@São Geraldo@nm@36530000@nm@M@nm@
+MG@nm@São Geraldo@nm@39342000@nm@D@nm@
+MG@nm@São Geraldo da Piedade@nm@39723000@nm@M@nm@
+MG@nm@São Geraldo de Tumiritinga@nm@35126000@nm@D@nm@
+MG@nm@São Geraldo do Baguari@nm@39704000@nm@D@nm@
+MG@nm@São Geraldo do Baixio@nm@35258000@nm@M@nm@
+MG@nm@São Gonçalo de Botelhos@nm@37723000@nm@D@nm@
+MG@nm@São Gonçalo do Abaeté@nm@38790000@nm@M@nm@
+MG@nm@São Gonçalo do Monte@nm@35455000@nm@D@nm@
+MG@nm@São Gonçalo do Pará@nm@35544000@nm@M@nm@
+MG@nm@São Gonçalo do Rio Abaixo@nm@35935000@nm@M@nm@
+MG@nm@São Gonçalo do Rio das Pedras@nm@39153000@nm@D@nm@
+MG@nm@São Gonçalo do Rio Preto@nm@39185000@nm@M@nm@
+MG@nm@São Gonçalo do Sapucaí@nm@37490000@nm@M@nm@
+MG@nm@São Gotardo@nm@38800000@nm@M@nm@
+MG@nm@São Jerônimo dos Poções@nm@38975000@nm@D@nm@
+MG@nm@São João Batista do Glória@nm@37920000@nm@M@nm@
+MG@nm@São João da Chapada@nm@39110000@nm@D@nm@
+MG@nm@São João da Lagoa@nm@39355000@nm@M@nm@
+MG@nm@São João da Mata@nm@37568000@nm@M@nm@
+MG@nm@São João da Ponte@nm@39430000@nm@M@nm@
+MG@nm@São João da Sapucaia@nm@36765000@nm@D@nm@
+MG@nm@São João da Serra@nm@36245000@nm@D@nm@
+MG@nm@São João da Serra Negra@nm@38749800@nm@D@nm@
+MG@nm@São João da Vereda@nm@39413000@nm@D@nm@
+MG@nm@São João das Missões@nm@39475000@nm@M@nm@
+MG@nm@São João Del Rei@nm@@nm@M@nm@
+MG@nm@São João do Bonito@nm@39528000@nm@D@nm@
+MG@nm@São João do Jacutinga@nm@35322000@nm@D@nm@
+MG@nm@São João do Manhuaçu@nm@36918000@nm@M@nm@
+MG@nm@São João do Manteninha@nm@35277000@nm@M@nm@
+MG@nm@São João do Oriente@nm@35146000@nm@M@nm@
+MG@nm@São João do Pacuí@nm@39365000@nm@M@nm@
+MG@nm@São João do Paraíso@nm@39540000@nm@M@nm@
+MG@nm@São João Evangelista@nm@39705000@nm@M@nm@
+MG@nm@São João Nepomuceno@nm@36680000@nm@M@nm@
+MG@nm@São Joaquim@nm@39348000@nm@D@nm@
+MG@nm@São Joaquim@nm@39488000@nm@D@nm@
+MG@nm@São Joaquim de Bicas@nm@32920000@nm@M@nm@
+MG@nm@São José da Barra@nm@37945000@nm@M@nm@
+MG@nm@São José da Bela Vista@nm@38804000@nm@D@nm@
+MG@nm@São José da Lapa@nm@33350000@nm@M@nm@
+MG@nm@São José da Pedra Menina@nm@36831000@nm@D@nm@
+MG@nm@São José da Safira@nm@39785000@nm@M@nm@
+MG@nm@São José da Varginha@nm@35694000@nm@M@nm@
+MG@nm@São José do Acácio@nm@35133000@nm@D@nm@
+MG@nm@São José do Alegre@nm@37510000@nm@M@nm@
+MG@nm@São José do Barreiro@nm@37927000@nm@D@nm@
+MG@nm@São José do Batatal@nm@35339000@nm@D@nm@
+MG@nm@São José do Buriti@nm@39238000@nm@D@nm@
+MG@nm@São José do Divino@nm@39848000@nm@M@nm@
+MG@nm@São José do Goiabal@nm@35986000@nm@M@nm@
+MG@nm@São José do Itueto@nm@35228000@nm@D@nm@
+MG@nm@São José do Jacaré@nm@39748000@nm@D@nm@
+MG@nm@São José do Jacuri@nm@39707000@nm@M@nm@
+MG@nm@São José do Mantimento@nm@36990000@nm@M@nm@
+MG@nm@São José do Mato Dentro@nm@37574000@nm@D@nm@
+MG@nm@São José do Pântano@nm@37549000@nm@D@nm@
+MG@nm@São José do Paraopeba@nm@35468000@nm@D@nm@
+MG@nm@São José do Rio Manso@nm@37507000@nm@D@nm@
+MG@nm@São José dos Lopes@nm@36141000@nm@D@nm@
+MG@nm@São José dos Salgados@nm@35558000@nm@D@nm@
+MG@nm@São Judas Tadeu de Minas@nm@39337000@nm@D@nm@
+MG@nm@São Lourenço@nm@37470000@nm@M@nm@
+MG@nm@São Manoel do Boi@nm@36804000@nm@P@nm@
+MG@nm@São Manoel do Guaiaçu@nm@36787000@nm@D@nm@
+MG@nm@São Mateus de Minas@nm@37652000@nm@D@nm@
+MG@nm@São Miguel do Anta@nm@36590000@nm@M@nm@
+MG@nm@São Miguel do Cajuru@nm@36318000@nm@D@nm@
+MG@nm@São Pedro da Garça@nm@39411000@nm@D@nm@
+MG@nm@São Pedro da União@nm@37855000@nm@M@nm@
+MG@nm@São Pedro das Tabocas@nm@39494000@nm@D@nm@
+MG@nm@São Pedro de Caldas@nm@37787000@nm@D@nm@
+MG@nm@São Pedro do Avaí@nm@36906000@nm@D@nm@
+MG@nm@São Pedro do Glória@nm@36819000@nm@D@nm@
+MG@nm@São Pedro do Jequitinhonha@nm@39961000@nm@D@nm@
+MG@nm@São Pedro do Passa Três@nm@38664000@nm@D@nm@
+MG@nm@São Pedro do Suaçuí@nm@39784000@nm@M@nm@
+MG@nm@São Pedro dos Ferros@nm@35360000@nm@M@nm@
+MG@nm@São Roberto@nm@39358000@nm@D@nm@
+MG@nm@São Romão@nm@39290000@nm@M@nm@
+MG@nm@São Roque de Minas@nm@37928000@nm@M@nm@
+MG@nm@São Sebastião@nm@38777000@nm@D@nm@
+MG@nm@São Sebastião da Barra@nm@35192000@nm@D@nm@
+MG@nm@São Sebastião da Bela Vista@nm@37567000@nm@M@nm@
+MG@nm@São Sebastião da Vala@nm@35215000@nm@D@nm@
+MG@nm@São Sebastião da Vargem Alegre@nm@36793000@nm@M@nm@
+MG@nm@São Sebastião da Vitória@nm@36316000@nm@D@nm@
+MG@nm@São Sebastião de Braúnas@nm@35197000@nm@D@nm@
+MG@nm@São Sebastião do Anta@nm@35334000@nm@M@nm@
+MG@nm@São Sebastião do Baixio@nm@35147400@nm@D@nm@
+MG@nm@São Sebastião do Barreado@nm@36131000@nm@D@nm@
+MG@nm@São Sebastião do Barreiro@nm@39839000@nm@D@nm@
+MG@nm@São Sebastião do Bonsucesso@nm@35862000@nm@D@nm@
+MG@nm@São Sebastião do Bugre@nm@39712000@nm@D@nm@
+MG@nm@São Sebastião do Gil@nm@35493000@nm@D@nm@
+MG@nm@São Sebastião do Maranhão@nm@39795000@nm@M@nm@
+MG@nm@São Sebastião do Óculo@nm@35356000@nm@D@nm@
+MG@nm@São Sebastião do Oeste@nm@35567000@nm@M@nm@
+MG@nm@São Sebastião do Paraíso@nm@37950000@nm@M@nm@
+MG@nm@São Sebastião do Pontal@nm@38292000@nm@D@nm@
+MG@nm@São Sebastião do Rio Preto@nm@35815000@nm@M@nm@
+MG@nm@São Sebastião do Rio Verde@nm@37467000@nm@M@nm@
+MG@nm@São Sebastião do Sacramento@nm@36908000@nm@D@nm@
+MG@nm@São Sebastião do Soberbo@nm@35387000@nm@D@nm@
+MG@nm@São Sebastião dos Poções@nm@39497000@nm@D@nm@
+MG@nm@São Sebastião dos Robertos@nm@37592000@nm@D@nm@
+MG@nm@São Sebastião dos Torres@nm@36206700@nm@D@nm@
+MG@nm@São Thomé das Letras@nm@37408000@nm@M@nm@
+MG@nm@São Tiago@nm@36350000@nm@M@nm@
+MG@nm@São Tomás de Aquino@nm@37960000@nm@M@nm@
+MG@nm@São Vicente@nm@35733000@nm@D@nm@
+MG@nm@São Vicente da Estrela@nm@35355000@nm@D@nm@
+MG@nm@São Vicente de Minas@nm@37370000@nm@M@nm@
+MG@nm@São Vicente do Grama@nm@35398000@nm@D@nm@
+MG@nm@São Vicente do Rio Doce@nm@35143000@nm@D@nm@
+MG@nm@São Vítor@nm@35104000@nm@D@nm@
+MG@nm@Sapucaí@nm@37594000@nm@D@nm@
+MG@nm@Sapucaia@nm@35311000@nm@D@nm@
+MG@nm@Sapucaia de Guanhães@nm@39742000@nm@D@nm@
+MG@nm@Sapucaia do Norte@nm@35255000@nm@D@nm@
+MG@nm@Sapucaí-Mirim@nm@37690000@nm@M@nm@
+MG@nm@Sarandira@nm@36104000@nm@D@nm@
+MG@nm@Sardoá@nm@39728000@nm@M@nm@
+MG@nm@Sarzedo@nm@32450000@nm@M@nm@
+MG@nm@Saudade@nm@36645000@nm@D@nm@
+MG@nm@Sem Peixe@nm@35441000@nm@M@nm@
+MG@nm@Senador Amaral@nm@37615000@nm@M@nm@
+MG@nm@Senador Cortes@nm@36650000@nm@M@nm@
+MG@nm@Senador Firmino@nm@36540000@nm@M@nm@
+MG@nm@Senador José Bento@nm@37586000@nm@M@nm@
+MG@nm@Senador Melo Viana@nm@@nm@D@nm@
+MG@nm@Senador Modestino Gonçalves@nm@39190000@nm@M@nm@
+MG@nm@Senador Mourão@nm@39112000@nm@D@nm@
+MG@nm@Senhora da Glória@nm@39212000@nm@D@nm@
+MG@nm@Senhora da Penha@nm@35136000@nm@D@nm@
+MG@nm@Senhora das Dores@nm@36207000@nm@D@nm@
+MG@nm@Senhora de Oliveira@nm@36470000@nm@M@nm@
+MG@nm@Senhora do Carmo@nm@35907000@nm@D@nm@
+MG@nm@Senhora do Porto@nm@39745000@nm@M@nm@
+MG@nm@Senhora dos Remédios@nm@36275000@nm@M@nm@
+MG@nm@Sereno@nm@36777000@nm@D@nm@
+MG@nm@Sericita@nm@35368000@nm@M@nm@
+MG@nm@Seritinga@nm@37454000@nm@M@nm@
+MG@nm@Serra Azul@nm@35674000@nm@D@nm@
+MG@nm@Serra Azul de Minas@nm@39165000@nm@M@nm@
+MG@nm@Serra Bonita@nm@38665000@nm@D@nm@
+MG@nm@Serra da Canastra@nm@37929000@nm@D@nm@
+MG@nm@Serra da Saudade@nm@35617000@nm@M@nm@
+MG@nm@Serra das Araras@nm@39314700@nm@D@nm@
+MG@nm@Serra do Camapuã@nm@35491000@nm@D@nm@
+MG@nm@Serra do Cipó@nm@35847000@nm@D@nm@
+MG@nm@Serra do Salitre@nm@38760000@nm@M@nm@
+MG@nm@Serra dos Aimorés@nm@39868000@nm@M@nm@
+MG@nm@Serra dos Lemes@nm@37885000@nm@D@nm@
+MG@nm@Serra Nova@nm@39532000@nm@D@nm@
+MG@nm@Serrania@nm@37143000@nm@M@nm@
+MG@nm@Serranópolis de Minas@nm@39518000@nm@M@nm@
+MG@nm@Serranos@nm@37452000@nm@M@nm@
+MG@nm@Serro@nm@39150000@nm@M@nm@
+MG@nm@Sertãozinho@nm@37565500@nm@D@nm@
+MG@nm@Sete Cachoeiras@nm@35802000@nm@D@nm@
+MG@nm@Sete Lagoas@nm@@nm@M@nm@
+MG@nm@Setubinha@nm@39688000@nm@M@nm@
+MG@nm@Silva Campos@nm@35645000@nm@D@nm@
+MG@nm@Silva Xavier@nm@35705000@nm@D@nm@
+MG@nm@Silvano@nm@38749700@nm@D@nm@
+MG@nm@Silveira Carvalho@nm@36873000@nm@D@nm@
+MG@nm@Silveirânia@nm@36185000@nm@M@nm@
+MG@nm@Silvestre@nm@36572000@nm@D@nm@
+MG@nm@Silvianópolis@nm@37589000@nm@M@nm@
+MG@nm@Simão Campos@nm@39432000@nm@D@nm@
+MG@nm@Simão Pereira@nm@36123000@nm@M@nm@
+MG@nm@Simonésia@nm@36930000@nm@M@nm@
+MG@nm@Sobral Pinto@nm@36782000@nm@D@nm@
+MG@nm@Sobrália@nm@35145000@nm@M@nm@
+MG@nm@Soledade de Minas@nm@37478000@nm@M@nm@
+MG@nm@Sopa@nm@39102000@nm@D@nm@
+MG@nm@Sucanga@nm@39828000@nm@D@nm@
+MG@nm@Tabajara@nm@35333000@nm@D@nm@
+MG@nm@Tabaúna@nm@35206000@nm@D@nm@
+MG@nm@Tabuão@nm@37315000@nm@D@nm@
+MG@nm@Tabuleiro@nm@36165000@nm@M@nm@
+MG@nm@Taiobeiras@nm@39550000@nm@M@nm@
+MG@nm@Taparuba@nm@36953000@nm@M@nm@
+MG@nm@Tapira@nm@38185000@nm@M@nm@
+MG@nm@Tapiraí@nm@38980000@nm@M@nm@
+MG@nm@Tapuirama@nm@38439600@nm@D@nm@
+MG@nm@Taquaraçu de Minas@nm@33980000@nm@M@nm@
+MG@nm@Taquaral de Guanhães@nm@39743000@nm@D@nm@
+MG@nm@Taruaçu@nm@36688000@nm@D@nm@
+MG@nm@Tarumirim@nm@35140000@nm@M@nm@
+MG@nm@Tebas@nm@36702000@nm@D@nm@
+MG@nm@Teixeiras@nm@36580000@nm@M@nm@
+MG@nm@Tejuco@nm@39484000@nm@D@nm@
+MG@nm@Teófilo Otoni@nm@@nm@M@nm@
+MG@nm@Terra Branca@nm@39393000@nm@D@nm@
+MG@nm@Timóteo@nm@@nm@M@nm@
+MG@nm@Tiradentes@nm@36325000@nm@M@nm@
+MG@nm@Tiros@nm@38880000@nm@M@nm@
+MG@nm@Tobati@nm@38953000@nm@D@nm@
+MG@nm@Tocandira@nm@39523000@nm@D@nm@
+MG@nm@Tocantins@nm@36512000@nm@M@nm@
+MG@nm@Tocos do Moji@nm@37563000@nm@M@nm@
+MG@nm@Toledo@nm@37630000@nm@M@nm@
+MG@nm@Toledos@nm@36107700@nm@P@nm@
+MG@nm@Tomás Gonzaga@nm@35789000@nm@D@nm@
+MG@nm@Tombos@nm@36844000@nm@M@nm@
+MG@nm@Topázio@nm@39807000@nm@D@nm@
+MG@nm@Torneiros@nm@35665100@nm@D@nm@
+MG@nm@Torreões@nm@36107000@nm@D@nm@
+MG@nm@Três Barras da Estrada Real@nm@39159000@nm@D@nm@
+MG@nm@Três Corações@nm@37410000@nm@M@nm@
+MG@nm@Três Ilhas@nm@36127000@nm@D@nm@
+MG@nm@Três Marias@nm@39205000@nm@M@nm@
+MG@nm@Três Pontas@nm@37190000@nm@M@nm@
+MG@nm@Trimonte@nm@36723000@nm@D@nm@
+MG@nm@Tuiutinga@nm@36528000@nm@D@nm@
+MG@nm@Tumiritinga@nm@35125000@nm@M@nm@
+MG@nm@Tupaciguara@nm@38480000@nm@M@nm@
+MG@nm@Tuparecê@nm@39623000@nm@D@nm@
+MG@nm@Turmalina@nm@39660000@nm@M@nm@
+MG@nm@Turvolândia@nm@37496000@nm@M@nm@
+MG@nm@Ubá@nm@36500000@nm@M@nm@
+MG@nm@Ubaí@nm@39320000@nm@M@nm@
+MG@nm@Ubaporanga@nm@35338000@nm@M@nm@
+MG@nm@Ubari@nm@36508000@nm@D@nm@
+MG@nm@Uberaba@nm@@nm@M@nm@
+MG@nm@Uberlândia@nm@@nm@M@nm@
+MG@nm@Umburatiba@nm@39878000@nm@M@nm@
+MG@nm@Umbuzeiro@nm@39439000@nm@D@nm@
+MG@nm@Unaí@nm@38610000@nm@M@nm@
+MG@nm@União de Minas@nm@38288000@nm@M@nm@
+MG@nm@Uruana de Minas@nm@38630000@nm@M@nm@
+MG@nm@Urucânia@nm@35380000@nm@M@nm@
+MG@nm@Urucuia@nm@39315000@nm@M@nm@
+MG@nm@Usina Monte Alegre@nm@37118000@nm@P@nm@
+MG@nm@Vai-Volta@nm@35142000@nm@D@nm@
+MG@nm@Valadares@nm@36101000@nm@P@nm@
+MG@nm@Valão@nm@39829000@nm@D@nm@
+MG@nm@Vale Verde de Minas@nm@35198500@nm@D@nm@
+MG@nm@Valo Fundo@nm@39213000@nm@D@nm@
+MG@nm@Vardiero@nm@36877000@nm@D@nm@
+MG@nm@Vargem Alegre@nm@35199000@nm@M@nm@
+MG@nm@Vargem Bonita@nm@37922000@nm@M@nm@
+MG@nm@Vargem Grande da Serra@nm@35735000@nm@D@nm@
+MG@nm@Vargem Grande do Rio Pardo@nm@39535000@nm@M@nm@
+MG@nm@Vargem Linda@nm@35998000@nm@D@nm@
+MG@nm@Varginha@nm@@nm@M@nm@
+MG@nm@Varjão de Minas@nm@38794000@nm@M@nm@
+MG@nm@Várzea da Palma@nm@39260000@nm@M@nm@
+MG@nm@Varzelândia@nm@39450000@nm@M@nm@
+MG@nm@Vau-Açu@nm@35435000@nm@D@nm@
+MG@nm@Vazante@nm@38780000@nm@M@nm@
+MG@nm@Vera Cruz de Minas@nm@33680000@nm@D@nm@
+MG@nm@Verdelândia@nm@39458000@nm@M@nm@
+MG@nm@Vereda do Paraíso@nm@39545000@nm@D@nm@
+MG@nm@Veredas@nm@38775000@nm@D@nm@
+MG@nm@Veredinha@nm@39663000@nm@M@nm@
+MG@nm@Veríssimo@nm@38150000@nm@M@nm@
+MG@nm@Vermelho@nm@36890000@nm@D@nm@
+MG@nm@Vermelho Novo@nm@35359000@nm@M@nm@
+MG@nm@Vermelho Velho@nm@35354000@nm@D@nm@
+MG@nm@Vespasiano@nm@33200000@nm@M@nm@
+MG@nm@Viçosa@nm@36570000@nm@M@nm@
+MG@nm@Vieiras@nm@36895000@nm@M@nm@
+MG@nm@Vila Acari@nm@39317800@nm@D@nm@
+MG@nm@Vila Bem-Querer@nm@39529800@nm@D@nm@
+MG@nm@Vila Bom Jesus@nm@38688000@nm@D@nm@
+MG@nm@Vila Bom Jesus de Minas@nm@39314800@nm@D@nm@
+MG@nm@Vila Costina@nm@35583000@nm@D@nm@
+MG@nm@Vila Nova de Minas@nm@39416000@nm@D@nm@
+MG@nm@Vila Nova dos Poções@nm@39444000@nm@D@nm@
+MG@nm@Vila Nova Floresta@nm@35107500@nm@D@nm@
+MG@nm@Vila Pereira@nm@39862000@nm@D@nm@
+MG@nm@Vilas Boas@nm@36526000@nm@D@nm@
+MG@nm@Vinte Alqueires@nm@36578000@nm@P@nm@
+MG@nm@Virgem da Lapa@nm@39630000@nm@M@nm@
+MG@nm@Virgínia@nm@37465000@nm@M@nm@
+MG@nm@Virginópolis@nm@39730000@nm@M@nm@
+MG@nm@Virgolândia@nm@39715000@nm@M@nm@
+MG@nm@Visconde do Rio Branco@nm@36520000@nm@M@nm@
+MG@nm@Vista Alegre@nm@36778000@nm@D@nm@
+MG@nm@Vista Alegre@nm@39385000@nm@D@nm@
+MG@nm@Vitorinos@nm@36264000@nm@D@nm@
+MG@nm@Volta Grande@nm@36720000@nm@M@nm@
+MG@nm@Wenceslau Braz@nm@37512000@nm@M@nm@
+MG@nm@Zelândia@nm@38176000@nm@D@nm@
+MG@nm@Zito Soares@nm@35383000@nm@D@nm@

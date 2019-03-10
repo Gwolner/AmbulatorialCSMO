@@ -1,0 +1,283 @@
+MT@nm@Acorizal@nm@78480000@nm@M@nm@
+MT@nm@Água Boa@nm@78635000@nm@M@nm@
+MT@nm@Água da Prata@nm@78358000@nm@D@nm@
+MT@nm@Água Fria@nm@78197000@nm@D@nm@
+MT@nm@Aguaçu@nm@78108000@nm@P@nm@
+MT@nm@Aguapeí@nm@78248000@nm@D@nm@
+MT@nm@Águas Claras@nm@78577000@nm@D@nm@
+MT@nm@Ainhumas@nm@78751000@nm@D@nm@
+MT@nm@Alcantilado@nm@78762000@nm@D@nm@
+MT@nm@Alta Floresta@nm@78580000@nm@M@nm@
+MT@nm@Alto Araguaia@nm@78780000@nm@M@nm@
+MT@nm@Alto Boa Vista@nm@78665000@nm@M@nm@
+MT@nm@Alto Coité@nm@78803000@nm@D@nm@
+MT@nm@Alto Garças@nm@78770000@nm@M@nm@
+MT@nm@Alto Juruena@nm@78318000@nm@D@nm@
+MT@nm@Alto Paraguai@nm@78410000@nm@M@nm@
+MT@nm@Alto Paraíso@nm@78584000@nm@D@nm@
+MT@nm@Alto Taquari@nm@78785000@nm@M@nm@
+MT@nm@Analândia do Norte@nm@78538000@nm@D@nm@
+MT@nm@Apiacás@nm@78595000@nm@M@nm@
+MT@nm@Araguaiana@nm@78685000@nm@M@nm@
+MT@nm@Araguainha@nm@78615000@nm@M@nm@
+MT@nm@Araputanga@nm@78260000@nm@M@nm@
+MT@nm@Arenápolis@nm@78420000@nm@M@nm@
+MT@nm@Aripuanã@nm@78325000@nm@M@nm@
+MT@nm@Arruda@nm@78473000@nm@D@nm@
+MT@nm@Assari@nm@78394000@nm@D@nm@
+MT@nm@Barão de Melgaço@nm@78190000@nm@M@nm@
+MT@nm@Barra do Bugres@nm@78390000@nm@M@nm@
+MT@nm@Barra do Garças@nm@78600000@nm@M@nm@
+MT@nm@Batovi@nm@78776000@nm@D@nm@
+MT@nm@Baús@nm@78481000@nm@D@nm@
+MT@nm@Bauxi@nm@78474000@nm@D@nm@
+MT@nm@Bel Rios@nm@78401000@nm@D@nm@
+MT@nm@Bezerro Branco@nm@78234000@nm@D@nm@
+MT@nm@Boa Esperança@nm@78896000@nm@D@nm@
+MT@nm@Boa União@nm@78277000@nm@D@nm@
+MT@nm@Boa Vista@nm@78752000@nm@D@nm@
+MT@nm@Bocaiuval@nm@78241000@nm@D@nm@
+MT@nm@Bom Jesus do Araguaia@nm@78678000@nm@M@nm@
+MT@nm@Bom Sucesso@nm@78166000@nm@D@nm@
+MT@nm@Brasnorte@nm@78350000@nm@M@nm@
+MT@nm@Brianorte@nm@78446000@nm@D@nm@
+MT@nm@Buriti@nm@78782000@nm@D@nm@
+MT@nm@Buriti@nm@78764000@nm@D@nm@
+MT@nm@Cáceres@nm@78200000@nm@M@nm@
+MT@nm@Caite@nm@78186000@nm@D@nm@
+MT@nm@Campinápolis@nm@78630000@nm@M@nm@
+MT@nm@Campo Novo do Parecis@nm@78360000@nm@M@nm@
+MT@nm@Campo Verde@nm@78840000@nm@M@nm@
+MT@nm@Campos de Júlio@nm@78307000@nm@M@nm@
+MT@nm@Campos Novos@nm@78411000@nm@D@nm@
+MT@nm@Canabrava do Norte@nm@78658000@nm@M@nm@
+MT@nm@Canarana@nm@78640000@nm@M@nm@
+MT@nm@Cangas@nm@78178000@nm@D@nm@
+MT@nm@Capão Grande@nm@78164000@nm@D@nm@
+MT@nm@Capão Verde@nm@78413000@nm@D@nm@
+MT@nm@Caramujo@nm@78236000@nm@D@nm@
+MT@nm@Caravagio@nm@78894000@nm@D@nm@
+MT@nm@Carlinda@nm@78587000@nm@M@nm@
+MT@nm@Cassununga@nm@78778000@nm@D@nm@
+MT@nm@Castanheira@nm@78345000@nm@M@nm@
+MT@nm@Catuai@nm@78437000@nm@D@nm@
+MT@nm@Chapada dos Guimarães@nm@78195000@nm@M@nm@
+MT@nm@Cidade Morena@nm@78326000@nm@D@nm@
+MT@nm@Cláudia@nm@78540000@nm@M@nm@
+MT@nm@Cocalinho@nm@78680000@nm@M@nm@
+MT@nm@Colíder@nm@78500000@nm@M@nm@
+MT@nm@Colniza@nm@78335000@nm@M@nm@
+MT@nm@Colorado do Norte@nm@78518000@nm@D@nm@
+MT@nm@Comodoro@nm@78310000@nm@M@nm@
+MT@nm@Comunidade Parque Boa Vista@nm@78165000@nm@P@nm@
+MT@nm@Confresa@nm@78652000@nm@M@nm@
+MT@nm@Conquista D'Oeste@nm@78254000@nm@M@nm@
+MT@nm@Coronel Ponce@nm@78843000@nm@D@nm@
+MT@nm@Cotrel@nm@78522000@nm@D@nm@
+MT@nm@Cotriguaçu@nm@78330000@nm@M@nm@
+MT@nm@Coxipó Açu@nm@78101000@nm@P@nm@
+MT@nm@Coxipó da Ponte@nm@@nm@D@nm@
+MT@nm@Coxipó do Ouro@nm@78102000@nm@D@nm@
+MT@nm@Cristinópolis@nm@78272000@nm@D@nm@
+MT@nm@Cristo Rei@nm@@nm@D@nm@
+MT@nm@Cuiabá@nm@@nm@M@nm@
+MT@nm@Curvelândia@nm@78237000@nm@M@nm@
+MT@nm@Del Rios@nm@78405000@nm@D@nm@
+MT@nm@Denise@nm@78380000@nm@M@nm@
+MT@nm@Diamantino@nm@78400000@nm@M@nm@
+MT@nm@Dom Aquino@nm@78830000@nm@M@nm@
+MT@nm@Engenho@nm@78483000@nm@D@nm@
+MT@nm@Engenho Velho@nm@78182000@nm@D@nm@
+MT@nm@Entre Rios@nm@78833000@nm@D@nm@
+MT@nm@Entre Rios@nm@78889500@nm@D@nm@
+MT@nm@Estrela do Leste@nm@78768000@nm@D@nm@
+MT@nm@Faval@nm@78171000@nm@D@nm@
+MT@nm@Fazenda de Cima@nm@78176000@nm@D@nm@
+MT@nm@Feliz Natal@nm@78885000@nm@M@nm@
+MT@nm@Figueirópolis D'Oeste@nm@78290000@nm@M@nm@
+MT@nm@Filadélfia@nm@78321000@nm@D@nm@
+MT@nm@Flor da Serra@nm@78524000@nm@D@nm@
+MT@nm@Fontanilhas@nm@78348000@nm@D@nm@
+MT@nm@Gaúcha do Norte@nm@78875000@nm@M@nm@
+MT@nm@General Carneiro@nm@78620000@nm@M@nm@
+MT@nm@Glória D'Oeste@nm@78293000@nm@M@nm@
+MT@nm@Groslândia@nm@78459000@nm@D@nm@
+MT@nm@Guarantã do Norte@nm@78520000@nm@M@nm@
+MT@nm@Guariba@nm@78336000@nm@D@nm@
+MT@nm@Guarita@nm@78169000@nm@P@nm@
+MT@nm@Guiratinga@nm@78760000@nm@M@nm@
+MT@nm@Horizonte do Oeste@nm@78235000@nm@D@nm@
+MT@nm@Indianápolis@nm@78603000@nm@D@nm@
+MT@nm@Indiavaí@nm@78295000@nm@M@nm@
+MT@nm@Ipiranga do Norte@nm@78578000@nm@M@nm@
+MT@nm@Irenópolis@nm@78813000@nm@D@nm@
+MT@nm@Itamarati Norte@nm@78361000@nm@D@nm@
+MT@nm@Itanhangá@nm@78579000@nm@M@nm@
+MT@nm@Itaúba@nm@78510000@nm@M@nm@
+MT@nm@Itiquira@nm@78790000@nm@M@nm@
+MT@nm@Jaciara@nm@78820000@nm@M@nm@
+MT@nm@Jangada@nm@78490000@nm@M@nm@
+MT@nm@Jarudore@nm@78806000@nm@D@nm@
+MT@nm@Jatobá@nm@78823000@nm@D@nm@
+MT@nm@Jauru@nm@78255000@nm@M@nm@
+MT@nm@Joselândia@nm@78192000@nm@D@nm@
+MT@nm@Juara@nm@78575000@nm@M@nm@
+MT@nm@Juína@nm@78320000@nm@M@nm@
+MT@nm@Juruena@nm@78340000@nm@M@nm@
+MT@nm@Juscimeira@nm@78810000@nm@M@nm@
+MT@nm@Lambari D'Oeste@nm@78278000@nm@M@nm@
+MT@nm@Lavouras@nm@78414000@nm@D@nm@
+MT@nm@Lucas do Rio Verde@nm@78455000@nm@M@nm@
+MT@nm@Lucialva@nm@78258000@nm@D@nm@
+MT@nm@Luciara@nm@78660000@nm@M@nm@
+MT@nm@Machado@nm@78103000@nm@P@nm@
+MT@nm@Marcelândia@nm@78535000@nm@M@nm@
+MT@nm@Marechal Rondon@nm@78364000@nm@D@nm@
+MT@nm@Marzagão@nm@78478000@nm@D@nm@
+MT@nm@Mata Dentro@nm@78107000@nm@P@nm@
+MT@nm@Matupá@nm@78525000@nm@M@nm@
+MT@nm@Mimoso@nm@78188000@nm@D@nm@
+MT@nm@Mirassol D'Oeste@nm@78280000@nm@M@nm@
+MT@nm@Monte Castelo do Oeste@nm@78294000@nm@D@nm@
+MT@nm@Nobres@nm@78460000@nm@M@nm@
+MT@nm@Nonoai do Norte@nm@78502000@nm@D@nm@
+MT@nm@Nortelândia@nm@78430000@nm@M@nm@
+MT@nm@Nossa Senhora da Guia@nm@78104000@nm@D@nm@
+MT@nm@Nossa Senhora do Livramento@nm@78170000@nm@M@nm@
+MT@nm@Nova Alvorada@nm@78314000@nm@D@nm@
+MT@nm@Nova Bandeirantes@nm@78565000@nm@M@nm@
+MT@nm@Nova Brasilândia@nm@78860000@nm@M@nm@
+MT@nm@Nova Brasília@nm@78691000@nm@D@nm@
+MT@nm@Nova Cáceres@nm@78233000@nm@D@nm@
+MT@nm@Nova Canaã do Norte@nm@78515000@nm@M@nm@
+MT@nm@Nova Catanduva@nm@78755000@nm@P@nm@
+MT@nm@Nova Esperança@nm@78181600@nm@D@nm@
+MT@nm@Nova Galileia@nm@78754000@nm@D@nm@
+MT@nm@Nova Guarita@nm@78508000@nm@M@nm@
+MT@nm@Nova Lacerda@nm@78243000@nm@M@nm@
+MT@nm@Nova Marilândia@nm@78415000@nm@M@nm@
+MT@nm@Nova Maringá@nm@78445000@nm@M@nm@
+MT@nm@Nova Monte Verde@nm@78593000@nm@M@nm@
+MT@nm@Nova Mutum@nm@78450000@nm@M@nm@
+MT@nm@Nova Nazaré@nm@78638000@nm@M@nm@
+MT@nm@Nova Olímpia@nm@78370000@nm@M@nm@
+MT@nm@Nova Primavera@nm@78659000@nm@D@nm@
+MT@nm@Nova Santa Helena@nm@78548000@nm@M@nm@
+MT@nm@Nova Ubiratã@nm@78888000@nm@M@nm@
+MT@nm@Nova Xavantina@nm@78690000@nm@M@nm@
+MT@nm@Novo Diamantino@nm@78402000@nm@D@nm@
+MT@nm@Novo Eldorado@nm@78574000@nm@D@nm@
+MT@nm@Novo Horizonte do Norte@nm@78570000@nm@M@nm@
+MT@nm@Novo Mato Grosso@nm@78889200@nm@D@nm@
+MT@nm@Novo Mundo@nm@78528000@nm@M@nm@
+MT@nm@Novo Paraná@nm@78562000@nm@D@nm@
+MT@nm@Novo Santo Antônio@nm@78674000@nm@M@nm@
+MT@nm@Novo São Joaquim@nm@78625000@nm@M@nm@
+MT@nm@Padronal@nm@78316000@nm@D@nm@
+MT@nm@Pai André@nm@78167000@nm@P@nm@
+MT@nm@Paraíso do Leste@nm@78808000@nm@D@nm@
+MT@nm@Paranaitá@nm@78590000@nm@M@nm@
+MT@nm@Paranatinga@nm@78870000@nm@M@nm@
+MT@nm@Parque Água Limpa@nm@78889400@nm@D@nm@
+MT@nm@Passagem da Conceição@nm@78168000@nm@D@nm@
+MT@nm@Pedra Preta@nm@78795000@nm@M@nm@
+MT@nm@Pedro Neca@nm@78242000@nm@D@nm@
+MT@nm@Peixoto de Azevedo@nm@78530000@nm@M@nm@
+MT@nm@Piratininga@nm@78889000@nm@D@nm@
+MT@nm@Pirizal@nm@78172000@nm@D@nm@
+MT@nm@Placa de Santo Antônio@nm@78811000@nm@D@nm@
+MT@nm@Planalto da Serra@nm@78855000@nm@M@nm@
+MT@nm@Poconé@nm@78175000@nm@M@nm@
+MT@nm@Pombas@nm@78834000@nm@D@nm@
+MT@nm@Pontal do Araguaia@nm@78698000@nm@M@nm@
+MT@nm@Ponte Branca@nm@78610000@nm@M@nm@
+MT@nm@Ponte de Pedra@nm@78759000@nm@P@nm@
+MT@nm@Pontes e Lacerda@nm@78250000@nm@M@nm@
+MT@nm@Pontinópolis@nm@78672000@nm@D@nm@
+MT@nm@Porto Alegre do Norte@nm@78655000@nm@M@nm@
+MT@nm@Porto dos Gaúchos@nm@78560000@nm@M@nm@
+MT@nm@Porto Esperidião@nm@78240000@nm@M@nm@
+MT@nm@Porto Estrela@nm@78398000@nm@M@nm@
+MT@nm@Poxoréu@nm@78800000@nm@M@nm@
+MT@nm@Praia Rica@nm@78198000@nm@D@nm@
+MT@nm@Primavera@nm@78898000@nm@D@nm@
+MT@nm@Primavera do Leste@nm@78850000@nm@M@nm@
+MT@nm@Progresso@nm@78305000@nm@D@nm@
+MT@nm@Querência@nm@78643000@nm@M@nm@
+MT@nm@Rancharia@nm@78868000@nm@D@nm@
+MT@nm@Reserva do Cabaçal@nm@78265000@nm@M@nm@
+MT@nm@Ribeirão Cascalheira@nm@78675000@nm@M@nm@
+MT@nm@Ribeirão dos Cocais@nm@78173000@nm@D@nm@
+MT@nm@Ribeirãozinho@nm@78613000@nm@M@nm@
+MT@nm@Rio Branco@nm@78275000@nm@M@nm@
+MT@nm@Rio Manso@nm@78863000@nm@D@nm@
+MT@nm@Riolândia@nm@78866000@nm@D@nm@
+MT@nm@Rondolândia@nm@78338000@nm@M@nm@
+MT@nm@Rondonópolis@nm@@nm@M@nm@
+MT@nm@Rosário Oeste@nm@78470000@nm@M@nm@
+MT@nm@Salto do Céu@nm@78270000@nm@M@nm@
+MT@nm@Sangradouro@nm@78623000@nm@D@nm@
+MT@nm@Santa Carmem@nm@78545000@nm@M@nm@
+MT@nm@Santa Clara do Monte Cristo@nm@78246000@nm@D@nm@
+MT@nm@Santa Cruz do Xingu@nm@78664000@nm@M@nm@
+MT@nm@Santa Elvira@nm@78816000@nm@D@nm@
+MT@nm@Santa Fé@nm@78288000@nm@D@nm@
+MT@nm@Santa Rita@nm@78463000@nm@D@nm@
+MT@nm@Santa Rita do Trivelato@nm@78453000@nm@M@nm@
+MT@nm@Santa Terezinha@nm@78650000@nm@M@nm@
+MT@nm@Santa Terezinha do Rio Ferro@nm@78889300@nm@D@nm@
+MT@nm@Santaninha@nm@78648000@nm@D@nm@
+MT@nm@Santo Afonso@nm@78425000@nm@M@nm@
+MT@nm@Santo Antônio do Leste@nm@78628000@nm@M@nm@
+MT@nm@Santo Antônio do Leverger@nm@78180000@nm@M@nm@
+MT@nm@Santo Antonio do Rio Bonito@nm@78889100@nm@D@nm@
+MT@nm@São Cristovão@nm@@nm@D@nm@
+MT@nm@São Félix do Araguaia@nm@78670000@nm@M@nm@
+MT@nm@São Joaquim@nm@78306000@nm@D@nm@
+MT@nm@São Jorge@nm@78311000@nm@D@nm@
+MT@nm@São José@nm@78313000@nm@D@nm@
+MT@nm@São José do Apuí@nm@78583000@nm@D@nm@
+MT@nm@São José do Pingador@nm@78279000@nm@D@nm@
+MT@nm@São José do Planalto@nm@78798000@nm@D@nm@
+MT@nm@São José do Povo@nm@78773000@nm@M@nm@
+MT@nm@São José do Rio Claro@nm@78435000@nm@M@nm@
+MT@nm@São José do Xingu@nm@78663000@nm@M@nm@
+MT@nm@São José dos Quatro Marcos@nm@78285000@nm@M@nm@
+MT@nm@São Lourenço de Fátima@nm@78818000@nm@D@nm@
+MT@nm@São Pedro da Cipa@nm@78835000@nm@M@nm@
+MT@nm@São Vicente@nm@78106000@nm@D@nm@
+MT@nm@Sapezal@nm@78365000@nm@M@nm@
+MT@nm@Selma@nm@78828000@nm@D@nm@
+MT@nm@Serra Nova Dourada@nm@78668000@nm@M@nm@
+MT@nm@Sinop@nm@@nm@M@nm@
+MT@nm@Sonho Azul@nm@78284000@nm@D@nm@
+MT@nm@Sorriso@nm@78890000@nm@M@nm@
+MT@nm@Sumidouro@nm@78404000@nm@D@nm@
+MT@nm@Tabaporã@nm@78563000@nm@M@nm@
+MT@nm@Tangará da Serra@nm@78300000@nm@M@nm@
+MT@nm@Tapirapua@nm@78396000@nm@D@nm@
+MT@nm@Tapurah@nm@78573000@nm@M@nm@
+MT@nm@Terra Nova do Norte@nm@78505000@nm@M@nm@
+MT@nm@Terra Roxa@nm@78322000@nm@D@nm@
+MT@nm@Tesouro@nm@78775000@nm@M@nm@
+MT@nm@Toricueyje@nm@78606000@nm@D@nm@
+MT@nm@Torixoréu@nm@78695000@nm@M@nm@
+MT@nm@Três Pontes@nm@78756000@nm@P@nm@
+MT@nm@União do Norte@nm@78533000@nm@D@nm@
+MT@nm@União do Sul@nm@78543000@nm@M@nm@
+MT@nm@Vale de São Domingos@nm@78253000@nm@M@nm@
+MT@nm@Vale dos Sonhos@nm@78608000@nm@D@nm@
+MT@nm@Vale Rico@nm@78766000@nm@D@nm@
+MT@nm@Varginha@nm@78184000@nm@D@nm@
+MT@nm@Várzea Grande@nm@@nm@M@nm@
+MT@nm@Vera@nm@78880000@nm@M@nm@
+MT@nm@Veranópolis@nm@78653000@nm@D@nm@
+MT@nm@Vila Atlântica@nm@78536000@nm@D@nm@
+MT@nm@Vila Bela da Santíssima Trindade@nm@78245000@nm@M@nm@
+MT@nm@Vila Bueno@nm@78757000@nm@D@nm@
+MT@nm@Vila Cardoso@nm@78242500@nm@D@nm@
+MT@nm@Vila Mutum@nm@78585000@nm@D@nm@
+MT@nm@Vila Operária@nm@78758000@nm@D@nm@
+MT@nm@Vila Paulista@nm@78753000@nm@P@nm@
+MT@nm@Vila Progresso@nm@78274000@nm@D@nm@
+MT@nm@Vila Rica@nm@78645000@nm@M@nm@

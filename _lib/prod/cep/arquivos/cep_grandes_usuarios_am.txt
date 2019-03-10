@@ -1,0 +1,46 @@
+Amazonas Shopping Center@nm@69050902@nm@AM@nm@@nm@Manaus@nm@Parque 10 de Novembro@nm@Avenida @nm@Djalma Batista@nm@@nm@
+Banco da Amazônia S/A@nm@69100903@nm@AM@nm@@nm@Itacoatiara@nm@Centro@nm@Rua @nm@Casseano Secundo@nm@@nm@
+Banco do Brasil@nm@69100901@nm@AM@nm@@nm@Itacoatiara@nm@Centro@nm@Avenida @nm@Parque@nm@@nm@
+Banco do Brasil@nm@69550900@nm@AM@nm@@nm@Tefé@nm@Centro@nm@Rua @nm@Olavo Bilac@nm@@nm@
+Banco do Brasil@nm@69400902@nm@AM@nm@@nm@Manacapuru@nm@Centro@nm@Avenida @nm@Ribeiro Júnior@nm@@nm@
+Biblioteca Central@nm@69020901@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Avenida @nm@Joaquim Nabuco@nm@@nm@
+Bradesco@nm@69550903@nm@AM@nm@@nm@Tefé@nm@Centro@nm@Rua @nm@Getúlio Vargas@nm@@nm@
+Bradesco@nm@69400903@nm@AM@nm@@nm@Manacapuru@nm@Centro@nm@Avenida @nm@Ribeiro Júnior@nm@@nm@
+Bradesco@nm@69100902@nm@AM@nm@@nm@Itacoatiara@nm@Centro@nm@Avenida @nm@Conselheiro Ruy Barbosa@nm@@nm@
+Caixa Econômica Federal@nm@69550901@nm@AM@nm@@nm@Tefé@nm@Centro@nm@Rua @nm@Olavo Bilac@nm@@nm@
+Caixa Econômica Federal@nm@69010903@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Avenida @nm@Ramos Ferreira@nm@@nm@
+Caixa Econômica Federal@nm@69100900@nm@AM@nm@@nm@Itacoatiara@nm@Centro@nm@Avenida @nm@Parque@nm@@nm@
+Caixa Econômica Federal@nm@69400904@nm@AM@nm@@nm@Manacapuru@nm@Centro@nm@Boulevard @nm@Pedro Rattes@nm@@nm@
+Câmara Municipal de Manacapuru@nm@69400901@nm@AM@nm@@nm@Manacapuru@nm@Centro@nm@Avenida @nm@Eduardo Ribeiro@nm@@nm@
+Campus Universitário@nm@69080900@nm@AM@nm@@nm@Manaus@nm@Coroado@nm@Avenida @nm@Rodrigo Otávio@nm@@nm@
+Casa do Óleo@nm@69068900@nm@AM@nm@@nm@Manaus@nm@Raiz@nm@Rua @nm@Delfim de Souza@nm@@nm@
+CCE da Amazônia S.A.@nm@69075901@nm@AM@nm@@nm@Manaus@nm@Distrito Industrial I@nm@Avenida @nm@Tambaqui@nm@@nm@
+COC - Manaus S/C Ltda@nm@69025900@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Travessa @nm@Comendador Clementino@nm@@nm@
+Colégio Militar de Manaus@nm@69010904@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Rua @nm@José Clemente@nm@@nm@
+Diretoria Regional da ECT/Amazonas@nm@69002900@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Rua @nm@Marechal Deodoro@nm@@nm@
+Edifício Antônio Simões@nm@69020900@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Avenida @nm@7 de Setembro@nm@@nm@
+Edifício Cidade de Manaus@nm@69010900@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Avenida @nm@Eduardo Ribeiro@nm@@nm@
+Edifício Lobrás@nm@69005900@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Avenida @nm@7 de Setembro@nm@@nm@
+Edifício Palácio do Comércio@nm@69010902@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Avenida @nm@Eduardo Ribeiro@nm@@nm@
+Edifício Shopping Center@nm@69010901@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Avenida @nm@Eduardo Ribeiro@nm@@nm@
+Evadin Indústrias Amazônia S.A.@nm@69075903@nm@AM@nm@@nm@Manaus@nm@Distrito Industrial I@nm@Avenida @nm@Buriti@nm@@nm@
+Fórum Doutor Giovanni Figliuolo@nm@69400906@nm@AM@nm@@nm@Manacapuru@nm@Aparecida@nm@Rua @nm@Almirante Tamandaré@nm@@nm@
+Fórum Doutor José Rebelo de Mendonça@nm@69101900@nm@AM@nm@s/n@nm@Itacoatiara@nm@Pedreiras@nm@Avenida @nm@Parque@nm@@nm@
+Fundação Getúlio Vargas@nm@69050901@nm@AM@nm@@nm@Manaus@nm@Chapada@nm@Avenida @nm@Djalma Batista@nm@@nm@
+GABINETE DO DIR REGIONAL/GAPRE@nm@69053900@nm@AM@nm@@nm@Manaus@nm@São Geraldo@nm@Rua @nm@Pará@nm@@nm@
+Gerencia do Centro de Tratamento de Cartas e Encomendas - GCTCE/AM@nm@69048900@nm@AM@nm@@nm@Manaus@nm@Alvorada@nm@Avenida @nm@Senador Raimundo Parente@nm@@nm@
+Gerência do Centro de Tratamento de Cartas e Encomendas - GCTCE/AM@nm@69080901@nm@AM@nm@@nm@Manaus@nm@Coroado@nm@Avenida @nm@Rodrigo Otávio@nm@@nm@
+Gillete da Amazônia@nm@69075900@nm@AM@nm@@nm@Manaus@nm@Distrito Industrial I@nm@Avenida @nm@Solimões@nm@@nm@
+Gradiente Industrial S.A.@nm@69075904@nm@AM@nm@@nm@Manaus@nm@Distrito Industrial I@nm@Avenida @nm@Açaí@nm@@nm@
+Instituto Nacional do Seguro Social - INSS@nm@69104900@nm@AM@nm@@nm@Itacoatiara@nm@Jauari I@nm@Rua @nm@Antônio Serudo Martins@nm@@nm@
+Instituto Nacional do Seguro Social - INSS@nm@69400900@nm@AM@nm@@nm@Manacapuru@nm@Centro@nm@Avenida @nm@Eduardo Ribeiro@nm@@nm@
+Jornal Diário do Amazonas@nm@69050900@nm@AM@nm@@nm@Manaus@nm@Parque 10 de Novembro@nm@Avenida @nm@Djalma Batista@nm@@nm@
+Lojas Bemol@nm@69005901@nm@AM@nm@@nm@Manaus@nm@Centro@nm@Rua @nm@Miranda Leão@nm@@nm@
+Prefeitura Municipal de Manacapuru@nm@69400905@nm@AM@nm@@nm@Manacapuru@nm@Centro@nm@Praça @nm@16 de Julho@nm@@nm@
+Prefeitura Municipal de Tefé@nm@69550902@nm@AM@nm@@nm@Tefé@nm@Centro@nm@Rua @nm@Olavo Bilac@nm@@nm@
+RBN - Rede Boas Novas@nm@69029900@nm@AM@nm@@nm@Manaus@nm@Santo Antônio@nm@Rua @nm@Oswaldo Góes@nm@@nm@
+REVEN 01 Manaus@nm@69053901@nm@AM@nm@@nm@Manaus@nm@São Geraldo@nm@Rua @nm@Pará@nm@@nm@
+REVEN 02 Interior@nm@69053902@nm@AM@nm@@nm@Manaus@nm@São Geraldo@nm@Rua @nm@Pará@nm@@nm@
+REVEN AM-01 Manaus@nm@69079900@nm@AM@nm@@nm@Manaus@nm@São Francisco@nm@Avenida @nm@André Araújo@nm@@nm@
+REVEN AM-02 Interior@nm@69079901@nm@AM@nm@@nm@Manaus@nm@São Francisco@nm@Avenida @nm@André Araújo@nm@@nm@
+SUP SUPORTE TECN MANUTEN/SERT@nm@69079902@nm@AM@nm@@nm@Manaus@nm@São Francisco@nm@Avenida @nm@André Araújo@nm@@nm@

@@ -1,0 +1,7 @@
+control_ficha_de_acompanhamento_mob.php
+sistema_csmo_gwolner
+control_ficha_de_acompanhamento_mob
+NAO
+contr
+control_ficha_de_acompanhamento
+LigMd5

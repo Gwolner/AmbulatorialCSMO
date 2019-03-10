@@ -1,0 +1,465 @@
+PE@nm@Abreu e Lima@nm@@nm@M@nm@
+PE@nm@Afogados da Ingazeira@nm@56800000@nm@M@nm@
+PE@nm@Afrânio@nm@56360000@nm@M@nm@
+PE@nm@Agrestina@nm@55495000@nm@M@nm@
+PE@nm@Água Fria@nm@55168000@nm@D@nm@
+PE@nm@Água Preta@nm@55550000@nm@M@nm@
+PE@nm@Águas Belas@nm@55340000@nm@M@nm@
+PE@nm@Airi@nm@56410000@nm@D@nm@
+PE@nm@Alagoinha@nm@55260000@nm@M@nm@
+PE@nm@Albuquerque Né@nm@56610000@nm@D@nm@
+PE@nm@Algodões@nm@56625000@nm@D@nm@
+PE@nm@Aliança@nm@55890000@nm@M@nm@
+PE@nm@Altinho@nm@55490000@nm@M@nm@
+PE@nm@Alverne@nm@55265500@nm@P@nm@
+PE@nm@Amaraji@nm@55515000@nm@M@nm@
+PE@nm@Ameixas@nm@55658000@nm@D@nm@
+PE@nm@Angelim@nm@55430000@nm@M@nm@
+PE@nm@Apoti@nm@55625000@nm@D@nm@
+PE@nm@Araçoiaba@nm@53690000@nm@M@nm@
+PE@nm@Araripina@nm@56280000@nm@M@nm@
+PE@nm@Arcoverde@nm@@nm@M@nm@
+PE@nm@Areias@nm@55664500@nm@P@nm@
+PE@nm@Aripibu@nm@55524000@nm@D@nm@
+PE@nm@Arizona@nm@56365000@nm@D@nm@
+PE@nm@Atapus@nm@55903000@nm@P@nm@
+PE@nm@Barra de Farias@nm@55172000@nm@D@nm@
+PE@nm@Barra de Guabiraba@nm@55690000@nm@M@nm@
+PE@nm@Barra de São Pedro@nm@56205000@nm@D@nm@
+PE@nm@Barra do Brejo@nm@55332000@nm@D@nm@
+PE@nm@Barra do Chata@nm@55498000@nm@D@nm@
+PE@nm@Barra do Jardim@nm@55496000@nm@D@nm@
+PE@nm@Barra do Riachão@nm@55672000@nm@D@nm@
+PE@nm@Barra do Sirinhaém@nm@55585000@nm@D@nm@
+PE@nm@Barreiros@nm@55560000@nm@M@nm@
+PE@nm@Batateira@nm@55445000@nm@D@nm@
+PE@nm@Belém de Maria@nm@55440000@nm@M@nm@
+PE@nm@Belém do São Francisco@nm@56440000@nm@M@nm@
+PE@nm@Belo Jardim@nm@@nm@M@nm@
+PE@nm@Bengalas@nm@55652000@nm@D@nm@
+PE@nm@Bentivi@nm@55685000@nm@D@nm@
+PE@nm@Bernardo Vieira@nm@56922000@nm@D@nm@
+PE@nm@Betânia@nm@56670000@nm@M@nm@
+PE@nm@Bezerros@nm@55660000@nm@M@nm@
+PE@nm@Bizarra@nm@55735000@nm@D@nm@
+PE@nm@Boas Novas@nm@55662000@nm@D@nm@
+PE@nm@Bodocó@nm@56220000@nm@M@nm@
+PE@nm@Bom Conselho@nm@55330000@nm@M@nm@
+PE@nm@Bom Jardim@nm@55730000@nm@M@nm@
+PE@nm@Bom Nome@nm@56970000@nm@D@nm@
+PE@nm@Bonfim@nm@56710000@nm@D@nm@
+PE@nm@Bonito@nm@55680000@nm@M@nm@
+PE@nm@Brejão@nm@55325000@nm@M@nm@
+PE@nm@Brejinho@nm@56740000@nm@M@nm@
+PE@nm@Brejo da Madre de Deus@nm@55170000@nm@M@nm@
+PE@nm@Buenos Aires@nm@55845000@nm@M@nm@
+PE@nm@Buíque@nm@56520000@nm@M@nm@
+PE@nm@Cabanas@nm@55383000@nm@D@nm@
+PE@nm@Cabo de Santo Agostinho@nm@@nm@M@nm@
+PE@nm@Cabrobó@nm@56180000@nm@M@nm@
+PE@nm@Cachoeira do Pinto@nm@55338500@nm@P@nm@
+PE@nm@Cachoeira do Roberto@nm@56370000@nm@D@nm@
+PE@nm@Cachoeira Seca@nm@55111000@nm@P@nm@
+PE@nm@Cachoeirinha@nm@55380000@nm@M@nm@
+PE@nm@Caetés@nm@55360000@nm@M@nm@
+PE@nm@Caiçarinha da Penha@nm@56916000@nm@D@nm@
+PE@nm@Cajazeiras@nm@55664000@nm@P@nm@
+PE@nm@Calçado@nm@55375000@nm@M@nm@
+PE@nm@Caldeirão@nm@55173000@nm@P@nm@
+PE@nm@Caldeirões@nm@55338000@nm@D@nm@
+PE@nm@Calumbi@nm@56930000@nm@M@nm@
+PE@nm@Camaragibe@nm@@nm@M@nm@
+PE@nm@Camela@nm@55595000@nm@D@nm@
+PE@nm@Camocim de São Félix@nm@55665000@nm@M@nm@
+PE@nm@Campo Alegre@nm@55323000@nm@P@nm@
+PE@nm@Camutanga@nm@55930000@nm@M@nm@
+PE@nm@Canaã@nm@56880000@nm@D@nm@
+PE@nm@Canhotinho@nm@55420000@nm@M@nm@
+PE@nm@Capoeiras@nm@55365000@nm@M@nm@
+PE@nm@Caraíba@nm@56393000@nm@D@nm@
+PE@nm@Caraíbas@nm@56519500@nm@P@nm@
+PE@nm@Caraibeiras@nm@56485000@nm@D@nm@
+PE@nm@Caramuru@nm@55819810@nm@P@nm@
+PE@nm@Caramuru@nm@55767000@nm@P@nm@
+PE@nm@Carapotos@nm@55110000@nm@D@nm@
+PE@nm@Caraúba Torta@nm@55819820@nm@P@nm@
+PE@nm@Carice@nm@55928000@nm@D@nm@
+PE@nm@Carima@nm@55564000@nm@D@nm@
+PE@nm@Caririmirim@nm@56155000@nm@D@nm@
+PE@nm@Carnaíba@nm@56820000@nm@M@nm@
+PE@nm@Carnaubeira da Penha@nm@56420000@nm@M@nm@
+PE@nm@Carne-de-Vaca@nm@55909000@nm@P@nm@
+PE@nm@Carneiro@nm@56533000@nm@D@nm@
+PE@nm@Caroalina@nm@56616000@nm@P@nm@
+PE@nm@Carpina@nm@@nm@M@nm@
+PE@nm@Carqueja@nm@56415000@nm@D@nm@
+PE@nm@Caruaru@nm@@nm@M@nm@
+PE@nm@Casinhas@nm@55755000@nm@M@nm@
+PE@nm@Catende@nm@55400000@nm@M@nm@
+PE@nm@Catimbaú@nm@56537000@nm@D@nm@
+PE@nm@Catolé@nm@55759000@nm@D@nm@
+PE@nm@Cavaleiro@nm@@nm@D@nm@
+PE@nm@Cavalo Ruço de Deus@nm@55171000@nm@P@nm@
+PE@nm@Cedro@nm@56130000@nm@M@nm@
+PE@nm@Chã de Alegria@nm@55835000@nm@M@nm@
+PE@nm@Chã de Cruz@nm@53590000@nm@P@nm@
+PE@nm@Chã do Rocha@nm@55748000@nm@D@nm@
+PE@nm@Chã Grande@nm@55636000@nm@M@nm@
+PE@nm@Cimbres@nm@55205000@nm@D@nm@
+PE@nm@Clarana@nm@56227000@nm@D@nm@
+PE@nm@Cocau@nm@56223000@nm@D@nm@
+PE@nm@Cocau@nm@55575000@nm@D@nm@
+PE@nm@Conceição das Crioulas@nm@56115000@nm@D@nm@
+PE@nm@Condado@nm@55940000@nm@M@nm@
+PE@nm@Correntes@nm@55315000@nm@M@nm@
+PE@nm@Cortês@nm@55525000@nm@M@nm@
+PE@nm@Couro D'Antas@nm@55121000@nm@D@nm@
+PE@nm@Cristália@nm@56340000@nm@D@nm@
+PE@nm@Cruanji@nm@55875000@nm@D@nm@
+PE@nm@Cruzeiro do Nordeste@nm@56626000@nm@P@nm@
+PE@nm@Cruzes@nm@55473000@nm@D@nm@
+PE@nm@Cuiambuca@nm@55533000@nm@D@nm@
+PE@nm@Cuieiras@nm@53665000@nm@P@nm@
+PE@nm@Cumaru@nm@55655000@nm@M@nm@
+PE@nm@Cupira@nm@55460000@nm@M@nm@
+PE@nm@Curral Queimado@nm@56335000@nm@D@nm@
+PE@nm@Custódia@nm@56640000@nm@M@nm@
+PE@nm@Dois Leões@nm@55633000@nm@D@nm@
+PE@nm@Dormentes@nm@56355000@nm@M@nm@
+PE@nm@Entroncamento@nm@55453000@nm@D@nm@
+PE@nm@Escada@nm@55500000@nm@M@nm@
+PE@nm@Espírito Santo@nm@55374000@nm@D@nm@
+PE@nm@Exu@nm@56230000@nm@M@nm@
+PE@nm@Fazenda Nova@nm@55175000@nm@D@nm@
+PE@nm@Feira Nova@nm@55715000@nm@M@nm@
+PE@nm@Feitoria@nm@56228000@nm@D@nm@
+PE@nm@Fernando de Noronha@nm@53990000@nm@M@nm@
+PE@nm@Ferreiros@nm@55880000@nm@M@nm@
+PE@nm@Flores@nm@56850000@nm@M@nm@
+PE@nm@Floresta@nm@56400000@nm@M@nm@
+PE@nm@Frei Miguelinho@nm@55780000@nm@M@nm@
+PE@nm@Frexeiras@nm@55505000@nm@D@nm@
+PE@nm@Gambá@nm@55901000@nm@P@nm@
+PE@nm@Gameleira@nm@55530000@nm@M@nm@
+PE@nm@Garanhuns@nm@@nm@M@nm@
+PE@nm@Glória do Goitá@nm@55620000@nm@M@nm@
+PE@nm@Goiana@nm@55900000@nm@M@nm@
+PE@nm@Gonçalves Ferreira@nm@55105000@nm@D@nm@
+PE@nm@Granito@nm@56160000@nm@M@nm@
+PE@nm@Gravatá@nm@@nm@M@nm@
+PE@nm@Gravatá do Ibiapina@nm@55795000@nm@D@nm@
+PE@nm@Grossos@nm@56125000@nm@P@nm@
+PE@nm@Grotão@nm@55275000@nm@D@nm@
+PE@nm@Guanumbi@nm@56535000@nm@D@nm@
+PE@nm@Henrique Dias@nm@56620000@nm@D@nm@
+PE@nm@Iateca@nm@55353000@nm@D@nm@
+PE@nm@Iati@nm@55345000@nm@M@nm@
+PE@nm@Ibimirim@nm@56580000@nm@M@nm@
+PE@nm@Ibirajuba@nm@55390000@nm@M@nm@
+PE@nm@Ibiranga@nm@55929000@nm@D@nm@
+PE@nm@Ibiratinga@nm@55588000@nm@D@nm@
+PE@nm@Ibitiranga@nm@56825000@nm@D@nm@
+PE@nm@Ibó@nm@56450000@nm@D@nm@
+PE@nm@Icaiçara@nm@56165000@nm@D@nm@
+PE@nm@Igapó@nm@55322000@nm@D@nm@
+PE@nm@Igarapeassu@nm@55455000@nm@D@nm@
+PE@nm@Igarapeba@nm@55412000@nm@D@nm@
+PE@nm@Igarassu@nm@@nm@M@nm@
+PE@nm@Igreja Nova@nm@55337000@nm@P@nm@
+PE@nm@Iguaraci@nm@56840000@nm@M@nm@
+PE@nm@Ilha de Itamaracá@nm@53900000@nm@M@nm@
+PE@nm@Inajá@nm@56560000@nm@M@nm@
+PE@nm@Ingazeira@nm@56830000@nm@M@nm@
+PE@nm@Ipanema@nm@55211000@nm@P@nm@
+PE@nm@Ipojuca@nm@55590000@nm@M@nm@
+PE@nm@Ipubi@nm@56260000@nm@M@nm@
+PE@nm@Ipuera@nm@56145000@nm@D@nm@
+PE@nm@Iraguaçu@nm@56890000@nm@D@nm@
+PE@nm@Irajaí@nm@56845000@nm@D@nm@
+PE@nm@Iratama@nm@55304000@nm@D@nm@
+PE@nm@Itacuruba@nm@56430000@nm@M@nm@
+PE@nm@Itaíba@nm@56550000@nm@M@nm@
+PE@nm@Itambé@nm@55920000@nm@M@nm@
+PE@nm@Itapetim@nm@56720000@nm@M@nm@
+PE@nm@Itapissuma@nm@53700000@nm@M@nm@
+PE@nm@Itaquitinga@nm@55950000@nm@M@nm@
+PE@nm@Itaúna@nm@55111200@nm@P@nm@
+PE@nm@Ituguaçu@nm@55493000@nm@D@nm@
+PE@nm@Iuiteporã@nm@55682000@nm@D@nm@
+PE@nm@Izacolandia@nm@56343000@nm@P@nm@
+PE@nm@Jabitaca@nm@56848000@nm@D@nm@
+PE@nm@Jaboatão@nm@@nm@D@nm@
+PE@nm@Jaboatão dos Guararapes@nm@@nm@M@nm@
+PE@nm@Jacaré Grande@nm@55111400@nm@P@nm@
+PE@nm@Jacarezinho@nm@55106000@nm@P@nm@
+PE@nm@Japecanga@nm@55287000@nm@D@nm@
+PE@nm@Jaqueira@nm@55409000@nm@M@nm@
+PE@nm@Jataúba@nm@55180000@nm@M@nm@
+PE@nm@Jatiúca@nm@56885000@nm@D@nm@
+PE@nm@Jatobá@nm@56470000@nm@M@nm@
+PE@nm@Jenipapo@nm@55258000@nm@D@nm@
+PE@nm@Jirau@nm@56557000@nm@P@nm@
+PE@nm@João Alfredo@nm@55720000@nm@M@nm@
+PE@nm@Joaquim Nabuco@nm@55535000@nm@M@nm@
+PE@nm@José da Costa@nm@55534000@nm@D@nm@
+PE@nm@José Mariano@nm@55522000@nm@D@nm@
+PE@nm@Juá@nm@55111600@nm@P@nm@
+PE@nm@Juca Ferrado@nm@55753500@nm@P@nm@
+PE@nm@Juçaral@nm@54570000@nm@D@nm@
+PE@nm@Jucati@nm@55398000@nm@M@nm@
+PE@nm@Junco@nm@55757500@nm@P@nm@
+PE@nm@Jupi@nm@55395000@nm@M@nm@
+PE@nm@Jurema@nm@55480000@nm@M@nm@
+PE@nm@Jutaí@nm@56390000@nm@D@nm@
+PE@nm@Km 25@nm@56337400@nm@P@nm@
+PE@nm@Lagoa@nm@56350000@nm@D@nm@
+PE@nm@Lagoa da Pedra@nm@55756000@nm@P@nm@
+PE@nm@Lagoa da Vaca@nm@55753000@nm@P@nm@
+PE@nm@Lagoa de São José@nm@55336000@nm@D@nm@
+PE@nm@Lagoa do Barro@nm@56284000@nm@D@nm@
+PE@nm@Lagoa do Carro@nm@55820000@nm@M@nm@
+PE@nm@Lagoa do Itaenga@nm@55840000@nm@M@nm@
+PE@nm@Lagoa do Ouro@nm@55320000@nm@M@nm@
+PE@nm@Lagoa do Souza@nm@55458000@nm@D@nm@
+PE@nm@Lagoa dos Gatos@nm@55450000@nm@M@nm@
+PE@nm@Lagoa Grande@nm@56395000@nm@M@nm@
+PE@nm@Laje@nm@55111800@nm@P@nm@
+PE@nm@Laje de São José@nm@55465000@nm@D@nm@
+PE@nm@Laje Grande@nm@55402000@nm@D@nm@
+PE@nm@Lajedo@nm@55385000@nm@M@nm@
+PE@nm@Lajedo do Cedro@nm@55108000@nm@D@nm@
+PE@nm@Lério de Cima@nm@55752000@nm@P@nm@
+PE@nm@Limoeiro@nm@55700000@nm@M@nm@
+PE@nm@Livramento@nm@55776000@nm@P@nm@
+PE@nm@Livramento do Tiúma@nm@55878000@nm@D@nm@
+PE@nm@Logradouro dos Leões@nm@55335000@nm@P@nm@
+PE@nm@Logradouros@nm@56924000@nm@D@nm@
+PE@nm@Luanda@nm@56918000@nm@D@nm@
+PE@nm@Macaparana@nm@55865000@nm@M@nm@
+PE@nm@Machados@nm@55740000@nm@M@nm@
+PE@nm@Macujé@nm@55898000@nm@D@nm@
+PE@nm@Malhada Barreiras Queimadas@nm@55112000@nm@P@nm@
+PE@nm@Malhada de Pedra@nm@55106500@nm@P@nm@
+PE@nm@Manari@nm@56565000@nm@M@nm@
+PE@nm@Mandacaia@nm@55174000@nm@D@nm@
+PE@nm@Mandacaru@nm@55646000@nm@D@nm@
+PE@nm@Maniçoba@nm@55135000@nm@D@nm@
+PE@nm@Maraial@nm@55405000@nm@M@nm@
+PE@nm@Maravilha@nm@56650000@nm@D@nm@
+PE@nm@Massangano@nm@56353700@nm@P@nm@
+PE@nm@Matinada@nm@55747000@nm@P@nm@
+PE@nm@Mimoso@nm@55225000@nm@D@nm@
+PE@nm@Mimoso@nm@55751000@nm@P@nm@
+PE@nm@Miracica@nm@55303000@nm@D@nm@
+PE@nm@Mirandiba@nm@56980000@nm@M@nm@
+PE@nm@Moderna@nm@56627000@nm@P@nm@
+PE@nm@Monte Alegre@nm@55673000@nm@P@nm@
+PE@nm@Morais@nm@56287000@nm@D@nm@
+PE@nm@Moreilândia@nm@56150000@nm@M@nm@
+PE@nm@Moreno@nm@54800000@nm@M@nm@
+PE@nm@Moxotó@nm@56585000@nm@D@nm@
+PE@nm@Mulungu@nm@55255000@nm@D@nm@
+PE@nm@Murici@nm@55102000@nm@P@nm@
+PE@nm@Murupé@nm@55855000@nm@D@nm@
+PE@nm@Mutuca@nm@55210000@nm@D@nm@
+PE@nm@Nascente@nm@56285000@nm@D@nm@
+PE@nm@Navarro@nm@@nm@D@nm@
+PE@nm@Nazaré da Mata@nm@55800000@nm@M@nm@
+PE@nm@Negras@nm@56555000@nm@D@nm@
+PE@nm@Neves@nm@55399000@nm@P@nm@
+PE@nm@Nossa Senhora Aparecida@nm@55161000@nm@P@nm@
+PE@nm@Nossa Senhora da Luz@nm@54749000@nm@D@nm@
+PE@nm@Nossa Senhora do Carmo@nm@55634000@nm@D@nm@
+PE@nm@Nossa Senhora do Ó@nm@55592000@nm@D@nm@
+PE@nm@Nova Cruz@nm@53660000@nm@D@nm@
+PE@nm@Nova Descoberta@nm@56546000@nm@P@nm@
+PE@nm@Ns2 Núcleo de Serviços@nm@55346500@nm@P@nm@
+PE@nm@Olho D'Água de Dentro@nm@55423000@nm@D@nm@
+PE@nm@Olinda@nm@@nm@M@nm@
+PE@nm@Oratório@nm@55758000@nm@D@nm@
+PE@nm@Ori@nm@56148000@nm@D@nm@
+PE@nm@Orobó@nm@55745000@nm@M@nm@
+PE@nm@Orocó@nm@56170000@nm@M@nm@
+PE@nm@Ouricuri@nm@56200000@nm@M@nm@
+PE@nm@Pajeú@nm@56920000@nm@D@nm@
+PE@nm@Palmares@nm@55540000@nm@M@nm@
+PE@nm@Palmatória@nm@55112600@nm@P@nm@
+PE@nm@Palmeirina@nm@55310000@nm@M@nm@
+PE@nm@Panelas@nm@55470000@nm@M@nm@
+PE@nm@Pão de Açúcar@nm@55798000@nm@D@nm@
+PE@nm@Pão de Açúcar do Poção@nm@55245000@nm@D@nm@
+PE@nm@Papagaio@nm@55215000@nm@D@nm@
+PE@nm@Paquevira@nm@55425000@nm@D@nm@
+PE@nm@Pará@nm@55199000@nm@D@nm@
+PE@nm@Paranatama@nm@55355000@nm@M@nm@
+PE@nm@Paratibe@nm@@nm@D@nm@
+PE@nm@Parnamirim@nm@56163000@nm@M@nm@
+PE@nm@Passagem do Tó@nm@55185000@nm@D@nm@
+PE@nm@Passira@nm@55650000@nm@M@nm@
+PE@nm@Patos@nm@55112400@nm@P@nm@
+PE@nm@Pau Amarelo@nm@55316000@nm@P@nm@
+PE@nm@Pau Ferro@nm@55418000@nm@D@nm@
+PE@nm@Pau Ferro@nm@56060000@nm@P@nm@
+PE@nm@Paudalho@nm@55825000@nm@M@nm@
+PE@nm@Paulista@nm@@nm@M@nm@
+PE@nm@Pau-Santo@nm@55100000@nm@P@nm@
+PE@nm@Pé-de-Serra dos Mendes@nm@55497000@nm@P@nm@
+PE@nm@Pedra@nm@55280000@nm@M@nm@
+PE@nm@Pedrinhas@nm@56347000@nm@P@nm@
+PE@nm@Pelada@nm@55101000@nm@P@nm@
+PE@nm@Pernambuquinho@nm@56612000@nm@P@nm@
+PE@nm@Perpétuo Socorro@nm@55265000@nm@D@nm@
+PE@nm@Pesqueira@nm@55200000@nm@M@nm@
+PE@nm@Petrolândia@nm@56460000@nm@M@nm@
+PE@nm@Petrolina@nm@@nm@M@nm@
+PE@nm@Pirituba@nm@55618000@nm@D@nm@
+PE@nm@Poção@nm@55240000@nm@M@nm@
+PE@nm@Poção de Afrânio@nm@56375000@nm@D@nm@
+PE@nm@Poço Comprido@nm@55317000@nm@D@nm@
+PE@nm@Poço Fundo@nm@55198000@nm@D@nm@
+PE@nm@Pombos@nm@55630000@nm@M@nm@
+PE@nm@Pontas de Pedra@nm@55908000@nm@D@nm@
+PE@nm@Praia da Conceição@nm@@nm@D@nm@
+PE@nm@Primavera@nm@55510000@nm@M@nm@
+PE@nm@Quipapá@nm@55415000@nm@M@nm@
+PE@nm@Quitimbu@nm@56660000@nm@D@nm@
+PE@nm@Quixabá@nm@56828000@nm@M@nm@
+PE@nm@Rafael@nm@55112200@nm@P@nm@
+PE@nm@Rainha Isabel@nm@55334000@nm@D@nm@
+PE@nm@Raiz@nm@55162000@nm@P@nm@
+PE@nm@Rajada@nm@56345000@nm@D@nm@
+PE@nm@Rancharia@nm@56282000@nm@D@nm@
+PE@nm@Rangel@nm@55123000@nm@P@nm@
+PE@nm@Recife@nm@@nm@M@nm@
+PE@nm@Riacho das Almas@nm@55120000@nm@M@nm@
+PE@nm@Riacho do Meio@nm@56519550@nm@P@nm@
+PE@nm@Riacho do Meio@nm@56705000@nm@D@nm@
+PE@nm@Riacho Fechado@nm@55145000@nm@D@nm@
+PE@nm@Riacho Pequeno@nm@56445000@nm@D@nm@
+PE@nm@Ribeirão@nm@55520000@nm@M@nm@
+PE@nm@Rio da Barra@nm@56615000@nm@D@nm@
+PE@nm@Rio Formoso@nm@55570000@nm@M@nm@
+PE@nm@Sairé@nm@55695000@nm@M@nm@
+PE@nm@Salgadinho@nm@55675000@nm@M@nm@
+PE@nm@Salgueiro@nm@56000000@nm@M@nm@
+PE@nm@Saloá@nm@55350000@nm@M@nm@
+PE@nm@Salobro@nm@55220000@nm@D@nm@
+PE@nm@Sanharó@nm@55250000@nm@M@nm@
+PE@nm@Santa Cruz@nm@56215000@nm@M@nm@
+PE@nm@Santa Cruz da Baixa Verde@nm@56895000@nm@M@nm@
+PE@nm@Santa Cruz do Capibaribe@nm@@nm@M@nm@
+PE@nm@Santa Filomena@nm@56210000@nm@M@nm@
+PE@nm@Santa Luzia@nm@55169000@nm@P@nm@
+PE@nm@Santa Maria da Boa Vista@nm@56380000@nm@M@nm@
+PE@nm@Santa Maria do Cambucá@nm@55765000@nm@M@nm@
+PE@nm@Santa Rita@nm@56203000@nm@P@nm@
+PE@nm@Santa Rita@nm@56921000@nm@D@nm@
+PE@nm@Santa Rita@nm@56770000@nm@D@nm@
+PE@nm@Santa Rosa@nm@55347000@nm@P@nm@
+PE@nm@Santa Rosa@nm@56146000@nm@P@nm@
+PE@nm@Santa Terezinha@nm@56750000@nm@M@nm@
+PE@nm@Santa Terezinha@nm@55552000@nm@D@nm@
+PE@nm@Santana de São Joaquim@nm@55674000@nm@D@nm@
+PE@nm@Santo Agostinho@nm@54590000@nm@D@nm@
+PE@nm@Santo Amaro@nm@55586000@nm@P@nm@
+PE@nm@Santo Antônio das Queimadas@nm@55485000@nm@D@nm@
+PE@nm@Santo Antônio dos Palmares@nm@55548000@nm@D@nm@
+PE@nm@São Benedito do Sul@nm@55410000@nm@M@nm@
+PE@nm@São Bento do Una@nm@55370000@nm@M@nm@
+PE@nm@São Caetano do Navio@nm@56680000@nm@D@nm@
+PE@nm@São Caitano@nm@55130000@nm@M@nm@
+PE@nm@São Domingos@nm@55178000@nm@D@nm@
+PE@nm@São Francisco do Brígida@nm@56149000@nm@P@nm@
+PE@nm@São João@nm@55435000@nm@M@nm@
+PE@nm@São João do Ferraz@nm@55774000@nm@P@nm@
+PE@nm@São Joaquim do Monte@nm@55670000@nm@M@nm@
+PE@nm@São José@nm@55475000@nm@D@nm@
+PE@nm@São José da Coroa Grande@nm@55565000@nm@M@nm@
+PE@nm@São José do Belmonte@nm@56950000@nm@M@nm@
+PE@nm@São José do Egito@nm@56700000@nm@M@nm@
+PE@nm@São Lázaro@nm@55478000@nm@D@nm@
+PE@nm@São Lorenço@nm@55906000@nm@P@nm@
+PE@nm@São Lourenço da Mata@nm@@nm@M@nm@
+PE@nm@São Pedro@nm@55302000@nm@D@nm@
+PE@nm@São Severino@nm@55647000@nm@P@nm@
+PE@nm@São Vicente@nm@56730000@nm@D@nm@
+PE@nm@São Vicente Ferrer@nm@55860000@nm@M@nm@
+PE@nm@Sapucarana@nm@55661000@nm@D@nm@
+PE@nm@Saué@nm@55572000@nm@D@nm@
+PE@nm@Serra Branca@nm@56265000@nm@D@nm@
+PE@nm@Serra da Cachoeira@nm@55775000@nm@P@nm@
+PE@nm@Serra do Vento@nm@55160000@nm@D@nm@
+PE@nm@Serra Negra@nm@55663500@nm@P@nm@
+PE@nm@Serra Talhada@nm@@nm@M@nm@
+PE@nm@Serrinha da Prata@nm@55354000@nm@P@nm@
+PE@nm@Serrita@nm@56140000@nm@M@nm@
+PE@nm@Serrolândia@nm@56270000@nm@D@nm@
+PE@nm@Serrote do Urubu@nm@56354500@nm@P@nm@
+PE@nm@Serrote dos Bois de Cima@nm@55102500@nm@P@nm@
+PE@nm@Sertânia@nm@56600000@nm@M@nm@
+PE@nm@Sertãozinho de Baixo@nm@55408000@nm@D@nm@
+PE@nm@Siriji@nm@55863000@nm@D@nm@
+PE@nm@Sirinhaém@nm@55580000@nm@M@nm@
+PE@nm@Sítio dos Nunes@nm@56860000@nm@D@nm@
+PE@nm@Sítio dos Remédios@nm@55663000@nm@P@nm@
+PE@nm@Solidão@nm@56795000@nm@M@nm@
+PE@nm@Surubim@nm@55750000@nm@M@nm@
+PE@nm@Tabira@nm@56780000@nm@M@nm@
+PE@nm@Tabocas@nm@56240000@nm@D@nm@
+PE@nm@Taboquinha@nm@55163000@nm@P@nm@
+PE@nm@Tacaimbó@nm@55140000@nm@M@nm@
+PE@nm@Tacaratu@nm@56480000@nm@M@nm@
+PE@nm@Tamandaré@nm@55578000@nm@M@nm@
+PE@nm@Tamboatá@nm@55733000@nm@D@nm@
+PE@nm@Tapiraim@nm@55138000@nm@D@nm@
+PE@nm@Taquaritinga do Norte@nm@55790000@nm@M@nm@
+PE@nm@Tara@nm@55285000@nm@D@nm@
+PE@nm@Tauapiranga@nm@56925000@nm@D@nm@
+PE@nm@Tejucupapo@nm@55905000@nm@D@nm@
+PE@nm@Tenebre@nm@55284000@nm@P@nm@
+PE@nm@Terezinha@nm@55305000@nm@M@nm@
+PE@nm@Terra Nova@nm@56190000@nm@M@nm@
+PE@nm@Terra Vermelha@nm@55100500@nm@P@nm@
+PE@nm@Timbaúba@nm@55870000@nm@M@nm@
+PE@nm@Timorante@nm@56234000@nm@D@nm@
+PE@nm@Toritama@nm@55125000@nm@M@nm@
+PE@nm@Tracunhaém@nm@55805000@nm@M@nm@
+PE@nm@Trapiá@nm@55122000@nm@D@nm@
+PE@nm@Três Ladeiras@nm@53670000@nm@D@nm@
+PE@nm@Trindade@nm@56250000@nm@M@nm@
+PE@nm@Triunfo@nm@56870000@nm@M@nm@
+PE@nm@Tupanaci@nm@56990000@nm@D@nm@
+PE@nm@Tupanatinga@nm@56540000@nm@M@nm@
+PE@nm@Tupaóca@nm@55895000@nm@D@nm@
+PE@nm@Tuparetama@nm@56760000@nm@M@nm@
+PE@nm@Umãs@nm@56105000@nm@D@nm@
+PE@nm@Umburanas@nm@56628000@nm@P@nm@
+PE@nm@Umburetama@nm@55746000@nm@D@nm@
+PE@nm@Upatininga@nm@55896000@nm@D@nm@
+PE@nm@Urimama@nm@56386000@nm@D@nm@
+PE@nm@Uruás@nm@56339500@nm@P@nm@
+PE@nm@Urucubá@nm@55705000@nm@D@nm@
+PE@nm@Uruçu-Mirim@nm@55648000@nm@D@nm@
+PE@nm@Usina Roçadinho@nm@55401000@nm@P@nm@
+PE@nm@Valdemar Siqueira@nm@56617000@nm@P@nm@
+PE@nm@Varzinha@nm@56923000@nm@D@nm@
+PE@nm@Vasques@nm@56110000@nm@D@nm@
+PE@nm@Veneza@nm@56168000@nm@D@nm@
+PE@nm@Venturosa@nm@55270000@nm@M@nm@
+PE@nm@Verdejante@nm@56120000@nm@M@nm@
+PE@nm@Vermelhos@nm@56396000@nm@P@nm@
+PE@nm@Vertente do Lério@nm@55760000@nm@M@nm@
+PE@nm@Vertentes@nm@55770000@nm@M@nm@
+PE@nm@Vicência@nm@55850000@nm@M@nm@
+PE@nm@Vila Nossa Senhora Aparecida@nm@56339000@nm@P@nm@
+PE@nm@Vila Nova - N5@nm@56337600@nm@P@nm@
+PE@nm@Vila Nova@nm@55160500@nm@P@nm@
+PE@nm@Vila Nova@nm@55757000@nm@D@nm@
+PE@nm@Viração@nm@56236000@nm@D@nm@
+PE@nm@Vitória de Santo Antão@nm@@nm@M@nm@
+PE@nm@Volta do Moxotó@nm@56475000@nm@D@nm@
+PE@nm@Xexéu@nm@55555000@nm@M@nm@
+PE@nm@Xicuru@nm@55108500@nm@P@nm@
+PE@nm@Xique-Xique@nm@55103000@nm@P@nm@
+PE@nm@Xucuru@nm@55165000@nm@D@nm@
+PE@nm@Zé Gomes@nm@56245000@nm@D@nm@

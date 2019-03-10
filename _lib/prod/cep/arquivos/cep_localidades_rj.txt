@@ -1,0 +1,292 @@
+RJ@nm@Abarracamento@nm@27670000@nm@D@nm@
+RJ@nm@Afonso Arinos@nm@25875000@nm@D@nm@
+RJ@nm@Agulhas Negras@nm@@nm@D@nm@
+RJ@nm@Amparo@nm@@nm@D@nm@
+RJ@nm@Andrade Pinto@nm@27770000@nm@D@nm@
+RJ@nm@Angra dos Reis@nm@@nm@M@nm@
+RJ@nm@Anta@nm@25882000@nm@D@nm@
+RJ@nm@Aperibé@nm@28495000@nm@M@nm@
+RJ@nm@Araruama@nm@28970000@nm@M@nm@
+RJ@nm@Areal@nm@25845000@nm@M@nm@
+RJ@nm@Armação dos Búzios@nm@28950000@nm@M@nm@
+RJ@nm@Arraial do Cabo@nm@28930000@nm@M@nm@
+RJ@nm@Arrozal@nm@27185000@nm@D@nm@
+RJ@nm@Avelar@nm@26980000@nm@D@nm@
+RJ@nm@Bacaxá@nm@@nm@D@nm@
+RJ@nm@Baltazar@nm@28473000@nm@D@nm@
+RJ@nm@Banquete@nm@28662000@nm@D@nm@
+RJ@nm@Barão de Juparana@nm@27640000@nm@D@nm@
+RJ@nm@Barcelos@nm@28220000@nm@D@nm@
+RJ@nm@Barra Alegre@nm@28666000@nm@D@nm@
+RJ@nm@Barra de Macaé@nm@@nm@D@nm@
+RJ@nm@Barra de São João@nm@28880000@nm@D@nm@
+RJ@nm@Barra do Piraí@nm@@nm@M@nm@
+RJ@nm@Barra Mansa@nm@@nm@M@nm@
+RJ@nm@Barra Seca@nm@28240000@nm@D@nm@
+RJ@nm@Batatal@nm@28585000@nm@D@nm@
+RJ@nm@Belford Roxo@nm@@nm@M@nm@
+RJ@nm@Bemposta@nm@25840000@nm@D@nm@
+RJ@nm@Boa Esperança@nm@28810000@nm@D@nm@
+RJ@nm@Boa Sorte@nm@28525000@nm@D@nm@
+RJ@nm@Boa Ventura@nm@28340000@nm@D@nm@
+RJ@nm@Bom Jardim@nm@28660000@nm@M@nm@
+RJ@nm@Bom Jesus do Itabapoana@nm@28360000@nm@M@nm@
+RJ@nm@Bom Jesus do Querendo@nm@28388000@nm@D@nm@
+RJ@nm@Cabo Frio@nm@@nm@M@nm@
+RJ@nm@Cabuçu@nm@@nm@D@nm@
+RJ@nm@Cachoeiras de Macacu@nm@28680000@nm@M@nm@
+RJ@nm@Cachoeiros@nm@27990000@nm@D@nm@
+RJ@nm@Calheiros@nm@28368000@nm@D@nm@
+RJ@nm@Califórnia da Barra@nm@27163000@nm@D@nm@
+RJ@nm@Cambiasca@nm@28425000@nm@D@nm@
+RJ@nm@Cambuci@nm@28430000@nm@M@nm@
+RJ@nm@Campo do Coelho@nm@@nm@D@nm@
+RJ@nm@Campos dos Goytacazes@nm@@nm@M@nm@
+RJ@nm@Campos Elíseos@nm@@nm@D@nm@
+RJ@nm@Cantagalo@nm@28500000@nm@M@nm@
+RJ@nm@Carabuçu@nm@28372000@nm@D@nm@
+RJ@nm@Carapebus@nm@27998000@nm@M@nm@
+RJ@nm@Cardoso Moreira@nm@28180000@nm@M@nm@
+RJ@nm@Carmo@nm@28640000@nm@M@nm@
+RJ@nm@Cascatinha@nm@@nm@D@nm@
+RJ@nm@Casimiro de Abreu@nm@28860000@nm@M@nm@
+RJ@nm@Cava@nm@@nm@D@nm@
+RJ@nm@Coelho da Rocha@nm@@nm@D@nm@
+RJ@nm@Colônia@nm@28420000@nm@D@nm@
+RJ@nm@Comendador Levy Gasparian@nm@25870000@nm@M@nm@
+RJ@nm@Comendador Venâncio@nm@28348000@nm@D@nm@
+RJ@nm@Conceição de Jacareí@nm@23885000@nm@D@nm@
+RJ@nm@Conceição de Macabu@nm@28740000@nm@M@nm@
+RJ@nm@Conrado@nm@26920000@nm@D@nm@
+RJ@nm@Conselheiro Paulino@nm@@nm@D@nm@
+RJ@nm@Conservatória@nm@27655000@nm@D@nm@
+RJ@nm@Cordeiro@nm@28540000@nm@M@nm@
+RJ@nm@Coroa Grande@nm@@nm@D@nm@
+RJ@nm@Correas@nm@@nm@P@nm@
+RJ@nm@Córrego da Prata@nm@28642000@nm@D@nm@
+RJ@nm@Córrego do Ouro@nm@27980000@nm@D@nm@
+RJ@nm@Correntezas@nm@28830000@nm@D@nm@
+RJ@nm@Cunhambebe@nm@@nm@D@nm@
+RJ@nm@Dorândia@nm@27160000@nm@D@nm@
+RJ@nm@Dores de Macabu@nm@28115000@nm@D@nm@
+RJ@nm@Doutor Elias@nm@28757000@nm@D@nm@
+RJ@nm@Doutor Loreti@nm@28772000@nm@D@nm@
+RJ@nm@Duas Barras@nm@28650000@nm@M@nm@
+RJ@nm@Duque de Caxias@nm@@nm@M@nm@
+RJ@nm@Engenheiro Passos@nm@27555000@nm@D@nm@
+RJ@nm@Engenheiro Paulo de Frontin@nm@26650000@nm@M@nm@
+RJ@nm@Engenheiro Pedreira@nm@@nm@P@nm@
+RJ@nm@Estrada Nova@nm@28590000@nm@D@nm@
+RJ@nm@Euclidelândia@nm@28520000@nm@D@nm@
+RJ@nm@Falcão@nm@@nm@D@nm@
+RJ@nm@Floriano@nm@@nm@D@nm@
+RJ@nm@Frade@nm@27987000@nm@D@nm@
+RJ@nm@Fumaça@nm@27550000@nm@D@nm@
+RJ@nm@Funil@nm@28440000@nm@D@nm@
+RJ@nm@Gaviões@nm@28825000@nm@D@nm@
+RJ@nm@Getulândia@nm@27465000@nm@D@nm@
+RJ@nm@Glicério@nm@27985000@nm@D@nm@
+RJ@nm@Goitacazes@nm@28110000@nm@D@nm@
+RJ@nm@Governador Portela@nm@26910000@nm@D@nm@
+RJ@nm@Guapimirim@nm@@nm@M@nm@
+RJ@nm@Guia de Pacobaíba@nm@@nm@D@nm@
+RJ@nm@Ibipeba@nm@28558000@nm@D@nm@
+RJ@nm@Ibitiguaçu@nm@28485000@nm@D@nm@
+RJ@nm@Ibitioca@nm@28120000@nm@D@nm@
+RJ@nm@Ibituporanga@nm@@nm@D@nm@
+RJ@nm@Iguaba Grande@nm@28960000@nm@M@nm@
+RJ@nm@Ilha Grande@nm@23968000@nm@D@nm@
+RJ@nm@Imbariê@nm@@nm@D@nm@
+RJ@nm@Inconfidência@nm@25865000@nm@D@nm@
+RJ@nm@Inhomirim@nm@@nm@D@nm@
+RJ@nm@Inoã@nm@@nm@D@nm@
+RJ@nm@Ipiabas@nm@27170000@nm@D@nm@
+RJ@nm@Ipiiba@nm@@nm@D@nm@
+RJ@nm@Ipituna@nm@28557000@nm@D@nm@
+RJ@nm@Ipuca@nm@28405000@nm@D@nm@
+RJ@nm@Itabapoana@nm@28245000@nm@D@nm@
+RJ@nm@Itaboraí@nm@@nm@M@nm@
+RJ@nm@Itacurussá@nm@23880000@nm@D@nm@
+RJ@nm@Itaguaí@nm@@nm@M@nm@
+RJ@nm@Itaipava@nm@@nm@D@nm@
+RJ@nm@Itaipu@nm@@nm@D@nm@
+RJ@nm@Itaipuaçu@nm@@nm@D@nm@
+RJ@nm@Itajara@nm@28345000@nm@D@nm@
+RJ@nm@Italva@nm@28250000@nm@M@nm@
+RJ@nm@Itambi@nm@@nm@D@nm@
+RJ@nm@Itaocara@nm@28570000@nm@M@nm@
+RJ@nm@Itaperuna@nm@28300000@nm@M@nm@
+RJ@nm@Itatiaia@nm@27580000@nm@M@nm@
+RJ@nm@Jaguarembé@nm@28575000@nm@D@nm@
+RJ@nm@Jamapará@nm@25887000@nm@D@nm@
+RJ@nm@Japeri@nm@@nm@M@nm@
+RJ@nm@Japuíba@nm@28685000@nm@D@nm@
+RJ@nm@Laje do Muriaé@nm@28350000@nm@M@nm@
+RJ@nm@Laranjais@nm@28580000@nm@D@nm@
+RJ@nm@Lídice@nm@27475000@nm@D@nm@
+RJ@nm@Lumiar@nm@@nm@D@nm@
+RJ@nm@Macabuzinho@nm@28745000@nm@D@nm@
+RJ@nm@Macaé@nm@@nm@M@nm@
+RJ@nm@Macuco@nm@28545000@nm@M@nm@
+RJ@nm@Magé@nm@@nm@M@nm@
+RJ@nm@Mambucaba@nm@@nm@D@nm@
+RJ@nm@Mangaratiba@nm@23860000@nm@M@nm@
+RJ@nm@Manilha@nm@@nm@D@nm@
+RJ@nm@Maniva@nm@28235000@nm@D@nm@
+RJ@nm@Manuel Duarte@nm@27690000@nm@D@nm@
+RJ@nm@Marangatu@nm@28476000@nm@D@nm@
+RJ@nm@Maricá@nm@@nm@M@nm@
+RJ@nm@Mendes@nm@26700000@nm@M@nm@
+RJ@nm@Mesquita@nm@@nm@M@nm@
+RJ@nm@Miguel Pereira@nm@26900000@nm@M@nm@
+RJ@nm@Miracema@nm@28460000@nm@M@nm@
+RJ@nm@Monjolo@nm@@nm@D@nm@
+RJ@nm@Monnerat@nm@28655000@nm@D@nm@
+RJ@nm@Monte Alegre@nm@28490000@nm@D@nm@
+RJ@nm@Monte Verde@nm@28445000@nm@D@nm@
+RJ@nm@Monumento@nm@27190000@nm@D@nm@
+RJ@nm@Morangaba@nm@28125000@nm@D@nm@
+RJ@nm@Morro do Côco@nm@28178000@nm@D@nm@
+RJ@nm@Morro Grande@nm@28975000@nm@D@nm@
+RJ@nm@Mussurepe@nm@28143000@nm@D@nm@
+RJ@nm@Natividade@nm@28380000@nm@M@nm@
+RJ@nm@Neves@nm@@nm@D@nm@
+RJ@nm@Nhunguaçu@nm@25998000@nm@D@nm@
+RJ@nm@Nilópolis@nm@@nm@M@nm@
+RJ@nm@Niterói@nm@@nm@M@nm@
+RJ@nm@Nossa Senhora da Aparecida@nm@25886000@nm@D@nm@
+RJ@nm@Nossa Senhora da Penha@nm@28335000@nm@D@nm@
+RJ@nm@Nossa Senhora do Amparo@nm@@nm@D@nm@
+RJ@nm@Nova Friburgo@nm@@nm@M@nm@
+RJ@nm@Nova Iguaçu@nm@@nm@M@nm@
+RJ@nm@Olinda@nm@@nm@D@nm@
+RJ@nm@Ourânia@nm@28383000@nm@D@nm@
+RJ@nm@Pachecos@nm@@nm@D@nm@
+RJ@nm@Papucaia@nm@28695000@nm@P@nm@
+RJ@nm@Paquequer Pequeno@nm@25996000@nm@D@nm@
+RJ@nm@Paracambi@nm@26600000@nm@M@nm@
+RJ@nm@Paraíba do Sul@nm@25850000@nm@M@nm@
+RJ@nm@Paraíso do Tobias@nm@28463000@nm@D@nm@
+RJ@nm@Paraoquena@nm@28483000@nm@D@nm@
+RJ@nm@Parapeúna@nm@27650000@nm@D@nm@
+RJ@nm@Parati@nm@23970000@nm@M@nm@
+RJ@nm@Parati Mirim@nm@23972000@nm@D@nm@
+RJ@nm@Passa Três@nm@27470000@nm@D@nm@
+RJ@nm@Paty do Alferes@nm@26950000@nm@M@nm@
+RJ@nm@Pedra Selada@nm@27560000@nm@D@nm@
+RJ@nm@Pedro do Rio@nm@@nm@D@nm@
+RJ@nm@Penedo@nm@27598000@nm@P@nm@
+RJ@nm@Pentagna@nm@27645000@nm@D@nm@
+RJ@nm@Petrópolis@nm@@nm@M@nm@
+RJ@nm@Piabetá@nm@@nm@P@nm@
+RJ@nm@Pião@nm@25884000@nm@D@nm@
+RJ@nm@Pinheiral@nm@27197000@nm@M@nm@
+RJ@nm@Pipeiras@nm@28225000@nm@D@nm@
+RJ@nm@Piraí@nm@27175000@nm@M@nm@
+RJ@nm@Pirangaí@nm@27565000@nm@D@nm@
+RJ@nm@Pirapetinga de Bom Jesus@nm@28365000@nm@D@nm@
+RJ@nm@Ponta Negra@nm@@nm@D@nm@
+RJ@nm@Porciúncula@nm@28390000@nm@M@nm@
+RJ@nm@Portela@nm@28595000@nm@D@nm@
+RJ@nm@Porto Real@nm@27570000@nm@M@nm@
+RJ@nm@Porto Velho do Cunha@nm@28644000@nm@D@nm@
+RJ@nm@Posse@nm@@nm@D@nm@
+RJ@nm@Pureza@nm@28415000@nm@D@nm@
+RJ@nm@Purilândia@nm@28396000@nm@D@nm@
+RJ@nm@Quartéis@nm@28835000@nm@D@nm@
+RJ@nm@Quatis@nm@@nm@M@nm@
+RJ@nm@Queimados@nm@@nm@M@nm@
+RJ@nm@Quissamã@nm@28735000@nm@M@nm@
+RJ@nm@Raposo@nm@28333000@nm@D@nm@
+RJ@nm@Renascença@nm@28774000@nm@D@nm@
+RJ@nm@Resende@nm@@nm@M@nm@
+RJ@nm@Retiro do Muriaé@nm@28330000@nm@D@nm@
+RJ@nm@Rialto@nm@@nm@D@nm@
+RJ@nm@Ribeirão de São Joaquim@nm@@nm@D@nm@
+RJ@nm@Rio Bonito@nm@28800000@nm@M@nm@
+RJ@nm@Rio Claro@nm@27460000@nm@M@nm@
+RJ@nm@Rio das Flores@nm@27660000@nm@M@nm@
+RJ@nm@Rio das Ostras@nm@@nm@M@nm@
+RJ@nm@Rio de Janeiro@nm@@nm@M@nm@
+RJ@nm@Riograndina@nm@@nm@D@nm@
+RJ@nm@Rosal@nm@28370000@nm@D@nm@
+RJ@nm@Sacra Família do Tinguá@nm@26660000@nm@D@nm@
+RJ@nm@Salutaris@nm@25855000@nm@D@nm@
+RJ@nm@Sambaetiba@nm@@nm@D@nm@
+RJ@nm@Sampaio Correia@nm@@nm@D@nm@
+RJ@nm@Sana@nm@27995000@nm@D@nm@
+RJ@nm@Santa Clara@nm@28398000@nm@D@nm@
+RJ@nm@Santa Cruz@nm@28480000@nm@D@nm@
+RJ@nm@Santa Cruz da Serra@nm@@nm@P@nm@
+RJ@nm@Santa Isabel@nm@@nm@P@nm@
+RJ@nm@Santa Isabel do Rio Preto@nm@27657000@nm@D@nm@
+RJ@nm@Santa Maria@nm@28155000@nm@D@nm@
+RJ@nm@Santa Maria Madalena@nm@28770000@nm@M@nm@
+RJ@nm@Santa Rita da Floresta@nm@28510000@nm@D@nm@
+RJ@nm@Santanésia@nm@27195000@nm@D@nm@
+RJ@nm@Santo Aleixo@nm@@nm@D@nm@
+RJ@nm@Santo Amaro de Campos@nm@28140000@nm@D@nm@
+RJ@nm@Santo Antônio de Pádua@nm@28470000@nm@M@nm@
+RJ@nm@Santo Antônio do Imbé@nm@28778000@nm@D@nm@
+RJ@nm@Santo Eduardo@nm@28160000@nm@D@nm@
+RJ@nm@São Fidélis@nm@28400000@nm@M@nm@
+RJ@nm@São Francisco de Itabapoana@nm@28230000@nm@M@nm@
+RJ@nm@São Gonçalo@nm@@nm@M@nm@
+RJ@nm@São João da Barra@nm@28200000@nm@M@nm@
+RJ@nm@São João de Meriti@nm@@nm@M@nm@
+RJ@nm@São João do Paraíso@nm@28450000@nm@D@nm@
+RJ@nm@São João Marcos@nm@27472000@nm@D@nm@
+RJ@nm@São Joaquim@nm@28195000@nm@D@nm@
+RJ@nm@São José de Ubá@nm@28455000@nm@M@nm@
+RJ@nm@São José do Ribeirão@nm@28664000@nm@D@nm@
+RJ@nm@São José do Turvo@nm@27165000@nm@D@nm@
+RJ@nm@São José do Vale do Rio Preto@nm@25780000@nm@M@nm@
+RJ@nm@São Mateus@nm@@nm@D@nm@
+RJ@nm@São Pedro da Aldeia@nm@@nm@M@nm@
+RJ@nm@São Pedro da Serra@nm@@nm@D@nm@
+RJ@nm@São Sebastião de Campos@nm@28145000@nm@D@nm@
+RJ@nm@São Sebastião do Alto@nm@28550000@nm@M@nm@
+RJ@nm@São Sebastião do Paraíba@nm@28530000@nm@D@nm@
+RJ@nm@São Sebastião dos Ferreiros@nm@27705000@nm@D@nm@
+RJ@nm@São Vicente de Paula@nm@28980000@nm@D@nm@
+RJ@nm@Sapucaia@nm@25880000@nm@M@nm@
+RJ@nm@Saquarema@nm@@nm@M@nm@
+RJ@nm@Saracuruna@nm@@nm@P@nm@
+RJ@nm@Sebastião de Lacerda@nm@27720000@nm@D@nm@
+RJ@nm@Seropédica@nm@@nm@M@nm@
+RJ@nm@Serrinha@nm@28374000@nm@D@nm@
+RJ@nm@Serrinha@nm@28118000@nm@D@nm@
+RJ@nm@Sete Pontes@nm@@nm@D@nm@
+RJ@nm@Silva Jardim@nm@28820000@nm@M@nm@
+RJ@nm@Sodrelândia@nm@28760000@nm@D@nm@
+RJ@nm@Sossego@nm@28777000@nm@D@nm@
+RJ@nm@Subaio@nm@28690000@nm@D@nm@
+RJ@nm@Sumidouro@nm@28637000@nm@M@nm@
+RJ@nm@Suruí@nm@@nm@D@nm@
+RJ@nm@Taboas@nm@27665000@nm@D@nm@
+RJ@nm@Tamoios@nm@@nm@D@nm@
+RJ@nm@Tanguá@nm@24890000@nm@M@nm@
+RJ@nm@Tapera@nm@28767000@nm@D@nm@
+RJ@nm@Tarituba@nm@23975000@nm@D@nm@
+RJ@nm@Teresópolis@nm@@nm@M@nm@
+RJ@nm@Tocos@nm@28148000@nm@D@nm@
+RJ@nm@Trajano de Moraes@nm@28750000@nm@M@nm@
+RJ@nm@Travessão@nm@28175000@nm@D@nm@
+RJ@nm@Três Irmãos@nm@28435000@nm@D@nm@
+RJ@nm@Três Rios@nm@@nm@M@nm@
+RJ@nm@Triunfo@nm@28779000@nm@D@nm@
+RJ@nm@Valão do Barro@nm@28555000@nm@D@nm@
+RJ@nm@Valença@nm@27600000@nm@M@nm@
+RJ@nm@Vargem Alegre@nm@27155000@nm@D@nm@
+RJ@nm@Varre-Sai@nm@28375000@nm@M@nm@
+RJ@nm@Vassouras@nm@27700000@nm@M@nm@
+RJ@nm@Venda das Flores@nm@28466000@nm@D@nm@
+RJ@nm@Vila da Grama@nm@28765000@nm@D@nm@
+RJ@nm@Vila Muriqui@nm@23870000@nm@D@nm@
+RJ@nm@Vila Nova de Campos@nm@28165000@nm@D@nm@
+RJ@nm@Visconde de Imbé@nm@28755000@nm@D@nm@
+RJ@nm@Visconde de Itaboraí@nm@@nm@D@nm@
+RJ@nm@Visconde de Mauá@nm@27553000@nm@D@nm@
+RJ@nm@Volta Redonda@nm@@nm@M@nm@
+RJ@nm@Werneck@nm@25860000@nm@D@nm@
+RJ@nm@Xerém@nm@@nm@D@nm@

@@ -1,0 +1,251 @@
+MA@nm@Açailândia@nm@65930000@nm@M@nm@
+MA@nm@Afonso Cunha@nm@65505000@nm@M@nm@
+MA@nm@Água Doce do Maranhão@nm@65578000@nm@M@nm@
+MA@nm@Alcântara@nm@65250000@nm@M@nm@
+MA@nm@Aldeias Altas@nm@65610000@nm@M@nm@
+MA@nm@Altamira do Maranhão@nm@65310000@nm@M@nm@
+MA@nm@Alto Alegre do Maranhão@nm@65413000@nm@M@nm@
+MA@nm@Alto Alegre do Pindaré@nm@65398000@nm@M@nm@
+MA@nm@Alto Parnaíba@nm@65810000@nm@M@nm@
+MA@nm@Amapá do Maranhão@nm@65293000@nm@M@nm@
+MA@nm@Amarante do Maranhão@nm@65923000@nm@M@nm@
+MA@nm@Anajatuba@nm@65490000@nm@M@nm@
+MA@nm@Anapurus@nm@65525000@nm@M@nm@
+MA@nm@Anil@nm@@nm@D@nm@
+MA@nm@Apicum-Açu@nm@65275000@nm@M@nm@
+MA@nm@Araguanã@nm@65368000@nm@M@nm@
+MA@nm@Araióses@nm@65570000@nm@M@nm@
+MA@nm@Arame@nm@65945000@nm@M@nm@
+MA@nm@Arari@nm@65480000@nm@M@nm@
+MA@nm@Aurizona@nm@65287000@nm@D@nm@
+MA@nm@Axixá@nm@65148000@nm@M@nm@
+MA@nm@Bacabal@nm@65700000@nm@M@nm@
+MA@nm@Bacabeira@nm@65143000@nm@M@nm@
+MA@nm@Bacatuba@nm@65688000@nm@D@nm@
+MA@nm@Bacuri@nm@65270000@nm@M@nm@
+MA@nm@Bacurituba@nm@65233000@nm@M@nm@
+MA@nm@Balsas@nm@65800000@nm@M@nm@
+MA@nm@Barão de Grajaú@nm@65660000@nm@M@nm@
+MA@nm@Barão de Tromai@nm@65281000@nm@D@nm@
+MA@nm@Barra do Corda@nm@65950000@nm@M@nm@
+MA@nm@Barreirinhas@nm@65590000@nm@M@nm@
+MA@nm@Barro Duro@nm@65582000@nm@D@nm@
+MA@nm@Bela Vista do Maranhão@nm@65335000@nm@M@nm@
+MA@nm@Belágua@nm@65535000@nm@M@nm@
+MA@nm@Benedito Leite@nm@65885000@nm@M@nm@
+MA@nm@Bequimão@nm@65248000@nm@M@nm@
+MA@nm@Bernardo do Mearim@nm@65723000@nm@M@nm@
+MA@nm@Boa Vista do Gurupi@nm@65292000@nm@M@nm@
+MA@nm@Boa Vista do Pindaré@nm@65211000@nm@D@nm@
+MA@nm@Bom Jardim@nm@65380000@nm@M@nm@
+MA@nm@Bom Jesus das Selvas@nm@65395000@nm@M@nm@
+MA@nm@Bom Lugar@nm@65704000@nm@M@nm@
+MA@nm@Bonfim do Arari@nm@65483000@nm@D@nm@
+MA@nm@Brejo@nm@65520000@nm@M@nm@
+MA@nm@Brejo de Areia@nm@65315000@nm@M@nm@
+MA@nm@Brejo de São Félix@nm@65643000@nm@D@nm@
+MA@nm@Buriti@nm@65515000@nm@M@nm@
+MA@nm@Buriti Bravo@nm@65685000@nm@M@nm@
+MA@nm@Buriti Cortado@nm@65639000@nm@D@nm@
+MA@nm@Buriticupu@nm@65393000@nm@M@nm@
+MA@nm@Buritirana@nm@65935500@nm@M@nm@
+MA@nm@Cachoeira Grande@nm@65165000@nm@M@nm@
+MA@nm@Cajapió@nm@65230000@nm@M@nm@
+MA@nm@Cajari@nm@65210000@nm@M@nm@
+MA@nm@Campestre do Maranhão@nm@65968000@nm@M@nm@
+MA@nm@Cândido Mendes@nm@65280000@nm@M@nm@
+MA@nm@Cantanhede@nm@65465000@nm@M@nm@
+MA@nm@Capinzal do Norte@nm@65735000@nm@M@nm@
+MA@nm@Caraíba do Norte@nm@65655000@nm@D@nm@
+MA@nm@Carolina@nm@65980000@nm@M@nm@
+MA@nm@Carutapera@nm@65295000@nm@M@nm@
+MA@nm@Caxias@nm@@nm@M@nm@
+MA@nm@Cedral@nm@65260000@nm@M@nm@
+MA@nm@Central do Maranhão@nm@65267000@nm@M@nm@
+MA@nm@Centro do Guilherme@nm@65288000@nm@M@nm@
+MA@nm@Centro Novo do Maranhão@nm@65299000@nm@M@nm@
+MA@nm@Chapadinha@nm@65500000@nm@M@nm@
+MA@nm@Cidelândia@nm@65921000@nm@M@nm@
+MA@nm@Codó@nm@65400000@nm@M@nm@
+MA@nm@Codozinho@nm@65405000@nm@D@nm@
+MA@nm@Coelho Neto@nm@65620000@nm@M@nm@
+MA@nm@Colinas@nm@65690000@nm@M@nm@
+MA@nm@Conceição do Lago-Açu@nm@65340000@nm@M@nm@
+MA@nm@Coroatá@nm@65415000@nm@M@nm@
+MA@nm@Curupa@nm@65815000@nm@D@nm@
+MA@nm@Cururupu@nm@65268000@nm@M@nm@
+MA@nm@Curva Grande@nm@65209000@nm@D@nm@
+MA@nm@Custódio Lima@nm@65565000@nm@D@nm@
+MA@nm@Davinópolis@nm@65927000@nm@M@nm@
+MA@nm@Dom Pedro@nm@65765000@nm@M@nm@
+MA@nm@Duque Bacelar@nm@65625000@nm@M@nm@
+MA@nm@Esperantinópolis@nm@65750000@nm@M@nm@
+MA@nm@Estandarte@nm@65282000@nm@D@nm@
+MA@nm@Estreito@nm@65975000@nm@M@nm@
+MA@nm@Feira Nova do Maranhão@nm@65995000@nm@M@nm@
+MA@nm@Fernando Falcão@nm@65964000@nm@M@nm@
+MA@nm@Formosa da Serra Negra@nm@65943000@nm@M@nm@
+MA@nm@Fortaleza dos Nogueiras@nm@65805000@nm@M@nm@
+MA@nm@Fortuna@nm@65695000@nm@M@nm@
+MA@nm@Frecheiras@nm@65575000@nm@D@nm@
+MA@nm@Godofredo Viana@nm@65285000@nm@M@nm@
+MA@nm@Gonçalves Dias@nm@65775000@nm@M@nm@
+MA@nm@Governador Archer@nm@65770000@nm@M@nm@
+MA@nm@Governador Edison Lobão@nm@65928000@nm@M@nm@
+MA@nm@Governador Eugênio Barros@nm@65780000@nm@M@nm@
+MA@nm@Governador Luiz Rocha@nm@65795000@nm@M@nm@
+MA@nm@Governador Newton Bello@nm@65363000@nm@M@nm@
+MA@nm@Governador Nunes Freire@nm@65284000@nm@M@nm@
+MA@nm@Graça Aranha@nm@65785000@nm@M@nm@
+MA@nm@Grajaú@nm@65940000@nm@M@nm@
+MA@nm@Guimarães@nm@65255000@nm@M@nm@
+MA@nm@Humberto de Campos@nm@65180000@nm@M@nm@
+MA@nm@Ibipira@nm@65855000@nm@D@nm@
+MA@nm@Icatu@nm@65170000@nm@M@nm@
+MA@nm@Igarapé do Meio@nm@65345000@nm@M@nm@
+MA@nm@Igarapé Grande@nm@65720000@nm@M@nm@
+MA@nm@Imperatriz@nm@@nm@M@nm@
+MA@nm@Itaipava do Grajaú@nm@65948000@nm@M@nm@
+MA@nm@Itamataré@nm@65298000@nm@D@nm@
+MA@nm@Itapecuru Mirim@nm@65485000@nm@M@nm@
+MA@nm@Itapera@nm@65175000@nm@D@nm@
+MA@nm@Itinga do Maranhão@nm@65939000@nm@M@nm@
+MA@nm@Jatobá@nm@65693000@nm@M@nm@
+MA@nm@Jenipapo dos Vieiras@nm@65962000@nm@M@nm@
+MA@nm@João Lisboa@nm@65922000@nm@M@nm@
+MA@nm@Joselândia@nm@65755000@nm@M@nm@
+MA@nm@Junco do Maranhão@nm@65294000@nm@M@nm@
+MA@nm@Lago da Pedra@nm@65715000@nm@M@nm@
+MA@nm@Lago do Junco@nm@65710000@nm@M@nm@
+MA@nm@Lago dos Rodrigues@nm@65712000@nm@M@nm@
+MA@nm@Lago Verde@nm@65705000@nm@M@nm@
+MA@nm@Lagoa do Mato@nm@65683000@nm@M@nm@
+MA@nm@Lagoa Grande do Maranhão@nm@65718000@nm@M@nm@
+MA@nm@Lajeado Novo@nm@65937000@nm@M@nm@
+MA@nm@Lapela@nm@65355000@nm@D@nm@
+MA@nm@Leandro@nm@65957000@nm@D@nm@
+MA@nm@Lima Campos@nm@65728000@nm@M@nm@
+MA@nm@Loreto@nm@65895000@nm@M@nm@
+MA@nm@Luís Domingues@nm@65290000@nm@M@nm@
+MA@nm@Magalhães de Almeida@nm@65560000@nm@M@nm@
+MA@nm@Maioba@nm@65137000@nm@P@nm@
+MA@nm@Maracaçumé@nm@65289000@nm@M@nm@
+MA@nm@Marajá do Sena@nm@65714000@nm@M@nm@
+MA@nm@Maranhãozinho@nm@65283000@nm@M@nm@
+MA@nm@Marianópolis@nm@65726000@nm@D@nm@
+MA@nm@Mata@nm@65115000@nm@D@nm@
+MA@nm@Mata Roma@nm@65510000@nm@M@nm@
+MA@nm@Matinha@nm@65218000@nm@M@nm@
+MA@nm@Matões@nm@65645000@nm@M@nm@
+MA@nm@Matões do Norte@nm@65468000@nm@M@nm@
+MA@nm@Milagres do Maranhão@nm@65545000@nm@M@nm@
+MA@nm@Mirador@nm@65850000@nm@M@nm@
+MA@nm@Miranda do Norte@nm@65495000@nm@M@nm@
+MA@nm@Mirinzal@nm@65265000@nm@M@nm@
+MA@nm@Monção@nm@65360000@nm@M@nm@
+MA@nm@Montes Altos@nm@65936000@nm@M@nm@
+MA@nm@Morros@nm@65160000@nm@M@nm@
+MA@nm@Nina Rodrigues@nm@65450000@nm@M@nm@
+MA@nm@Nova Colinas@nm@65808000@nm@M@nm@
+MA@nm@Nova Iorque@nm@65880000@nm@M@nm@
+MA@nm@Nova Olinda do Maranhão@nm@65274000@nm@M@nm@
+MA@nm@Olho D'Água das Cunhãs@nm@65706000@nm@M@nm@
+MA@nm@Olinda Nova do Maranhão@nm@65223000@nm@M@nm@
+MA@nm@Paço do Lumiar@nm@65130000@nm@M@nm@
+MA@nm@Palmeirândia@nm@65238000@nm@M@nm@
+MA@nm@Papagaio@nm@65955000@nm@D@nm@
+MA@nm@Paraibano@nm@65670000@nm@M@nm@
+MA@nm@Parnarama@nm@65640000@nm@M@nm@
+MA@nm@Passagem Franca@nm@65680000@nm@M@nm@
+MA@nm@Pastos Bons@nm@65870000@nm@M@nm@
+MA@nm@Paulino Neves@nm@65585000@nm@M@nm@
+MA@nm@Paulo Ramos@nm@65716000@nm@M@nm@
+MA@nm@Pedreiras@nm@65725000@nm@M@nm@
+MA@nm@Pedro do Rosário@nm@65206000@nm@M@nm@
+MA@nm@Penalva@nm@65213000@nm@M@nm@
+MA@nm@Peri Mirim@nm@65245000@nm@M@nm@
+MA@nm@Peritoró@nm@65418000@nm@M@nm@
+MA@nm@Pimentel@nm@65375000@nm@D@nm@
+MA@nm@Pindaré Mirim@nm@65370000@nm@M@nm@
+MA@nm@Pinheiro@nm@65200000@nm@M@nm@
+MA@nm@Pio XII@nm@65707000@nm@M@nm@
+MA@nm@Pirapemas@nm@65460000@nm@M@nm@
+MA@nm@Poção de Pedras@nm@65740000@nm@M@nm@
+MA@nm@Porto das Gabarras@nm@65493000@nm@D@nm@
+MA@nm@Porto Franco@nm@65970000@nm@M@nm@
+MA@nm@Porto Rico do Maranhão@nm@65263000@nm@M@nm@
+MA@nm@Presidente Dutra@nm@65760000@nm@M@nm@
+MA@nm@Presidente Juscelino@nm@65140000@nm@M@nm@
+MA@nm@Presidente Médici@nm@65279000@nm@M@nm@
+MA@nm@Presidente Sarney@nm@65204000@nm@M@nm@
+MA@nm@Presidente Vargas@nm@65455000@nm@M@nm@
+MA@nm@Primeira Cruz@nm@65190000@nm@M@nm@
+MA@nm@Raposa@nm@65138000@nm@M@nm@
+MA@nm@Resplandes@nm@65959000@nm@D@nm@
+MA@nm@Riachão@nm@65990000@nm@M@nm@
+MA@nm@Ribamar Fiquene@nm@65938000@nm@M@nm@
+MA@nm@Ribeirão Azul@nm@65658000@nm@D@nm@
+MA@nm@Rocado@nm@65875000@nm@D@nm@
+MA@nm@Roque@nm@65202000@nm@D@nm@
+MA@nm@Rosário@nm@65150000@nm@M@nm@
+MA@nm@Sambaíba@nm@65830000@nm@M@nm@
+MA@nm@Santa Filomena do Maranhão@nm@65768000@nm@M@nm@
+MA@nm@Santa Helena@nm@65208000@nm@M@nm@
+MA@nm@Santa Inês@nm@@nm@M@nm@
+MA@nm@Santa Luzia@nm@65390000@nm@M@nm@
+MA@nm@Santa Luzia do Paruá@nm@65272000@nm@M@nm@
+MA@nm@Santa Quitéria do Maranhão@nm@65540000@nm@M@nm@
+MA@nm@Santa Rita@nm@65145000@nm@M@nm@
+MA@nm@Santana do Maranhão@nm@65555000@nm@M@nm@
+MA@nm@Santo Amaro@nm@65195000@nm@M@nm@
+MA@nm@Santo Antônio dos Lopes@nm@65730000@nm@M@nm@
+MA@nm@São Benedito do Rio Preto@nm@65440000@nm@M@nm@
+MA@nm@São Bento@nm@65235000@nm@M@nm@
+MA@nm@São Bernardo@nm@65550000@nm@M@nm@
+MA@nm@São Domingos do Azeitão@nm@65888000@nm@M@nm@
+MA@nm@São Domingos do Maranhão@nm@65790000@nm@M@nm@
+MA@nm@São Félix de Balsas@nm@65890000@nm@M@nm@
+MA@nm@São Francisco do Brejão@nm@65929000@nm@M@nm@
+MA@nm@São Francisco do Maranhão@nm@65650000@nm@M@nm@
+MA@nm@São João Batista@nm@65225000@nm@M@nm@
+MA@nm@São João de Cortes@nm@65253000@nm@D@nm@
+MA@nm@São João do Carú@nm@65385000@nm@M@nm@
+MA@nm@São João do Paraíso@nm@65973000@nm@M@nm@
+MA@nm@São João do Soter@nm@65615000@nm@M@nm@
+MA@nm@São João dos Patos@nm@65665000@nm@M@nm@
+MA@nm@São Joaquim dos Melos@nm@65764000@nm@D@nm@
+MA@nm@São José de Ribamar@nm@65110000@nm@M@nm@
+MA@nm@São José dos Basílios@nm@65762000@nm@M@nm@
+MA@nm@São Luís@nm@@nm@M@nm@
+MA@nm@São Luís Gonzaga do Maranhão@nm@65708000@nm@M@nm@
+MA@nm@São Mateus do Maranhão@nm@65470000@nm@M@nm@
+MA@nm@São Pedro da Água Branca@nm@65920000@nm@M@nm@
+MA@nm@São Pedro dos Crentes@nm@65978000@nm@M@nm@
+MA@nm@São Raimundo das Mangabeiras@nm@65840000@nm@M@nm@
+MA@nm@São Raimundo de Codó@nm@65410000@nm@D@nm@
+MA@nm@São Raimundo do Doca Bezerra@nm@65753000@nm@M@nm@
+MA@nm@São Roberto@nm@65758000@nm@M@nm@
+MA@nm@São Vicente Ferrer@nm@65220000@nm@M@nm@
+MA@nm@Satubinha@nm@65709000@nm@M@nm@
+MA@nm@Senador Alexandre Costa@nm@65783000@nm@M@nm@
+MA@nm@Senador La Rocque@nm@65935000@nm@M@nm@
+MA@nm@Serrano do Maranhão@nm@65269000@nm@M@nm@
+MA@nm@Sítio Novo@nm@65925000@nm@M@nm@
+MA@nm@Sucupira do Norte@nm@65860000@nm@M@nm@
+MA@nm@Sucupira do Riachão@nm@65668000@nm@M@nm@
+MA@nm@Tasso Fragoso@nm@65820000@nm@M@nm@
+MA@nm@Timbiras@nm@65420000@nm@M@nm@
+MA@nm@Timon@nm@@nm@M@nm@
+MA@nm@Trizidela do Vale@nm@65727000@nm@M@nm@
+MA@nm@Tufilândia@nm@65378000@nm@M@nm@
+MA@nm@Tuntum@nm@65763000@nm@M@nm@
+MA@nm@Turiaçu@nm@65278000@nm@M@nm@
+MA@nm@Turilândia@nm@65276000@nm@M@nm@
+MA@nm@Tutóia@nm@65580000@nm@M@nm@
+MA@nm@Urbano Santos@nm@65530000@nm@M@nm@
+MA@nm@Vargem Grande@nm@65430000@nm@M@nm@
+MA@nm@Viana@nm@65215000@nm@M@nm@
+MA@nm@Vila Nova dos Martírios@nm@65924000@nm@M@nm@
+MA@nm@Vitória do Mearim@nm@65350000@nm@M@nm@
+MA@nm@Vitorino Freire@nm@65320000@nm@M@nm@
+MA@nm@Zé Doca@nm@65365000@nm@M@nm@

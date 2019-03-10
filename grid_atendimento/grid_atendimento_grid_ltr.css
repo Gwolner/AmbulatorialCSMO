@@ -1,0 +1,22 @@
+.css_procedimento_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_procedimento_grid_line {vertical-align: top;text-align: left;}
+.css_aluno_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_aluno_grid_line {text-align: right;}
+.css_servidor_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_servidor_grid_line {text-align: right;}
+.css_servidor_terceirizado_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_servidor_terceirizado_grid_line {text-align: center;}
+.css_visitante_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_visitante_grid_line {text-align: center;}
+.css_total_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_total_grid_line {text-align: right;}
+.css_id_atendimento_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_atendimento_grid_line {vertical-align: top;text-align: right;}
+.css_id_servidor_saude_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_servidor_saude_grid_line {vertical-align: top;text-align: right;}
+.css_tipo_servico_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tipo_servico_grid_line {vertical-align: top;text-align: left;}
+.css_tipo_paciente_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_tipo_paciente_grid_line {vertical-align: top;text-align: left;}
+.css_data_hora_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_data_hora_grid_line {vertical-align: top;text-align: center;}

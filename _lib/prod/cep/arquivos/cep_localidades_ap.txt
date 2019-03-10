@@ -1,0 +1,46 @@
+AP@nm@Abacate da Pedreira@nm@68912350@nm@P@nm@
+AP@nm@Amapá@nm@68950000@nm@M@nm@
+AP@nm@Ambé@nm@68912000@nm@P@nm@
+AP@nm@Aporema@nm@68994000@nm@D@nm@
+AP@nm@Ariri@nm@68912050@nm@P@nm@
+AP@nm@Bailique@nm@68913000@nm@D@nm@
+AP@nm@Boca do Jari@nm@68923000@nm@D@nm@
+AP@nm@Calçoene@nm@68960000@nm@M@nm@
+AP@nm@Cantanzal@nm@68912800@nm@P@nm@
+AP@nm@Carmo@nm@68912100@nm@P@nm@
+AP@nm@Clevelândia do Norte@nm@68985000@nm@D@nm@
+AP@nm@Corre Água@nm@68912600@nm@P@nm@
+AP@nm@Cunani@nm@68965000@nm@D@nm@
+AP@nm@Curiaú@nm@68912300@nm@P@nm@
+AP@nm@Cutias@nm@68973000@nm@M@nm@
+AP@nm@Fazendinha@nm@@nm@D@nm@
+AP@nm@Ferreira Gomes@nm@68915000@nm@M@nm@
+AP@nm@Fortaleza@nm@68939000@nm@D@nm@
+AP@nm@Gaivota@nm@68912150@nm@P@nm@
+AP@nm@Gurupora@nm@68912650@nm@P@nm@
+AP@nm@Igarapé do Lago@nm@68935000@nm@D@nm@
+AP@nm@Ilha de Santana@nm@68937000@nm@D@nm@
+AP@nm@Inajá@nm@68912750@nm@P@nm@
+AP@nm@Itaubal@nm@68976000@nm@M@nm@
+AP@nm@Laranjal do Jari@nm@68920000@nm@M@nm@
+AP@nm@Livramento do Pacuí@nm@68912450@nm@P@nm@
+AP@nm@Lourenço@nm@68970000@nm@D@nm@
+AP@nm@Macapá@nm@@nm@M@nm@
+AP@nm@Mazagão@nm@68940000@nm@M@nm@
+AP@nm@Mazagão Velho@nm@68943000@nm@D@nm@
+AP@nm@Oiapoque@nm@68980000@nm@M@nm@
+AP@nm@Paredão@nm@68917000@nm@D@nm@
+AP@nm@Pedra Branca do Amaparí@nm@68945000@nm@M@nm@
+AP@nm@Porto Grande@nm@68997000@nm@M@nm@
+AP@nm@Pracuúba@nm@68918000@nm@M@nm@
+AP@nm@Santa Luzia do Pacuí@nm@68912530@nm@P@nm@
+AP@nm@Santa Maria@nm@68912200@nm@P@nm@
+AP@nm@Santana@nm@@nm@M@nm@
+AP@nm@São Joaquim do Pacuí@nm@68912500@nm@D@nm@
+AP@nm@São Sebastião do Livramento@nm@68912550@nm@P@nm@
+AP@nm@São Tomé@nm@68912700@nm@P@nm@
+AP@nm@Serra do Navio@nm@68948000@nm@M@nm@
+AP@nm@Sucuriju@nm@68958000@nm@D@nm@
+AP@nm@Tartarugalzinho@nm@68990000@nm@M@nm@
+AP@nm@Vila Velha@nm@68988000@nm@D@nm@
+AP@nm@Vitória do Jari@nm@68924000@nm@M@nm@

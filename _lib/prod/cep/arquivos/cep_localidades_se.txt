@@ -1,0 +1,83 @@
+SE@nm@Altos Verdes@nm@49555000@nm@D@nm@
+SE@nm@Amparo de São Francisco@nm@49920000@nm@M@nm@
+SE@nm@Aquidabã@nm@49790000@nm@M@nm@
+SE@nm@Aracaju@nm@@nm@M@nm@
+SE@nm@Arauá@nm@49220000@nm@M@nm@
+SE@nm@Areia Branca@nm@49580000@nm@M@nm@
+SE@nm@Barra dos Coqueiros@nm@49140000@nm@M@nm@
+SE@nm@Barracas@nm@49710000@nm@D@nm@
+SE@nm@Boquim@nm@49360000@nm@M@nm@
+SE@nm@Brejo Grande@nm@49995000@nm@M@nm@
+SE@nm@Campo do Brito@nm@49520000@nm@M@nm@
+SE@nm@Canhoba@nm@49880000@nm@M@nm@
+SE@nm@Canindé de São Francisco@nm@49820000@nm@M@nm@
+SE@nm@Capela@nm@49700000@nm@M@nm@
+SE@nm@Carira@nm@49550000@nm@M@nm@
+SE@nm@Carmópolis@nm@49740000@nm@M@nm@
+SE@nm@Cedro de São João@nm@49930000@nm@M@nm@
+SE@nm@Cristinápolis@nm@49270000@nm@M@nm@
+SE@nm@Cumbe@nm@49660000@nm@M@nm@
+SE@nm@Divina Pastora@nm@49650000@nm@M@nm@
+SE@nm@Estância@nm@49200000@nm@M@nm@
+SE@nm@Feira Nova@nm@49670000@nm@M@nm@
+SE@nm@Frei Paulo@nm@49514000@nm@M@nm@
+SE@nm@Gararu@nm@49830000@nm@M@nm@
+SE@nm@General Maynard@nm@49750000@nm@M@nm@
+SE@nm@Graccho Cardoso@nm@49860000@nm@M@nm@
+SE@nm@Ilha das Flores@nm@49990000@nm@M@nm@
+SE@nm@Indiaroba@nm@49250000@nm@M@nm@
+SE@nm@Itabaiana@nm@@nm@M@nm@
+SE@nm@Itabaianinha@nm@49290000@nm@M@nm@
+SE@nm@Itabi@nm@49870000@nm@M@nm@
+SE@nm@Itaporanga D'Ajuda@nm@49120000@nm@M@nm@
+SE@nm@Japaratuba@nm@49960000@nm@M@nm@
+SE@nm@Japoatã@nm@49950000@nm@M@nm@
+SE@nm@Lagarto@nm@49400000@nm@M@nm@
+SE@nm@Lagoa Funda@nm@49835000@nm@D@nm@
+SE@nm@Laranjeiras@nm@49170000@nm@M@nm@
+SE@nm@Macambira@nm@49565000@nm@M@nm@
+SE@nm@Malhada dos Bois@nm@49940000@nm@M@nm@
+SE@nm@Malhador@nm@49570000@nm@M@nm@
+SE@nm@Maruim@nm@49770000@nm@M@nm@
+SE@nm@Miranda@nm@49702000@nm@D@nm@
+SE@nm@Moita Bonita@nm@49560000@nm@M@nm@
+SE@nm@Monte Alegre de Sergipe@nm@49690000@nm@M@nm@
+SE@nm@Muribeca@nm@49780000@nm@M@nm@
+SE@nm@Neópolis@nm@49980000@nm@M@nm@
+SE@nm@Nossa Senhora Aparecida@nm@49540000@nm@M@nm@
+SE@nm@Nossa Senhora da Glória@nm@49680000@nm@M@nm@
+SE@nm@Nossa Senhora das Dores@nm@49600000@nm@M@nm@
+SE@nm@Nossa Senhora de Lourdes@nm@49890000@nm@M@nm@
+SE@nm@Nossa Senhora do Socorro@nm@49160000@nm@M@nm@
+SE@nm@Pacatuba@nm@49970000@nm@M@nm@
+SE@nm@Palmares@nm@49325000@nm@D@nm@
+SE@nm@Pedra Mole@nm@49512000@nm@M@nm@
+SE@nm@Pedras@nm@49704000@nm@D@nm@
+SE@nm@Pedrinhas@nm@49350000@nm@M@nm@
+SE@nm@Pinhão@nm@49517000@nm@M@nm@
+SE@nm@Pirambu@nm@49190000@nm@M@nm@
+SE@nm@Poço Redondo@nm@49810000@nm@M@nm@
+SE@nm@Poço Verde@nm@49490000@nm@M@nm@
+SE@nm@Porto da Folha@nm@49800000@nm@M@nm@
+SE@nm@Propriá@nm@49900000@nm@M@nm@
+SE@nm@Riachão do Dantas@nm@49320000@nm@M@nm@
+SE@nm@Riachuelo@nm@49130000@nm@M@nm@
+SE@nm@Ribeirópolis@nm@49530000@nm@M@nm@
+SE@nm@Rosário do Catete@nm@49760000@nm@M@nm@
+SE@nm@Salgado@nm@49390000@nm@M@nm@
+SE@nm@Samambaia@nm@49310000@nm@D@nm@
+SE@nm@Santa Luzia do Itanhy@nm@49230000@nm@M@nm@
+SE@nm@Santa Rosa de Lima@nm@49640000@nm@M@nm@
+SE@nm@Santana do São Francisco@nm@49985000@nm@M@nm@
+SE@nm@Santo Amaro das Brotas@nm@49180000@nm@M@nm@
+SE@nm@São Cristóvão@nm@49100000@nm@M@nm@
+SE@nm@São Domingos@nm@49525000@nm@M@nm@
+SE@nm@São Francisco@nm@49945000@nm@M@nm@
+SE@nm@São Mateus da Palestina@nm@49840000@nm@D@nm@
+SE@nm@São Miguel do Aleixo@nm@49535000@nm@M@nm@
+SE@nm@Simão Dias@nm@49480000@nm@M@nm@
+SE@nm@Siriri@nm@49630000@nm@M@nm@
+SE@nm@Telha@nm@49910000@nm@M@nm@
+SE@nm@Tobias Barreto@nm@49300000@nm@M@nm@
+SE@nm@Tomar do Geru@nm@49280000@nm@M@nm@
+SE@nm@Umbaúba@nm@49260000@nm@M@nm@

@@ -1,0 +1,4 @@
+.scBtnGrpBackground { background-color: #f5f5f5; border-color: #CFCFCF; border-style: solid; border-width: 1px 1px 1px 1px; border-collapse: collapse; padding: 0; z-index: 99999; text-align: left }
+.scBtnGrpText { background-color: #fff; padding: 4px 35px 4px 15px }
+.scBtnGrpTextOver { background-color: #F0EEEE }
+.scBtnGrpLink { color: #000000; font-family: Arial, sans-serif; font-size: 13px; text-shadow: 12px; text-decoration: none }

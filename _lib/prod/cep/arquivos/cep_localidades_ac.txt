@@ -1,0 +1,23 @@
+AC@nm@Acrelândia@nm@69945000@nm@M@nm@
+AC@nm@Assis Brasil@nm@69935000@nm@M@nm@
+AC@nm@Brasiléia@nm@69932000@nm@M@nm@
+AC@nm@Bujari@nm@69926000@nm@M@nm@
+AC@nm@Campinas@nm@69929000@nm@D@nm@
+AC@nm@Capixaba@nm@69931000@nm@M@nm@
+AC@nm@Cruzeiro do Sul@nm@69980000@nm@M@nm@
+AC@nm@Epitaciolândia@nm@69934000@nm@M@nm@
+AC@nm@Feijó@nm@69960000@nm@M@nm@
+AC@nm@Jordão@nm@69975000@nm@M@nm@
+AC@nm@Mâncio Lima@nm@69990000@nm@M@nm@
+AC@nm@Manoel Urbano@nm@69950000@nm@M@nm@
+AC@nm@Marechal Thaumaturgo@nm@69983000@nm@M@nm@
+AC@nm@Plácido de Castro@nm@69928000@nm@M@nm@
+AC@nm@Porto Acre@nm@69927000@nm@M@nm@
+AC@nm@Porto Walter@nm@69982000@nm@M@nm@
+AC@nm@Rio Branco@nm@@nm@M@nm@
+AC@nm@Rodrigues Alves@nm@69985000@nm@M@nm@
+AC@nm@Santa Rosa do Purus@nm@69955000@nm@M@nm@
+AC@nm@Sena Madureira@nm@69940000@nm@M@nm@
+AC@nm@Senador Guiomard@nm@69925000@nm@M@nm@
+AC@nm@Tarauacá@nm@69970000@nm@M@nm@
+AC@nm@Xapuri@nm@69930000@nm@M@nm@

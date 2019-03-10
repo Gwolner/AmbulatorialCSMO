@@ -1,0 +1,37 @@
+Alfenas@nm@0@nm@
+Araguari@nm@110407@nm@
+Araxá@nm@213450@nm@
+Barbacena@nm@362940@nm@
+Belo Horizonte@nm@472238@nm@
+Betim@nm@1857939@nm@
+Caratinga@nm@2263268@nm@
+Cataguases@nm@2326442@nm@
+Contagem@nm@2386565@nm@
+Coronel Fabriciano@nm@2740805@nm@
+Divinópolis@nm@2835161@nm@
+Governador Valadares@nm@3040955@nm@
+Ipatinga@nm@3268836@nm@
+Itabira@nm@3399900@nm@
+Itajubá@nm@3489497@nm@
+Itaúna@nm@3585584@nm@
+Ituiutaba@nm@3684150@nm@
+João Monlevade@nm@3800561@nm@
+Juiz de Fora@nm@3884521@nm@
+Montes Claros@nm@4213035@nm@
+Nova Lima@nm@4558736@nm@
+Pará de Minas@nm@4698090@nm@
+Passos@nm@4821943@nm@
+Patos de Minas@nm@4922855@nm@
+Patrocínio@nm@5093383@nm@
+Poços de Caldas@nm@5204709@nm@
+Ponte Nova@nm@5393060@nm@
+Ribeirão das Neves@nm@5433025@nm@
+Sabará@nm@5735122@nm@
+Santa Luzia@nm@5828118@nm@
+São João Del Rei@nm@6009951@nm@
+Sete Lagoas@nm@6142258@nm@
+Teófilo Otoni@nm@6384039@nm@
+Timóteo@nm@6517761@nm@
+Uberaba@nm@6586963@nm@
+Uberlândia@nm@6949151@nm@
+Varginha@nm@7375683@nm@

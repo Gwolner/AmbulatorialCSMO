@@ -1,0 +1,225 @@
+PI@nm@Acauã@nm@64748000@nm@M@nm@
+PI@nm@Agricolândia@nm@64440000@nm@M@nm@
+PI@nm@Água Branca@nm@64460000@nm@M@nm@
+PI@nm@Alagoinha do Piauí@nm@64655000@nm@M@nm@
+PI@nm@Alegrete do Piauí@nm@64675000@nm@M@nm@
+PI@nm@Alto Longá@nm@64360000@nm@M@nm@
+PI@nm@Altos@nm@64290000@nm@M@nm@
+PI@nm@Alvorada do Gurguéia@nm@64923000@nm@M@nm@
+PI@nm@Amarante@nm@64400000@nm@M@nm@
+PI@nm@Angical do Piauí@nm@64410000@nm@M@nm@
+PI@nm@Anísio de Abreu@nm@64780000@nm@M@nm@
+PI@nm@Antônio Almeida@nm@64855000@nm@M@nm@
+PI@nm@Aroazes@nm@64310000@nm@M@nm@
+PI@nm@Aroeiras do Itaim@nm@64612000@nm@M@nm@
+PI@nm@Arraial@nm@64480000@nm@M@nm@
+PI@nm@Assunção do Piauí@nm@64333000@nm@M@nm@
+PI@nm@Avelino Lopes@nm@64965000@nm@M@nm@
+PI@nm@Baixa Grande do Ribeiro@nm@64868000@nm@M@nm@
+PI@nm@Barra D'Alcântara@nm@64528000@nm@M@nm@
+PI@nm@Barras@nm@64100000@nm@M@nm@
+PI@nm@Barreiras do Piauí@nm@64990000@nm@M@nm@
+PI@nm@Barro Duro@nm@64455000@nm@M@nm@
+PI@nm@Batalha@nm@64190000@nm@M@nm@
+PI@nm@Bela Vista do Piauí@nm@64705000@nm@M@nm@
+PI@nm@Belém do Piauí@nm@64678000@nm@M@nm@
+PI@nm@Beneditinos@nm@64380000@nm@M@nm@
+PI@nm@Bertolínia@nm@64870000@nm@M@nm@
+PI@nm@Betânia do Piauí@nm@64753000@nm@M@nm@
+PI@nm@Boa Hora@nm@64108000@nm@M@nm@
+PI@nm@Bocaina@nm@64630000@nm@M@nm@
+PI@nm@Bom Jesus@nm@64900000@nm@M@nm@
+PI@nm@Bom Princípio do Piauí@nm@64225000@nm@M@nm@
+PI@nm@Bonfim do Piauí@nm@64775000@nm@M@nm@
+PI@nm@Boqueirão do Piauí@nm@64283000@nm@M@nm@
+PI@nm@Brasileira@nm@64265000@nm@M@nm@
+PI@nm@Brejo do Piauí@nm@64895000@nm@M@nm@
+PI@nm@Buriti dos Lopes@nm@64230000@nm@M@nm@
+PI@nm@Buriti dos Montes@nm@64345000@nm@M@nm@
+PI@nm@Cabeceiras do Piauí@nm@64105000@nm@M@nm@
+PI@nm@Cajazeiras do Piauí@nm@64514000@nm@M@nm@
+PI@nm@Cajueiro da Praia@nm@64222000@nm@M@nm@
+PI@nm@Caldeirão Grande do Piauí@nm@64695000@nm@M@nm@
+PI@nm@Campinas do Piauí@nm@64730000@nm@M@nm@
+PI@nm@Campo Alegre do Fidalgo@nm@64767000@nm@M@nm@
+PI@nm@Campo Grande do Piauí@nm@64578000@nm@M@nm@
+PI@nm@Campo Largo do Piauí@nm@64148000@nm@M@nm@
+PI@nm@Campo Maior@nm@64280000@nm@M@nm@
+PI@nm@Canavieira@nm@64833000@nm@M@nm@
+PI@nm@Canto do Buriti@nm@64890000@nm@M@nm@
+PI@nm@Capitão de Campos@nm@64270000@nm@M@nm@
+PI@nm@Capitão Gervásio Oliveira@nm@64763000@nm@M@nm@
+PI@nm@Caracol@nm@64795000@nm@M@nm@
+PI@nm@Caraúbas do Piauí@nm@64233000@nm@M@nm@
+PI@nm@Caridade do Piauí@nm@64590000@nm@M@nm@
+PI@nm@Castelo do Piauí@nm@64340000@nm@M@nm@
+PI@nm@Caxingó@nm@64228000@nm@M@nm@
+PI@nm@Cocal@nm@64235000@nm@M@nm@
+PI@nm@Cocal de Telha@nm@64278000@nm@M@nm@
+PI@nm@Cocal dos Alves@nm@64238000@nm@M@nm@
+PI@nm@Coivaras@nm@64335000@nm@M@nm@
+PI@nm@Colônia do Gurguéia@nm@64885000@nm@M@nm@
+PI@nm@Colônia do Piauí@nm@64516000@nm@M@nm@
+PI@nm@Conceição do Canindé@nm@64740000@nm@M@nm@
+PI@nm@Coronel José Dias@nm@64793000@nm@M@nm@
+PI@nm@Corrente@nm@64980000@nm@M@nm@
+PI@nm@Cristalândia do Piauí@nm@64995000@nm@M@nm@
+PI@nm@Cristino Castro@nm@64920000@nm@M@nm@
+PI@nm@Curimatá@nm@64960000@nm@M@nm@
+PI@nm@Currais@nm@64905000@nm@M@nm@
+PI@nm@Curral Novo do Piauí@nm@64595000@nm@M@nm@
+PI@nm@Curralinhos@nm@64453000@nm@M@nm@
+PI@nm@Demerval Lobão@nm@64390000@nm@M@nm@
+PI@nm@Dirceu Arcoverde@nm@64785000@nm@M@nm@
+PI@nm@Dom Expedito Lopes@nm@64620000@nm@M@nm@
+PI@nm@Dom Inocêncio@nm@64790000@nm@M@nm@
+PI@nm@Domingos Mourão@nm@64250000@nm@M@nm@
+PI@nm@Elesbão Veloso@nm@64325000@nm@M@nm@
+PI@nm@Eliseu Martins@nm@64880000@nm@M@nm@
+PI@nm@Esperantina@nm@64180000@nm@M@nm@
+PI@nm@Fartura do Piauí@nm@64788000@nm@M@nm@
+PI@nm@Flores do Piauí@nm@64815000@nm@M@nm@
+PI@nm@Floresta do Piauí@nm@64563000@nm@M@nm@
+PI@nm@Floriano@nm@@nm@M@nm@
+PI@nm@Francinópolis@nm@64520000@nm@M@nm@
+PI@nm@Francisco Ayres@nm@64475000@nm@M@nm@
+PI@nm@Francisco Macedo@nm@64683000@nm@M@nm@
+PI@nm@Francisco Santos@nm@64645000@nm@M@nm@
+PI@nm@Fronteiras@nm@64690000@nm@M@nm@
+PI@nm@Geminiano@nm@64613000@nm@M@nm@
+PI@nm@Gilbués@nm@64930000@nm@M@nm@
+PI@nm@Guadalupe@nm@64840000@nm@M@nm@
+PI@nm@Guaribas@nm@64798000@nm@M@nm@
+PI@nm@Hugo Napoleão@nm@64470000@nm@M@nm@
+PI@nm@Ilha Grande@nm@64224000@nm@M@nm@
+PI@nm@Inhuma@nm@64535000@nm@M@nm@
+PI@nm@Ipiranga do Piauí@nm@64540000@nm@M@nm@
+PI@nm@Isaías Coelho@nm@64570000@nm@M@nm@
+PI@nm@Itainópolis@nm@64565000@nm@M@nm@
+PI@nm@Itaueira@nm@64820000@nm@M@nm@
+PI@nm@Jacobina do Piauí@nm@64755000@nm@M@nm@
+PI@nm@Jaicós@nm@64575000@nm@M@nm@
+PI@nm@Jardim do Mulato@nm@64495000@nm@M@nm@
+PI@nm@Jatobá do Piauí@nm@64275000@nm@M@nm@
+PI@nm@Jerumenha@nm@64830000@nm@M@nm@
+PI@nm@João Costa@nm@64765000@nm@M@nm@
+PI@nm@Joaquim Pires@nm@64170000@nm@M@nm@
+PI@nm@Joca Marques@nm@64165000@nm@M@nm@
+PI@nm@José de Freitas@nm@64110000@nm@M@nm@
+PI@nm@Juazeiro do Piauí@nm@64343000@nm@M@nm@
+PI@nm@Júlio Borges@nm@64963000@nm@M@nm@
+PI@nm@Jurema@nm@64782000@nm@M@nm@
+PI@nm@Lagoa Alegre@nm@64138000@nm@M@nm@
+PI@nm@Lagoa de São Francisco@nm@64258000@nm@M@nm@
+PI@nm@Lagoa do Barro do Piauí@nm@64768000@nm@M@nm@
+PI@nm@Lagoa do Piauí@nm@64388000@nm@M@nm@
+PI@nm@Lagoa do Sítio@nm@64308000@nm@M@nm@
+PI@nm@Lagoinha do Piauí@nm@64465000@nm@M@nm@
+PI@nm@Landri Sales@nm@64850000@nm@M@nm@
+PI@nm@Luís Correia@nm@64220000@nm@M@nm@
+PI@nm@Luzilândia@nm@64160000@nm@M@nm@
+PI@nm@Madeiro@nm@64168000@nm@M@nm@
+PI@nm@Manoel Emídio@nm@64875000@nm@M@nm@
+PI@nm@Marcolândia@nm@64685000@nm@M@nm@
+PI@nm@Marcos Parente@nm@64845000@nm@M@nm@
+PI@nm@Massapê do Piauí@nm@64573000@nm@M@nm@
+PI@nm@Matias Olímpio@nm@64150000@nm@M@nm@
+PI@nm@Miguel Alves@nm@64130000@nm@M@nm@
+PI@nm@Miguel Leão@nm@64445000@nm@M@nm@
+PI@nm@Milton Brandão@nm@64253000@nm@M@nm@
+PI@nm@Monsenhor Gil@nm@64450000@nm@M@nm@
+PI@nm@Monsenhor Hipólito@nm@64650000@nm@M@nm@
+PI@nm@Monte Alegre do Piauí@nm@64940000@nm@M@nm@
+PI@nm@Morro Cabeça no Tempo@nm@64968000@nm@M@nm@
+PI@nm@Morro do Chapéu do Piauí@nm@64178000@nm@M@nm@
+PI@nm@Murici dos Portelas@nm@64175000@nm@M@nm@
+PI@nm@Nazaré do Piauí@nm@64825000@nm@M@nm@
+PI@nm@Nazária@nm@64415000@nm@M@nm@
+PI@nm@Nossa Senhora de Nazaré@nm@64288000@nm@M@nm@
+PI@nm@Nossa Senhora dos Remédios@nm@64140000@nm@M@nm@
+PI@nm@Nova Santa Rita@nm@64764000@nm@M@nm@
+PI@nm@Novo Nilo@nm@64125000@nm@P@nm@
+PI@nm@Novo Oriente do Piauí@nm@64530000@nm@M@nm@
+PI@nm@Novo Santo Antônio@nm@64365000@nm@M@nm@
+PI@nm@Oeiras@nm@64500000@nm@M@nm@
+PI@nm@Olho D'Água do Piauí@nm@64468000@nm@M@nm@
+PI@nm@Padre Marcos@nm@64680000@nm@M@nm@
+PI@nm@Paes Landim@nm@64710000@nm@M@nm@
+PI@nm@Pajeú do Piauí@nm@64898000@nm@M@nm@
+PI@nm@Palmeira do Piauí@nm@64925000@nm@M@nm@
+PI@nm@Palmeirais@nm@64420000@nm@M@nm@
+PI@nm@Paquetá@nm@64618000@nm@M@nm@
+PI@nm@Parnaguá@nm@64970000@nm@M@nm@
+PI@nm@Parnaíba@nm@@nm@M@nm@
+PI@nm@Passagem Franca do Piauí@nm@64395000@nm@M@nm@
+PI@nm@Patos do Piauí@nm@64580000@nm@M@nm@
+PI@nm@Pau D'Arco do Piauí@nm@64295000@nm@M@nm@
+PI@nm@Paulistana@nm@64750000@nm@M@nm@
+PI@nm@Pavussu@nm@64838000@nm@M@nm@
+PI@nm@Pedro II@nm@64255000@nm@M@nm@
+PI@nm@Pedro Laurentino@nm@64728000@nm@M@nm@
+PI@nm@Picos@nm@@nm@M@nm@
+PI@nm@Pimenteiras@nm@64320000@nm@M@nm@
+PI@nm@Pio IX@nm@64660000@nm@M@nm@
+PI@nm@Piracuruca@nm@64240000@nm@M@nm@
+PI@nm@Piripiri@nm@64260000@nm@M@nm@
+PI@nm@Porto@nm@64145000@nm@M@nm@
+PI@nm@Porto Alegre do Piauí@nm@64858000@nm@M@nm@
+PI@nm@Prata do Piauí@nm@64370000@nm@M@nm@
+PI@nm@Queimada Nova@nm@64758000@nm@M@nm@
+PI@nm@Redenção do Gurguéia@nm@64915000@nm@M@nm@
+PI@nm@Regeneração@nm@64490000@nm@M@nm@
+PI@nm@Riacho Frio@nm@64975000@nm@M@nm@
+PI@nm@Ribeira do Piauí@nm@64725000@nm@M@nm@
+PI@nm@Ribeiro Gonçalves@nm@64865000@nm@M@nm@
+PI@nm@Rio Grande do Piauí@nm@64835000@nm@M@nm@
+PI@nm@Santa Cruz do Piauí@nm@64545000@nm@M@nm@
+PI@nm@Santa Cruz dos Milagres@nm@64315000@nm@M@nm@
+PI@nm@Santa Filomena@nm@64945000@nm@M@nm@
+PI@nm@Santa Luz@nm@64910000@nm@M@nm@
+PI@nm@Santa Rosa do Piauí@nm@64518000@nm@M@nm@
+PI@nm@Santana do Piauí@nm@64615000@nm@M@nm@
+PI@nm@Santo Antônio de Lisboa@nm@64640000@nm@M@nm@
+PI@nm@Santo Antônio dos Milagres@nm@64438000@nm@M@nm@
+PI@nm@Santo Inácio do Piauí@nm@64560000@nm@M@nm@
+PI@nm@São Braz do Piauí@nm@64783000@nm@M@nm@
+PI@nm@São Félix do Piauí@nm@64375000@nm@M@nm@
+PI@nm@São Francisco de Assis do Piauí@nm@64745000@nm@M@nm@
+PI@nm@São Francisco do Piauí@nm@64550000@nm@M@nm@
+PI@nm@São Gonçalo do Gurguéia@nm@64993000@nm@M@nm@
+PI@nm@São Gonçalo do Piauí@nm@64435000@nm@M@nm@
+PI@nm@São João da Canabrava@nm@64635000@nm@M@nm@
+PI@nm@São João da Fronteira@nm@64243000@nm@M@nm@
+PI@nm@São João da Serra@nm@64350000@nm@M@nm@
+PI@nm@São João da Varjota@nm@64510000@nm@M@nm@
+PI@nm@São João do Arraial@nm@64155000@nm@M@nm@
+PI@nm@São João do Piauí@nm@64760000@nm@M@nm@
+PI@nm@São José do Divino@nm@64245000@nm@M@nm@
+PI@nm@São José do Peixe@nm@64555000@nm@M@nm@
+PI@nm@São José do Piauí@nm@64625000@nm@M@nm@
+PI@nm@São Julião@nm@64670000@nm@M@nm@
+PI@nm@São Lourenço do Piauí@nm@64778000@nm@M@nm@
+PI@nm@São Luís do Piauí@nm@64638000@nm@M@nm@
+PI@nm@São Miguel da Baixa Grande@nm@64378000@nm@M@nm@
+PI@nm@São Miguel do Fidalgo@nm@64558000@nm@M@nm@
+PI@nm@São Miguel do Tapuio@nm@64330000@nm@M@nm@
+PI@nm@São Pedro do Piauí@nm@64430000@nm@M@nm@
+PI@nm@São Raimundo Nonato@nm@64770000@nm@M@nm@
+PI@nm@Sebastião Barros@nm@64985000@nm@M@nm@
+PI@nm@Sebastião Leal@nm@64873000@nm@M@nm@
+PI@nm@Sigefredo Pacheco@nm@64285000@nm@M@nm@
+PI@nm@Simões@nm@64585000@nm@M@nm@
+PI@nm@Simplício Mendes@nm@64700000@nm@M@nm@
+PI@nm@Socorro do Piauí@nm@64720000@nm@M@nm@
+PI@nm@Sussuapara@nm@64610000@nm@M@nm@
+PI@nm@Tamboril do Piauí@nm@64893000@nm@M@nm@
+PI@nm@Tanque do Piauí@nm@64512000@nm@M@nm@
+PI@nm@Teresina@nm@@nm@M@nm@
+PI@nm@União@nm@64120000@nm@M@nm@
+PI@nm@Uruçuí@nm@64860000@nm@M@nm@
+PI@nm@Valença do Piauí@nm@64300000@nm@M@nm@
+PI@nm@Várzea Branca@nm@64773000@nm@M@nm@
+PI@nm@Várzea Grande@nm@64525000@nm@M@nm@
+PI@nm@Vera Mendes@nm@64568000@nm@M@nm@
+PI@nm@Vila Nova do Piauí@nm@64688000@nm@M@nm@
+PI@nm@Wall Ferraz@nm@64548000@nm@M@nm@

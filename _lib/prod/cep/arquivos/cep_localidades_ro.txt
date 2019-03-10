@@ -1,0 +1,84 @@
+RO@nm@Abunã@nm@76843000@nm@D@nm@
+RO@nm@Alta Floresta D'Oeste@nm@76954000@nm@M@nm@
+RO@nm@Alto Alegre dos Parecis@nm@76952000@nm@M@nm@
+RO@nm@Alto Paraíso@nm@76862000@nm@M@nm@
+RO@nm@Alvorada D'Oeste@nm@76930000@nm@M@nm@
+RO@nm@Ariquemes@nm@@nm@M@nm@
+RO@nm@Boa Vista de Pacarana@nm@76975810@nm@D@nm@
+RO@nm@Bom Futuro@nm@76879400@nm@D@nm@
+RO@nm@Bom Jesus@nm@76897880@nm@D@nm@
+RO@nm@Buritis@nm@76880000@nm@M@nm@
+RO@nm@Cabixi@nm@76994000@nm@M@nm@
+RO@nm@Cacaulândia@nm@76889000@nm@M@nm@
+RO@nm@Cacoal@nm@@nm@M@nm@
+RO@nm@Calama@nm@76837000@nm@D@nm@
+RO@nm@Campo Novo de Rondônia@nm@76887000@nm@M@nm@
+RO@nm@Candeias do Jamari@nm@76860000@nm@M@nm@
+RO@nm@Castanheiras@nm@76948000@nm@M@nm@
+RO@nm@Cerejeiras@nm@76997000@nm@M@nm@
+RO@nm@Chupinguaia@nm@76990000@nm@M@nm@
+RO@nm@Colorado do Oeste@nm@76993000@nm@M@nm@
+RO@nm@Corumbiara@nm@76995000@nm@M@nm@
+RO@nm@Costa Marques@nm@76937000@nm@M@nm@
+RO@nm@Cujubim@nm@76864000@nm@M@nm@
+RO@nm@Demarcação@nm@76839000@nm@D@nm@
+RO@nm@Espigão do Oeste@nm@76974000@nm@M@nm@
+RO@nm@Extrema@nm@76847000@nm@D@nm@
+RO@nm@Fortaleza do Abunã@nm@76845000@nm@D@nm@
+RO@nm@Governador Jorge Teixeira@nm@76898000@nm@M@nm@
+RO@nm@Guajará-Mirim@nm@76850000@nm@M@nm@
+RO@nm@Guaporé@nm@76992000@nm@D@nm@
+RO@nm@Industrial@nm@76835500@nm@D@nm@
+RO@nm@Itapuã do Oeste@nm@76861000@nm@M@nm@
+RO@nm@Jaci Paraná@nm@76840000@nm@D@nm@
+RO@nm@Jaru@nm@76890000@nm@M@nm@
+RO@nm@Ji-Paraná@nm@@nm@M@nm@
+RO@nm@Machadinho D'Oeste@nm@76868000@nm@M@nm@
+RO@nm@Marco Rondon@nm@76973000@nm@D@nm@
+RO@nm@Ministro Andreazza@nm@76919000@nm@M@nm@
+RO@nm@Mirante da Serra@nm@76926000@nm@M@nm@
+RO@nm@Monte Negro@nm@76888000@nm@M@nm@
+RO@nm@Mutum Paraná@nm@76842000@nm@D@nm@
+RO@nm@Nazaré@nm@76836000@nm@D@nm@
+RO@nm@Nova Brasilândia D'Oeste@nm@76958000@nm@M@nm@
+RO@nm@Nova Califórnia@nm@76848000@nm@D@nm@
+RO@nm@Nova Colina@nm@76915000@nm@D@nm@
+RO@nm@Nova Conquista@nm@76989001@nm@D@nm@
+RO@nm@Nova Dimensão@nm@76858001@nm@D@nm@
+RO@nm@Nova Esperança@nm@76975820@nm@D@nm@
+RO@nm@Nova Londrina@nm@76915500@nm@D@nm@
+RO@nm@Nova Mamoré@nm@76857000@nm@M@nm@
+RO@nm@Nova União@nm@76924000@nm@M@nm@
+RO@nm@Nova Vida@nm@76879000@nm@D@nm@
+RO@nm@Novo Horizonte do Oeste@nm@76956000@nm@M@nm@
+RO@nm@Ouro Preto do Oeste@nm@76920000@nm@M@nm@
+RO@nm@Palmeiras@nm@76859000@nm@D@nm@
+RO@nm@Parecis@nm@76979000@nm@M@nm@
+RO@nm@Pedras Negras@nm@76936000@nm@D@nm@
+RO@nm@Pimenta Bueno@nm@76970000@nm@M@nm@
+RO@nm@Pimenteiras do Oeste@nm@76999000@nm@M@nm@
+RO@nm@Porto Velho@nm@@nm@M@nm@
+RO@nm@Presidente Médici@nm@76916000@nm@M@nm@
+RO@nm@Primavera de Rondônia@nm@76976000@nm@M@nm@
+RO@nm@Príncipe da Beira@nm@76939000@nm@D@nm@
+RO@nm@Rio Crespo@nm@76863000@nm@M@nm@
+RO@nm@Riozinho@nm@76969000@nm@D@nm@
+RO@nm@Rolim de Moura@nm@76940000@nm@M@nm@
+RO@nm@Santa Cruz@nm@76897870@nm@D@nm@
+RO@nm@Santa Luzia D'Oeste@nm@76950000@nm@M@nm@
+RO@nm@São Carlos@nm@76835000@nm@D@nm@
+RO@nm@São Felipe D'Oeste@nm@76977000@nm@M@nm@
+RO@nm@São Francisco do Guaporé@nm@76935000@nm@M@nm@
+RO@nm@São Miguel do Guaporé@nm@76932000@nm@M@nm@
+RO@nm@Seringueiras@nm@76934000@nm@M@nm@
+RO@nm@Tabajara@nm@76869000@nm@D@nm@
+RO@nm@Tarilândia@nm@76897890@nm@D@nm@
+RO@nm@Teixeirópolis@nm@76928000@nm@M@nm@
+RO@nm@Theobroma@nm@76866000@nm@M@nm@
+RO@nm@Triunfo@nm@76860890@nm@D@nm@
+RO@nm@União Bandeirante@nm@76841000@nm@P@nm@
+RO@nm@Urupá@nm@76929000@nm@M@nm@
+RO@nm@Vale do Anari@nm@76867000@nm@M@nm@
+RO@nm@Vale do Paraíso@nm@76923000@nm@M@nm@
+RO@nm@Vilhena@nm@76980000@nm@M@nm@
+RO@nm@Vista Alegre do Abunã@nm@76846000@nm@D@nm@

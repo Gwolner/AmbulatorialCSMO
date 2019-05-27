@@ -6,7 +6,7 @@ Sistema de saúde ambulatórial desenvolvido durante estágio no Depart. de Gest
 
 Todas as operações de registro e consulta do CSMO eram realizados através de fichas e cartões impressos. Com objetivo de reduzir o volume de papeis gastos nestas operações, bem como organziar e proteger as transações realizadas pela coordenação de saúde, foi solicitado ao DGTI um sistema que otimizasse estas questões.
 
-##Banco de Dados
+## Banco de Dados
 
 O SGBD  utilizado foi o MySQL, manipulado através do MySQL Workbench 6.3 CE tanto para elaborar o modelo relacional como criar o BD que comportará os dados do sistema. O código do BD encontra-se no diretório "\BD_CSMO". 
 

@@ -1,4 +1,4 @@
-# Sistema CSMO
+# Sistema ambulatórial CSMO
 
 Sistema de saúde ambulatórial desenvolvido durante estágio no Depart. de Gestão de Tecnologia da Informação (DGTI) do IFPE campus Recife para a Coordenação do Serviço Médico e Odontológico (CSMO) do mesmo campus.
 

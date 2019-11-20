@@ -6,21 +6,13 @@ Sistema de saúde ambulatórial desenvolvido durante estágio no Depart. de Gest
 
 Todas as operações de registro e consulta do CSMO eram realizados através de fichas e cartões impressos. Com objetivo de reduzir o volume de papeis gastos nestas operações, bem como organziar e proteger as transações realizadas pela coordenação de saúde, foi solicitado ao DGTI um sistema que otimizasse estas questões.
 
+## Ferramentas utilizadas
+
+Para elaborar este sistema foi utilizado o Scriptcase v8.0, ambiente de desenvolvimento focado em PHP. Como ferramentas auxiliares foram utilizados Notepad++ e o XAMPP, para aprendizado da linguagem PHP. Também foram utilizados o GIMP para manipulação de imagens específicas, Visual Studio Code para manipulação e análise de arquivos HTML, Javascript e CSS, usados de forma auxiliar ao Scriptcase, além do Mozilla Firefox e Google Chrome para testes de compatibilidade entre navegadores.
+
 ## Banco de Dados
 
 O SGBD  utilizado foi o MySQL, manipulado através do MySQL Workbench 6.3 CE tanto para elaborar o modelo relacional como criar o BD que comportará os dados do sistema. O código do BD encontra-se no diretório "\BD_CSMO". 
-
-## Recursos
-
-Para elaborar este sistema foi utilizado o Scriptcase v8.0, ambiente de desenvolvimento focado em PHP. Como ferramentas auxiliares foram utilizados Notepad++ e o XAMPP, para aprendizado da linguagem PHP. Também foram utilizados o GIMP para manipulação de imagens específicas, Visual Studio Code para manipulação e análise de arquivos HTML, Javascript e CSS, usados de forma auxiliar ao Scriptcase, além dos navegadores Mozilla Firefox e Google Chrome para testes de compatibilidade com o sistema.
-
-## Adaptação
-
-Os documentos emitidos tiveram seu layout original removidos para preservar o padrão da documentação Federal adotada pelas coordenações de saúde dos Institutos Federais. Em seu lugar é exibido um fundo branco para que seja possível demosntrar a funcionalidade da ferramenta.
-
-## Sigilo de dados
-
-Os campos de Evolução e Conduta, seja médica ou odontológica, são criptografados no BD para preservar o sigilo médico-paciente. A criptografia ocorre no próprio sistema, que em seguida armazena os dados em foram de letras e numeros aleatórios. De forma inversa, a decodificação também ocorre no sistema, ficando legível apenas nos campos mencionados acima.
 
 ## Funcionalidades
 
@@ -37,6 +29,16 @@ O sistema possibilita:
 * Preencher odontograma (Status do dente e das faces, Histórico do paciente e  Anotações);
 * Emitir documentos (Atestados, Receituário, Declaração, Ficha de acompanhamento, Licença para tratamento e Licença de acompanhamento familiar);
 * Alterar e-mail e senha dos usuários.
+
+## Políticas de privacidade
+
+### Adaptação
+
+Os documentos emitidos tiveram seu layout original removidos para preservar o padrão da documentação Federal adotada pelas coordenações de saúde dos Institutos Federais. Em seu lugar é exibido um fundo branco para que seja possível demonstrar a funcionalidade da ferramenta.
+
+### Sigilo de dados
+
+Os campos de Evolução e Conduta, seja médica ou odontológica, são criptografados no BD para preservar o sigilo médico-paciente. A criptografia ocorre no próprio sistema, que em seguida armazena os dados em foram de letras e numeros aleatórios. De forma inversa, a decodificação também ocorre no sistema, ficando legível apenas nos campos mencionados acima.
 
 ## Agradecimentos
 
